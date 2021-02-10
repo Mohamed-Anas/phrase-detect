@@ -1,0 +1,1002 @@
+ID	Value
+TMED1	மலைய\JJ நத்தம்\N_NNP ஓர்\JJ அழகிய\JJ சிற்றூர்\N_NN .\RD_PUNC இயற்கை\N_NN வளம்\N_NN செறிந்தது\V_VM_VF .\RD_PUNC அவ்வூரில்\N_NN சொக்கநாதர்\N_NNP என்ற\CC_CCS_UT புலவர்\N_NN இருந்தார்\V_VM .\RD_PUNC அவர்\PR_PRP பல\QT_QTF நற்குணங்களை\N_NN உடையவர்\V_VM_VF
+TMED10	உடனே\PR_PRP புலி\N_NN ,\RD_PUNC ``\RD_PUNC ``\RD_PUNC செய்நன்றி\N_NN கொன்றவனுக்கு\V_VM_VNF மன்னிப்பே\N_NN கிடையாது\V_VM_VF ,\RD_PUNC என்னை\PR_PRP நம்புங்கள்\V_VM_VF .\RD_PUNC நான்\PR_PRP சத்தியமாக\RB உங்களுக்கு\PR_PRP எவ்வித\JJ தீங்கும்\N_NN செய்யமாட்டேன்\V_VM_VF .\RD_PUNC
+TMED100	கிரேக்க\JJ நாட்டுப்\N_NN பெண்களிலேயே\N_NN பேரழகியாகப்\RB போற்றப்படுபவள்\N_NNV இளவரசியான\JJ அட்லாண்டா\N_NNP என்பவள்\V_VM_VF .\RD_PUNC
+TMED1000	ஏன்\N_NNP இப்போதும்\N_NST கூட\PSP !\RD_PUNC அவரைப்\PR_PRP போன்று\PSP ஒரு\JJ அறிவியல்\N_NN சம்பந்தப்பட்ட\JJ கதைகள்\N_NN யாராலும்\PR_PRQ எழுத\V_VM_VINF முடியுமா\V_VAUX ?\RD_PUNC இலக்கியம்\N_NN என்று\CC_CCS_UT எதைச்\PR_PRP சொல்கின்றார்\V_VM_VF ?\RD_PUNC
+TMED101	கிரேக்கப்\N_NNP புராணங்களின்படி\N_NN அவள்\PR_PRP பெரும்\JJ ஆற்றல்\N_NN பெற்றிருந்தாள்\V_VM_VNF எனக்\CC_CCS_UT கூறப்படுகிறது\V_VM_VF .\RD_PUNC இவளது\PR_PRP தந்தை\N_NN தனக்கு\PR_PRP ஆண்\N_NN மகன்\N_NN பிறக்க\V_VM_VINF வேண்டுமென\V_VM_VNF மிகுந்த\JJ ஆசையோடிருந்தான்\V_VM .\RD_PUNC
+TMED102	தந்தைக்கு\N_NN ஏமாற்றத்தைத்\N_NN தந்து\V_VM_VNF பெண்ணாகப்\RB பிறந்த\JJ அட்லாண்டா\N_NNP ,\RD_PUNC பிறந்ததும்\V_VM_VNF மலையிலே\N_NN கொண்டு\PSP சென்று\V_VM_VNF விடப்பட்டாள்\V_VM_VF .\RD_PUNC
+TMED103	அங்கே\N_NST அவள்\PR_PRP பெண்\N_NN கரடி\N_NN ஒன்றால்\QT_QTO வளர்க்கப்\V_VM_VINF பெற்றாள்\V_VM_VF .\RD_PUNC காட்டிற்கு\N_NN வேட்டையாட\V_VM_VINF வந்த\V_VM_VNF சிலர்\QT_QTF குழந்தையைக்\N_NN கண்டு\V_VM_VNF ,\RD_PUNC தங்கள்\PR_PRP வீட்டிற்கு\N_NN எடுத்துச்\V_VM_VNF சென்றனர்\V_VM_VF .\RD_PUNC
+TMED104	அட்லாண்டா\N_NNP பெரியவளாக\RB வளர்ந்தபின்\V_VM_VNF ,\RD_PUNC தனது\PR_PRP தந்தையின்\N_NN அவைக்களத்தை\N_NN அடைந்தாள்\V_VM_VF .\RD_PUNC அரசனுக்கு\N_NN வேறு\JJ சந்ததி\N_NN எதுவும்\PR_PRQ இல்லாமையால்\V_VM_VNF மீண்டும்\RB ஏற்றுக்\V_VM_VNF கொண்டதுடன்\V_VM_VNF திருமணத்திற்கும்\N_NN ஏற்பாடு\N_NN செய்தான்\V_VM_VF .\RD_PUNC
+TMED105	அழகில்\N_NN சிறந்து\V_VM_VNF விளங்கிய\V_VM_VINF அட்லாண்டாவை\N_NNP மணக்கப்\V_VM_VINF பல\QT_QTF இளைஞர்கள்\N_NN போட்டி\N_NN போட்டுக்\V_VM_VNF கொண்டு\PSP முன்\PSP வந்தனர்\V_VM_VF .\RD_PUNC
+TMED106	ஆனால்\CC_CCS ,\RD_PUNC அட்லாண்டா\N_NNP தன்னை\PR_PRP ஓட்டப்\N_NN பந்தயத்தில்\N_NN வெல்பவனையே\N_NNV திருமணம்\N_NN செய்து\V_VM_VNF கொள்வதாக\RB அறிவித்தாள்\V_VM_VF .\RD_PUNC
+TMED107	அந்தப்\DM_DMD போட்டியில்\N_NN கலந்து\V_VM_VNF கொண்டு\PSP தோல்வியடைவோர்\N_NN தங்கள்\PR_PRP உயிரையும்\N_NN இழக்க\V_VM_VINF வேண்டும்\V_VM_VNF எனவும்\CC_CCS_UT நிபந்தனை\N_NN விதித்தாள்\V_VM_VF .\RD_PUNC
+TMED108	அவளது\PR_PRP அழகில்\N_NN மனதைப்\N_NN பறி\N_NN கொடுத்த\JJ இளைஞர்\N_NN பலர்\QT_QTF ஓட்டப்\N_NN பந்தயத்தில்\N_NN கலந்துக்கொள்ள\V_VM_VNF முன்\PSP வந்து\V_VM_VNF தோல்வி\N_NN கண்டு\V_VM_VNF உயிரையும்\N_NN இழந்தனர்\V_VM_VF .\RD_PUNC
+TMED109	கடைசியாக\RB வீனஸ்\N_NN என்ற\CC_CCS_UT பெண்\N_NN தெய்வத்தின்\N_NN அருள்\N_NN பெற்ற\JJ ஒருவன்\QT_QTO அட்லாண்டாவுடன்\N_NNP ஓட்டப்\N_NN பந்தயத்தில்\N_NN கலந்து\V_VM_VNF கொள்வதாக\RB அறிவித்தான்\V_VM_VF
+TMED11	என்னை\PR_PRF விடுவித்து\V_VM_VNF விட்டால்\V_VM_VNF ,\RD_PUNC நான்\PR_PRP காட்டில்\N_NN ஓடிப்\V_VM_VNF போய்\V_VM_VNF விடுவேன்\V_VAUX .\RD_PUNC தயவு\N_NN செய்து\V_VM_VNF என்\PR_PRP மீது\PSP இரக்கம்\N_NN காட்டு\V_VM_VF `\RD_PUNC `\RD_PUNC என்றது\N_NN .\RD_PUNC
+TMED110	போட்டியும்\N_NN தொடங்கியது\V_VM_VF .\RD_PUNC அட்லாண்டாவும்\N_NNP அந்த\DM_DMD இளைஞனும்\N_NN ஓடத்\V_VM_VINF தொடங்கினர்\V_VM_VF .\RD_PUNC வழக்கம்\N_NN போலவே\PSP அட்லாண்டா\N_NNP முன்னே\N_NST ஓடிக்\V_VM_VNF கொண்டிருந்தாள்\V_VAUX .\RD_PUNC
+TMED111	அந்த\DM_DMD வேளையில்\N_NN அவளுக்கு\PR_PRP முன்\N_NST ஒரு\JJ பொன்னாலான\JJ ஆப்பிள்\N_NN பழம்\N_NN உருண்டு\V_VM_VNF செல்வதைக்\V_VM_VNG கண்டாள்\V_VM_VF .\RD_PUNC
+TMED112	அப்பொற்கனியைக்\N_NN கண்ட\JJ அட்லாண்டாவுக்கு\N_NNP அதன்\PR_PRP மீது\PSP ஆசை\N_NN உண்டாயிற்று\V_VM_VF .\RD_PUNC ஓடுவதை\V_VM_VNG நிறுத்திவிட்டுக்\V_VM_VNF கனியைக்\N_NN குனிந்தெடுத்தாள்\V_VM_VF .\RD_PUNC
+TMED113	அட்லாண்டா\N_NNP கனியை\N_NN எடுக்கக்\V_VM_VINF குனிந்த\V_VM_VNF போது\PSP இளைஞன்\N_NN முந்திச்\RB சென்றானாயினும்\V_VM_VNF மறுபடியும்\RB அவளே\PR_PRP முந்தி\RB ஓடினாள்\V_VM_VF .\RD_PUNC
+TMED114	அட்லாண்டாவின்\N_NNP முன்பு\N_NST இன்னொரு\JJ பொற்கனியும்\N_NN உருண்டது\V_VM_VF .\RD_PUNC அதையும்\PR_PRP அவள்\PR_PRP எடுத்தாள்\V_VM_VF .\RD_PUNC
+TMED115	பந்தயம்\N_NN முடியும்\V_VM_VNF தறுவாயில்\V_VM_VNF மீண்டும்\RB ஒரு\JJ கனி\N_NN உருண்டு\V_VM_VNF வந்தது\V_VM_VF .\RD_PUNC அதையும்\PR_PRP அவளால்\PR_PRP விட\PSP மனம்\N_NN வரவில்லை\V_VAUX .\RD_PUNC
+TMED116	ஆனால்\CC_CCS ,\RD_PUNC மூன்றாவது\QT_QTO கனியை\N_NN எடுக்க\V_VM_VINF அவள்\PR_PRP முனைந்த\JJ வேளையில்\N_NN பந்தயம்\N_NN இறுதிக்\N_NN கட்டத்தில்\N_NN இருந்தது\V_VM .\RD_PUNC
+TMED117	ஆகையால்\CC_CCS ,\RD_PUNC இளைஞன்\N_NN முந்தி\RB ஓடிப்\V_VM_VNF பந்தயத்தில்\N_NN வெற்றி\N_NN கண்டான்\V_VM_VF .\RD_PUNC இந்த\DM_DMD மூன்று\QT_QTC பொற்கனிகளையும்\N_NN உருட்டி\V_VM_VNF விட்டவன்\N_NNV அந்த\DM_DMD இளைஞனே\N_NN தான்\RP_RPD .\RD_PUNC
+TMED118	அவை\PR_PRP ,\RD_PUNC வீனஸ்\N_NNP பெண்\N_NN தெய்வத்தால்\N_NN அவனுக்கு\PR_PRP அளிக்கப்பட்டவை\V_VM_VF .\RD_PUNC ஓட்டப்\N_NN பந்தயத்தில்\N_NN தன்னை\PR_PRP வெற்றி\N_NN கண்ட\JJ அட்லாண்டா\N_NNP தனது\PR_PRP அறிவிப்பின்படி\N_NN அந்த\DM_DMD இளைஞனையே\N_NN திருமணம்\N_NN செய்து\V_VM_VNF கொண்டாள்\V_VM_VF
+TMED119	ஒரு\JJ சமயம்\N_NN விஜயநகர\JJ ராஜ்யத்தில்\N_NN கடும்\JJ வறட்சி\N_NN ஏற்பட்டது\V_VM_VF .\RD_PUNC பருவ\N_NN மழை\N_NN தவறிவிட்டதால்\V_VM_VNF குளம்\N_NN ,\RD_PUNC குட்டை,\N_NN ஏரி\N_NN எல்லாம்\N_NN வற்றிவிட்டது\V_VAUX .\RD_PUNC
+TMED12	புலவர்\N_NN புலியை\N_NN நம்பினார்\V_VM_VF .\RD_PUNC அருகில்\N_NST சென்று\V_VM_VNF முன்னுள்ள\JJ கதவைத்\N_NN தூக்கினார்\V_VM_VF .\RD_PUNC புலி\N_NN சீற்றத்துடன்\V_VM_VNF வெளியே\N_NST வந்தது\V_VM_VF .\RD_PUNC
+TMED120	தெனாலிராமன்\N_NNP வீட்டுக்\N_NN ...\RD_PUNC கிணற்றிலும்\N_NN நீர்\N_NN குறைந்து\V_VM_VNF அதிக\JJ ஆழத்திற்குப்\N_NN போய்விட்டது\V_VAUX .\RD_PUNC இதனால்\CC_CCS தினமும்\N_NST தோட்டத்திற்கு\N_NN தண்ணீர்\N_NN பாய்ச்ச\V_VM_VINF மிகவும்\RP_INTF சிரமப்பட்டான்\V_VM_VF தெனாலிராமன்\N_NNP .\RD_PUNC
+TMED121	இந்த\DM_DMD சமயத்தில்\N_NN ஒரு\JJ நாள்\N_NN இரவு\N_NN நான்கு\QT_QTC திருடர்கள்\N_NN தன்\PR_PRP தோட்டத்தில்\N_NN பதுங்கி\V_VM_VNF இருப்பதைக்\V_VM_VNG கண்டான்\V_VM_VF .\RD_PUNC
+TMED122	உடனே\PR_PRP வீட்டிற்கு\N_NN வந்து\V_VM_VNF தன்\PR_PRP மனைவியிடம்\N_NN ,\RD_PUNC ``\RD_PUNC அடியே\N_NN ,\RD_PUNC நம்\PR_PRP நாட்டில்\N_NN பருவ\JJ மழை\N_NN தவறிவிட்டதால்\V_VM_VNF ,\RD_PUNC பஞ்சம்\N_NN ஏற்பட்டு\V_VM_VNF விட்டது\V_VAUX .\RD_PUNC
+TMED123	எனவே\CC_CCS_UT நிறைய\JJ திருட்டு\N_NN நடக்க\V_VM_VINF ஆரம்பித்து\V_VM_VNF விட்டது\V_VAUX .\RD_PUNC பஞ்ச\JJ காலம்\N_NN முடியும்\V_VM_VNF வரை\PSP நாம்\PR_PRP மிகவும்\RP_INTF ஜாக்கிரதையாக\RB இருக்கவேண்டும்\V_VAUX .\RD_PUNC
+TMED124	எனவே\CC_CCS_UT நாம்\PR_PRP ஒரு\JJ காரியம்\N_NN செய்வோம்\V_VM_VNF ``\RD_PUNC என்று\CC_CCS_UT வெளியே\N_NST பதுங்கியிருந்த\V_VM_VNF திருடர்களுக்கு\N_NN கேட்கும்\JJ வண்ணம்\N_NN உரத்த\JJ குரலில்\N_NN பேசினான்\V_VM_VF .\RD_PUNC
+TMED125	``\RD_PUNC அதற்கு\PR_PRP என்ன\PR_PRQ செய்யலாம்\V_VM_VNF ?\RD_PUNC ``\RD_PUNC என்று\CC_CCS_UT தெனாலிராமனின்\N_NNP மனைவி\N_NN கேட்டாள்\V_VM_VF .\RD_PUNC
+TMED126	``\RD_PUNC வீட்டிலுள்ள\JJ நகை\N_NN ,\RD_PUNC மற்றும்\CC_CCD விலையுயர்ந்த\JJ பொருட்களை\N_NN எல்லாம்\N_NN இந்தப்\DM_DMD பெட்டியில்\N_NN போட்டு\V_VM_VNF பூட்டு\N_NN .\RD_PUNC
+TMED127	நாம்\PR_PRP இந்தப்\DM_DMD பெட்டியை\N_NN யாருக்கும்\PR_PRQ தெரியாமல்\V_VM_VNF கிணற்றில்\N_NN போட்டு\V_VM_VNF விடலாம்\V_VAUX .\RD_PUNC
+TMED128	பஞ்சம்\N_NN தீர்ந்து\V_VM_VNF திருட்டுப்\N_NN பயம்\N_NN ஒழிந்ததும்\V_VM_VNF மீண்டும்\RB கிணற்றில்\N_NN இருந்து\PSP எடுத்துக்\V_VM_VNF கொள்ளலாம்\V_VM_VNF ``\RD_PUNC என்று\CC_CCS_UT முன்\N_NST போலவே\PSP உரக்கக்\V_VM_VINF கூறினான்\V_VM_VF தெனாலிராமன்\N_NNP .\RD_PUNC திருடர்களும்\N_NN இதைக்\PR_PRP கேட்டனர்\V_VM_VF .\RD_PUNC
+TMED129	அதே\PR_PRP சமயம்\N_NN ரகசியமாக\RB தெனாலிராமன்\N_NNP தன்\PR_PRP மனைவியிடம்\N_NN திருடர்கள்\N_NN ஒளிந்திருப்பதைக்\V_VM_VNG கூறி\V_VM_VNF ஒரு\JJ பழைய\JJ பெட்டியில்\N_NN கல்\N_NN ,\RD_PUNC மண்\N_NN ,\RD_PUNC பழைய\JJ பொருட்களை\N_NN எல்லாம்\N_NN போட்டு\V_VM_VNF மூடினான்\V_VM_VF
+TMED13	கூண்டிற்குள்\N_NN அடைப்பட்டிருந்த\V_VM_VNF புலிக்கு\N_NN நல்ல\JJ பசி\N_NN .\RD_PUNC புலவரை\N_NN கொல்ல\V_VM_VINF முற்பட்டது\V_VM_VF .\RD_PUNC புலவர்\N_NN தடுத்து\V_VM_VNF புலியின்\N_NN வாக்கை\N_NN நினைவூட்டினார்\V_VM_VF .\RD_PUNC
+TMED130	அந்தப்\DM_DMD பெட்டியைத்\N_NN தூக்க\V_VM_VINF முடியாமல்\V_VM_VNF தூக்கி\V_VM_VNF வந்து\V_VM_VNF கிணற்றுக்குள்\N_NN `\RD_PUNC தொப்பென்று\N_NN `\RD_PUNC போட்டு\V_VM_VNF விட்டு\PSP வீட்டுக்கு\N_NN திரும்பிவிட்டான்\V_VAUX தெனாலிராமன்\N_NNP .\RD_PUNC
+TMED131	திருடர்களும்\N_NN ,\RD_PUNC \RD_PUNC தெனாலிராமன்\N_NNP ,\RD_PUNC வீட்டிற்குள்\N_NN புகுந்து\V_VM_VNF திருடும்\N_NN நம்\PR_PRP வேலையை\N_NN சுலபமாக்கிவிட்டான்\V_VAUX .\RD_PUNC நாம்\PR_PRP எளிதாக\RB கிணற்றில்\N_NN இருந்து\PSP பெட்டியை\N_NN எடுத்துக்\V_VM_VNF கொள்ளலாம்\V_VM_VNF \RD_PUNC என்று\CC_CCS_UT தங்களுக்குள்\PR_PRP பேசிக்\V_VM_VNF கொண்டனர்\V_VM_VF
+TMED132	பெட்டியை\N_NN எடுக்க\V_VM_VINF கிணற்றுக்கு\N_NN அருகே\N_NST வந்தனர்\V_VM_VF திருடர்கள்\N_NN .\RD_PUNC
+TMED133	கிணறு\N_NN ஆழமாக\RB இருந்ததால்\V_VM_VNF உள்ளே\N_NST இறங்கப்\V_VM_VINF பயந்த\V_VM_VNF திருடன்\N_NN ஒருவன்\QT_QTC ,\RD_PUNC ``\RD_PUNC அண்ணே\N_NN !\RD_PUNC தண்ணீர்\N_NN குறைவாகத்\RB தான்\RP_RPD உள்ளது\V_VM_VF .\RD_PUNC
+TMED134	நாம்\PR_PRP நால்வரும்\QT_QTO ஏற்றம்\N_NN மூலம்\PSP மாற்றி\V_VM_VNF மாற்றி\V_VM_VNF நீரை\N_NN இறைத்து\V_VM_VNF விட்டால்\V_VM_VNF சுலபமாகப்\RB பெட்டியை\N_NN எடுத்துக்\V_VM_VNF கொண்டு\PSP போகலாம்\V_VM_VNF ``\RD_PUNC என்று\CC_CCS_UT கூறினான்\V_VM_VF .\RD_PUNC
+TMED135	அதைக்\PR_PRP கேட்ட\JJ மற்றவர்களும்\N_NN அவன்\PR_PRP திட்டத்துக்கு\N_NN ஒப்புக்கொண்டனர்\V_VM_VF .\RD_PUNC அதன்படி\N_NN ஒருவர்\QT_QTO மாற்றி\V_VM_VNF ஒருவர்\QT_QTO ஏற்றம்\N_NN மூலம்\PSP நீர்\N_NN இறைக்கத்\V_VM_VINF தொடங்கினர்\V_VM_VF .\RD_PUNC
+TMED136	சற்று\JJ நேரம்\N_NN கழித்து\V_VM_VNF வேறு\JJ வழியாக\RB தோட்டத்திற்கு\N_NN சென்ற\JJ தெனாலிராமன்\N_NNP ,\RD_PUNC திருடர்கள்\N_NN இறைத்து\V_VM_VNF ஊற்றிய\V_VM_VNF நீரை\N_NN தன்\PR_PRP தோட்டத்தில்\N_NN உள்ள\JJ செடிகளுக்கும்\N_NN ,\RD_PUNC கொடிகளுக்கும்\N_NN ,\RD_PUNC பயிர்களுக்கும்\N_NN பாயுமாறு\V_VM_VNF கால்வாயைத்\N_NN திருப்பிவிட்டான்\V_VM_VNF .\RD_PUNC
+TMED137	இப்படியே\RB பொழுது\PSP விடிந்துவிட்டது\V_VAUX .\RD_PUNC ஆனால்\CC_CCS கிணற்றில்\N_NN தண்ணீர்\N_NN குறையவில்லை\V_VM .\RD_PUNC
+TMED138	இதனால்\CC_CCS திருடர்களும்\N_NN ,\RD_PUNC ``\RD_PUNC நாளை\N_NN இரவு\N_NN மீண்டும்\RB வந்து\V_VM_VNF நீரை\N_NN இறைத்து\V_VM_VNF விட்டு\PSP பெட்டியை\N_NN எடுத்துக்\V_VM_VNF கொள்ளலாம்\V_VM_VNF ``\RD_PUNC என்று\CC_CCS_UT பேசிக்\V_VM_VNF கொண்டு\PSP சென்றனர்\V_VM_VF .\RD_PUNC
+TMED139	அப்போது\N_NST தோட்டத்தில்\N_NN இருந்து\PSP வந்த\V_VM_VNF தெனாலிராமன்\N_NNV அவர்களைப்\PR_PRP பார்த்து\V_VM_VNF ,\RD_PUNC ``\RD_PUNC நாளைக்கு\N_NN வரவேண்டாம்\V_VAUX
+TMED14	.\RD_PUNC ``\RD_PUNC ``\RD_PUNC நீ\PR_PRP சத்தியத்தை\N_NN மீறுகிறாய்\V_VM_VF `\RD_PUNC `\RD_PUNC என்றார்\V_VM_VF .\RD_PUNC ``\RD_PUNC ``\RD_PUNC யாரேனும்\PR_PRQ நான்கு\QT_QTC நடுவரிடம்\N_NN சென்று\V_VM_VNF சொல்வோம்\V_VM_VF .\RD_PUNC அவர்களில்\PR_PRP பெரும்பாலோர்\JJ என்ன\PR_PRQ சொல்கிறாரோ\V_VM_VNF அதன்படி\PR_PRP நடப்போம்\V_VM_VNF `\RD_PUNC `\RD_PUNC என்றார்\V_VM_VF .\RD_PUNC
+TMED140	நீங்கள்\PR_PRP இறைத்த\JJ தண்ணீர்\N_NN இன்னும்\RB மூன்று\QT_QTC தினங்களுக்குப்\N_NN போதும்\V_VM_VF .\RD_PUNC
+TMED141	எனவே\CC_CCS மூன்று\QT_QTC தினங்கள்\N_NN கழித்து\V_VM_VNF வந்தால்\V_VM_VNF போதும்\V_VM_VF .\RD_PUNC உங்கள்\PR_PRP உதவிக்கு\N_NN நன்றி\N_NN நண்பர்களே\N_NN !\RD_PUNC ``\RD_PUNC என்று\CC_CCS_UT கூறினான்\V_VM_VF .\RD_PUNC
+TMED142	திருடர்களுக்கு\N_NN இதைக்\PR_PRP கேட்டதும்\V_VM_VNF மிகவும்\RP_INTF அவமானமாய்\V_VM_VNF போய்விட்டது\V_VAUX .\RD_PUNC
+TMED143	தங்களை\PR_PRP ஏமாற்றி\V_VM_VNF நீர்\N_NN இறைக்கச்\V_VM_VINF செய்த\V_VM_VINF தெனாலிராமனின்\N_NNP அறிவை\N_NN மனத்திற்குள்\N_NN எண்ணி\V_VM_VNF வியந்தனர்\V_VM_VF .\RD_PUNC
+TMED144	மேலும்\CC_CCD அங்கே\N_NST இருந்தால்\V_VM_VNF எங்கே\PR_PRQ மாட்டிக்\V_VM_VNF கொள்வோமோ\V_VM_VNF என்ற\CC_CCS_UT அச்சத்தில்\N_NN திரும்பிப்\V_VM_VNF பார்க்காமல்\V_VM_VNF ஓட்டம்\N_NN பிடித்தனர்\V_VM_VF திருடர்கள்\N_NN .\RD_PUNC
+TMED145	ஒரு\JJ நாள்\N_NN ஒரு\JJ காட்டுப்\N_NN பகுதியில்\N_NN கழுதை\N_NN ஒன்று\QT_QTC மேய்ந்து\V_VM_VNF கொண்டிருந்தது\V_VAUX .\RD_PUNC
+TMED146	கழுதையை\N_NN கவனித்த\JJ ஓநாய்\N_NN ஒன்று\QT_QTC அதை\PR_PRP அடித்துத்\V_VM_VNF தின்னும்\V_VM_VNF நோக்கத்துடன்\V_VM_VNF அதன்\N_NST மீது\PSP பாய்ந்தது\V_VM_VF .\RD_PUNC
+TMED147	தனக்கு\PR_PRP வந்த\JJ ஆபத்தைக்\N_NN கண்டு\V_VM_VNF பயந்தது\V_VM_VF கழுதை\N_NN .\RD_PUNC
+TMED148	ஓநாயை\N_NN எதிர்த்து\V_VM_VNF சண்டை\N_NN போடுவது\V_VM_VNG கஷ்டம்\N_NN .\RD_PUNC அதனால்\CC_CCS ஏதாவது\PR_PRQ ஒரு\JJ தந்திரம்\N_NN செய்து\V_VM_VNF தான்\RP_RPD சமாளிக்க\V_VM_VINF வேண்டும்\V_VM_VNF என\CC_CCS_UT கழுதை\N_NN தீர்மானித்தது\V_VM_VF .\RD_PUNC
+TMED149	ஓநாயின்\N_NN பாய்ச்சலின்\V_VM_VNF போது\PSP சற்று\RB விலகிக்\V_VM_VNF கொண்டு\PSP ,\RD_PUNC ``\RD_PUNC ``\RD_PUNC ஓநாயாரே\N_NN ,\RD_PUNC உம்முடைய\PR_PRP வலிமையின்\N_NN முன்னால்\N_NST நான்\PR_PRP எம்மாத்திரம்\V_VM_VF ...\RD_PUNC நான்\PR_PRP இன்று\N_NST உமக்கு\PR_PRP இரையாகப்\RB போவது\V_VM_VNG உறுதி\N_NN .\RD_PUNC இதை\PR_PRP யாராலும்\PR_PRQ தடுக்கமுடியாது\V_VAUX .\RD_PUNC
+TMED15	முதலில்\QT_QTO இருவரும்\QT_QTO ஒரு\JJ மரத்திடம்\N_NN சென்றனர்\V_VM_VF .\RD_PUNC மரம்\N_NN புலவரைக்\N_NN கண்டவுடன்\V_VM_VNF வளைந்து\V_VM_VNF வணங்கியது\V_VM_VF .\RD_PUNC
+TMED150	உமக்கு\PR_PRP இரையாகத்\RB தயாராக\RB இருக்கிறேன்\V_VM .\RD_PUNC அதற்கு\PR_PRP முன்னால்\N_NST நான்\PR_PRP சொல்லக்\V_VM_VINF கூடிய\JJ விஷயத்தைத்\N_NN தயவு\N_NN செய்து\V_VM_VNF கேட்க\V_VM_VINF வேண்டும்\V_VM_VNF ,\RD_PUNC `\RD_PUNC `\RD_PUNC என\CC_CCS_UT வேண்டிக்\V_VM_VNF கொண்டது\V_VM_VF .\RD_PUNC
+TMED151	``\RD_PUNC நீ\PR_PRP என்ன\PR_PRQ சொல்ல\V_VM_VINF விரும்பினாய்\V_VM_VF .\RD_PUNC சொல்வதை\V_VM_VNG சீக்கிரம்\RB சொல்\V_VM_VF ``\RD_PUNC .\RD_PUNC என\CC_CCS_UT உறுமியது\V_VM_VNF ஓநாய்\N_NN .\RD_PUNC
+TMED152	``\RD_PUNC ``\RD_PUNC ஓநாயாரே\N_NN என்\PR_PRP காலில்\N_NN பெரிய\JJ முள்\N_NN ஒன்று\QT_QTC குத்தி\V_VM_VNF விட்டது\V_VAUX .\RD_PUNC முள்ளை\N_NN எடுக்க\V_VM_VINF நான்\PR_PRP எவ்வளவோ\QT_QTF முயற்சி\N_NN செய்தும்\V_VM_VNF முடியவில்லை\V_VAUX .\RD_PUNC
+TMED153	காலில்\N_NN முள்\N_NN உள்ள\JJ நிலையில்\N_NN நீ\PR_PRP என்னை\PR_PRP அடித்துச்\V_VM_VNF சாப்பிட்டால்\V_VM_VNF அந்த\DM_DMD முள்\N_NN உன்\PR_PRP தொண்டையில்\N_NN மாட்டிக்\V_VM_VNF கொள்ளும்\V_VM_VF .\RD_PUNC
+TMED154	அது\PR_PRP உமக்குக்\PR_PRP கடுமையான\JJ வேதனையைத்\N_NN தருவதுடன்\V_VM_VNG உன்\PR_PRP உயிரையும்\N_NN வாங்கிவிடும்\V_VAUX .\RD_PUNC
+TMED155	அதற்கு\PR_PRP தயவு\N_NN கூர்ந்து\V_VM_VNF முதலில்\QT_QTO என்\PR_PRP காலில்\N_NN இருக்கும்\JJ முள்ளை\N_NN எடுத்துவிடு\V_VAUX
+TMED156	அதற்குப்\PR_PRP பிறகு\PSP நீ\PR_PRP என்னை\PR_PRP அடித்துத்\V_VM_VNF தின்பதில்\V_VM_VNG எனக்கு\PR_PRP எந்த\PR_PRQ ஆட்சேபனையும்\N_NN இல்லை\V_VM_VNF ,\RD_PUNC `\RD_PUNC `\RD_PUNC என\CC_CCS_UT கழுதை\N_NN கூறிற்று\V_VM_VF .\RD_PUNC
+TMED157	ஏமாந்த\JJ ஓநாய்\N_NN ஒத்துக்\V_VM_VNF கொண்டது\V_VM_VF .\RD_PUNC
+TMED158	கழுதை\N_NN தனது\PR_PRP பின்னங்கால்களைத்\N_NN திருப்பிக்\V_VM_VNF காண்பித்து\V_VM_VNF ,\RD_PUNC ஓநாய்\N_NN கழுதையின்\N_NN பின்னங்கால்களில்\N_NN முள்\N_NN இருக்கிறதா\V_VM_VNF என\CC_CCS_UT தேடும்\JJ வேலையில்\N_NN ,\RD_PUNC அந்த\DM_DMD சந்தர்ப்பத்தை\N_NN பயன்படுத்தி\V_VM_VNF கழுதை\N_NN பின்னங்\N_NN கால்களால்\N_NN ஓநாயைப்\N_NN பலமாக\RB உதைத்தது\V_VM_VF .\RD_PUNC
+TMED159	கழுதையின்\N_NN உதை\N_NN தாங்காமல்\V_VM_VNF ஓநாய்\N_NN துடிதுடித்து\V_VM_VNF சரிந்தது\V_VM_VF .\RD_PUNC
+TMED16	பின்னர்\N_NST அது\PR_PRP கூறியது\V_VM_VF .\RD_PUNC ``\RD_PUNC ``\RD_PUNC நான்\PR_PRP சிறு\JJ வயதாக\RB இருக்கும்\V_VM_VNF போது\PSP இந்த\DM_DMD மனிதர்கள்\N_NN எனக்குத்\PR_PRP தண்ணீர்\N_NN ஊற்றி\V_VM_VNF வளர்க்கிறார்கள்\V_VM_VF .\RD_PUNC ஆனால்\CC_CCS ,\RD_PUNC நான்\PR_PRP பெரியவனாகி\V_VM_VNF விட்டவுடன்\V_VM_VNF என்னை\PR_PRP ஈவிரக்கம்\N_NN இன்றி\RB வெட்டுகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED160	அந்தச்\DM_DMD சந்தர்ப்பத்தைப்\N_NN பயன்படுத்திக்\V_VM_VNF கொண்டு\PSP கழுதை\N_NN வேகமாக\RB ஓடி\V_VM_VNF தப்பித்துக்\V_VM_VNF கொண்டது\V_VM_VF .\RD_PUNC
+TMED161	ஓர்\JJ ஊரில்\N_NN மன்னார்சாமி\N_NNP என்ற\CC_CCS_UT பெயருடைய\N_NN மனிதர்\N_NN ஒருவர்\QT_QTO இருந்தார்\V_VM .\RD_PUNC
+TMED162	அவரை\PR_PRP எல்லோரும்\N_NN மூடர்\N_NN என்றும்\CC_CCS_UT பிழைக்கத்\V_VM_VINF தெரியாதவர்\V_VM_VNF என்றும்\CC_CCS_UT கேலி\N_NN செய்து\V_VM_VNF வந்தனர்\V_VM_VF .\RD_PUNC
+TMED163	இதைக்\PR_PRP கேட்டுக்\V_VM_VNF கேட்டு\V_VM_VNF அந்த\DM_DMD மனிதருக்கு\N_NN வெட்கமாகிப்\V_VM_VNF போய்விட்டது\V_VAUX .\RD_PUNC அந்த\DM_DMD ஊரின்\N_NN கோடியில்\N_NN ஒரு\JJ சாமியார்\N_NN இருந்தார்\V_VM_VF .\RD_PUNC
+TMED164	அவரிடம்\PR_PRP சென்று\V_VM_VNF அந்த\DM_DMR மனிதர்\N_NN இந்தப்\DM_DMD பிரச்னைக்குத்\N_NN தீர்வு\N_NN கேட்டார்\V_VM_VF .\RD_PUNC
+TMED165	``\RD_PUNC ``\RD_PUNC கடவுளை\N_NN நினைச்சுத்\N_NN தவம்\N_NN பண்ணு\V_VM_VF .\RD_PUNC உனக்கு\PR_PRP வேண்டிய\JJ வரத்தைக்\N_NN கொடுப்பார்\V_VM_VNF ..\RD_PUNC `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT அந்தச்\DM_DMD சாமியார்\N_NN கூறினார்\V_VM_VF .\RD_PUNC
+TMED166	மன்னார்சாமியும்\N_NNP கடுமையாகத்\RB தவம்\N_NN இருந்தார்\V_VM .\RD_PUNC பல\QT_QTF நாட்கள்\N_NN சென்ற\V_VM_VNF பிறகு\CC_CCD ,\RD_PUNC கடவுள்\N_NN அவர்\PR_PRP எதிரில்\RB தோன்றினார்\V_VM_VF .\RD_PUNC
+TMED167	``\RD_PUNC ``\RD_PUNC பக்தனே\N_NN ,\RD_PUNC உனக்கு\PR_PRP என்ன\PR_PRQ வரம்\N_NN வேண்டும்\V_VM ?\RD_PUNC `\RD_PUNC `\RD_PUNC கடவுள்\N_NN கேட்டார்\V_VM_VF .\RD_PUNC
+TMED168	\RD_PUNC தவம்\N_NN செய்தால்\V_VM_VNF கடவுள்\N_NN வந்து\V_VM_VNF வரம்\N_NN கொடுப்பார்னு\V_VM_VNF அந்த\DM_DMD சாமியார்\N_NN சொன்னார்\V_VM_VNF ,\RD_PUNC அதே\PR_PRP தான்\RP_RPD ...\RD_PUNC `\RD_PUNC `\RD_PUNC என்றார்\V_VM_VF மன்னார்சாமி\N_NNP .\RD_PUNC
+TMED169	``\RD_PUNC ``\RD_PUNC என்ன\PR_PRQ வரம்\N_NN வேண்டும்\V_VM_VNF ,\RD_PUNC கேள்\V_VM_VNF ...\N_NN `\RD_PUNC `\RD_PUNC என்றார்\V_VM_VF கடவுள்\N_NN .\RD_PUNC
+TMED17	அதனால்\CC_CCS ,\RD_PUNC என்\PR_PRP கிளைகளில்\N_NN மகிழ்ச்சியாக\RB வாழ்ந்து\V_VM_VNF கொண்டிருந்த\V_VM_VNF பறவையினங்களும்\N_NN ,\RD_PUNC மற்ற\JJ உயிரினங்களும்\N_NN அழிந்து\V_VM_VNF விடுகின்றன\V_VAUX .\RD_PUNC என்\N_NN அழகைக்\N_NN காண\V_VM_VINF வரும்\V_VM_VNF மேகக்\N_NN கூட்டங்கள்\N_NN ,\RD_PUNC நான்\PR_PRP இங்கே\N_NST மூளியாக\RB ,\RD_PUNC மொட்டையாக\RB இருப்பதைக்\V_VM_VNG காண\V_VM_VINF சகிக்காமல்\V_VM_VNF ,\RD_PUNC என்\PR_PRF மீது\PSP அன்பு\N_NN மழையைப்\N_NN பொழியாமல்\V_VM_VNF சென்று\V_VM_VNF விடுகின்றன\V_VAUX .\RD_PUNC
+TMED170	``\RD_PUNC ``\RD_PUNC அதே\PR_PRP தான்\RP_RPD கேட்டேனே\V_VM_VF வரம்\N_NN ...\N_NN கொடேன்\V_VM_VF ...\RD_PUNC `\RD_PUNC `\RD_PUNC என்றார்\V_VM_VF மன்னார்சாமி\N_NNP .\RD_PUNC
+TMED171	இப்போது\PR_PRP கடவுளுக்கே\N_NN குழப்பம்\N_NN வந்து\V_VM_VNF விட்டது\V_VAUX .\RD_PUNC கடவுள்\N_NN பிரத்யட்சம்\N_NN செய்துவிட்டால்\V_VM_VNF யாருக்காவது\PR_PRQ வரம்\N_NN கொடுத்தே\V_VM_VINF ஆக\RB வேண்டும்\V_VAUX ....\RD_PUNC அதுவும்\PR_PRP தவம்\N_NN செய்தவருக்குத்\V_VM_VNF தவறாமல்\V_VM_VNF வரம்\N_NN கொடுத்தே\V_VM_VNF ஆக\RB வேண்டும்\V_VAUX .\RD_PUNC
+TMED172	ம்\N_NN ...\RD_PUNC என்ன\PR_PRQ செய்யலாம்\V_VM_VF ?\RD_PUNC -\RD_PUNC கடவுள்\N_NN யோசித்தார்\V_VM_VF .\RD_PUNC ``\RD_PUNC ``\RD_PUNC பக்தா\N_NN ,\RD_PUNC இப்போது\N_NST நீ\PR_PRP என்ன\PR_PRQ நினைக்கிறாயோ\V_VM_VNF ,\RD_PUNC அதையே\PR_PRP வரமாகக்\JJ கொடுக்கின்றேன்\V_VM_VNF ...\RD_PUNC பெற்றுக்\V_VM_VNF கொள்\V_VM_VNF ...\N_NN போ\V_VM_VF !\RD_PUNC `\RD_PUNC `\RD_PUNC
+TMED173	``\RD_PUNC ``\RD_PUNC அய்\RP_INJ ...\N_NN யய்ய\RP_INJ ....\RD_PUNC யோ\RP_INJ ...\N_NN நான்\PR_PRP ஒண்ணும்\CC_CCS_UT நினைக்கவே\V_VM_VNF இல்லையே\V_VAUX !\RD_PUNC `\RD_PUNC `\RD_PUNC
+TMED174	``\RD_PUNC ``\RD_PUNC அதே\PR_PRP தான்\RP_RPD ...\RD_PUNC `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT சொல்லிவிட்டுக்\V_VM_VNF கடவுள்\N_NN மறைந்து\V_VM_VNF விட்டார்\V_VAUX .\RD_PUNC
+TMED175	இதில்\PR_PRP இருந்து\PSP என்ன\PR_PRQ தெரிகிறது\V_VM_VF ?\RD_PUNC
+TMED176	பலனை\N_NN நோக்கிய\JJ உழைப்பு\N_NN தான்\RP_RPD உயர்வைத்\N_NN தரும்\V_VM_VF .\RD_PUNC
+TMED177	ஈமு\N_NN பறவை\N_NN ஆஸ்திரேலியாவை\N_NNP தாயகமாகக்\RB கொண்டது\V_VM_VF .\RD_PUNC
+TMED178	இதன்\PR_PRP சரியான\V_VAUX உச்சரிப்பு\N_NN \RD_PUNC ஈம்யு\N_NN \RD_PUNC என்பது\CC_CCS ஆகும்\V_VM எனினும்\CC_CCS_UT தமிழக\JJ வழக்கில்\N_NN இது\PR_PRP `\RD_PUNC ஈமு\N_NN கோழி\N_NN `\RD_PUNC என்றே\CC_CCS_UT அழைக்கப்படுகிறது\V_VM_VF .\RD_PUNC
+TMED179	ஒரு\JJ ஆள்\N_NN உயரத்திற்கு\N_NN மேல்\N_NST (\RD_SYM ஆறரை\QT_QTO அடி\N_NN )\RD_SYM சாதாரணமாக\N_NN வளரும்\V_VM_VF .\RD_PUNC
+TMED18	ஆகையால்\CC_CCS ,\RD_PUNC புலியாரே\N_NN இந்த\DM_DMD மனிதன்\N_NN மீது\PSP இரக்கம்\N_NN காட்டாதீர்\V_VM_VF `\RD_PUNC `\RD_PUNC என்றது\V_VM_VF .\RD_PUNC அதைக்\PR_PRP கேட்ட\JJ புலவர்\N_NN திடுக்கிட்டார்\V_VM_VF .\RD_PUNC
+TMED180	நெருப்புக்\N_NN கோழியை\N_NN விட\PSP சற்றே\JJ சிறியதான\JJ இப்பறவையால்\N_NN பறக்க\V_VM_VINF இயலாது\V_VM_VF .\RD_PUNC ஆனால்\CC_CCS நெருப்புக்\N_NN கோழியைப்\N_NN போலவே\PSP வேகமாக\RB ஓடக்\V_VM_VINF கூடியது\V_VM_VF .\RD_PUNC
+TMED181	உயரமான\JJ கால்கள்\N_NN காரணமாக\RB அது\PR_PRP ஓடும்\V_VM_VNF பொழுது\PSP காலடி\N_NN தடங்களுக்கு\N_NN இடையே\N_NST 9\QT_QTC அடி\N_NN வரை\PSP இடைவெளி\N_NN இருக்கும்\V_VM .\RD_PUNC
+TMED182	அதன்\PR_PRP கால்கள்\N_NN மிக\RP_INTF பலமானது\V_VM_VF .\RD_PUNC காலால்\N_NN தாக்கி\V_VM_VNF இரும்பு\N_NN வலை\N_NN வேலியையே\N_NN கிழித்து\V_VM_VNF விட\PSP முடியும்\V_VAUX .\RD_PUNC
+TMED183	கூர்மையான\JJ பார்வையுக்\N_NN கேட்கும்\JJ திறனும்\N_NN இருப்பதால்\V_VM_VNF மற்ற\JJ மிருகங்களையும்\N_NN ஆபத்தையும்\N_NN எளிதில்\N_NN உணர்ந்துவிடும்\V_VAUX .\RD_PUNC
+TMED184	பல\QT_QTF வகைத்\N_NN தாவரங்களையும்\N_NN ,\RD_PUNC பூச்சிகளையும்\N_NN உண்ணும்\V_VM_VF .\RD_PUNC சில\QT_QTF சமயம்\N_NN உணவு\N_NN இல்லாமல்\RP_NEG கூட\PSP வாரக்கணக்கில்\N_NN தாக்குப்பிடிக்கும்\V_VM_VF .\RD_PUNC
+TMED185	நீர்\N_NN கிடைக்கும்\V_VM_VNF பொழுது\PSP அதிகமாக\RB அருந்தும்\V_VM_VF ,\RD_PUNC மற்ற\JJ சமயங்களில்\N_NN நீரில்லாமலும்\V_VM_VNF தாக்குப்பிடிக்கும்\V_VM_VF .\RD_PUNC
+TMED186	இதன்\PR_PRP முட்டை\N_NN பச்சை\N_NN நிறத்தில்\N_NN பெரியதாக\RB சுமார்\N_NN 700\QT_QTC கிராம்\N_NN முதல்\QT_QTC 900\QT_QTC கிராம்\N_NN வரை\PSP இருக்கும்\V_VM .\RD_PUNC முட்டையின்\N_NN ஓடு\N_NN சுமார்\N_NN 1\QT_QTC மி\N_NN .\RD_PUNC மீ\N_NN .\RD_PUNC தடிமன்\N_NN கொண்டது\V_VM_VF .\RD_PUNC
+TMED187	முட்டை\N_NN அடை\N_NN காப்பதற்காக\RB ஆண்\N_NN பறவை\N_NN தரையில்\N_NN கூடு\N_NN கட்டும்\V_VM_VF .\RD_PUNC பின்பு\N_NST ஆண்\N_NN பறவை\N_NN அதிக\JJ காலத்திற்கும்\N_NN பெண்\N_NN பறவை\N_NN சில\QT_QTF காலத்திற்கும்\N_NN அடை\N_NN காக்கும்\V_VM_VF .\RD_PUNC
+TMED188	ஆஸ்திரேலிய\JJ படைச்\N_NN சின்னத்தில்\N_NN கங்காரு\N_NN ஒரு\JJ பக்கத்திலும்\N_NN ஈமு\N_NN மற்றொரு\JJ பக்கத்திலுமாக\RB பொறிக்கப்பட்டுள்ளது\V_VAUX .\RD_PUNC
+TMED189	ஈமுவை\N_NN ஆஸ்திரேலியாவின்\N_NNV தேசிய\JJ பறவையாக\RB அறிவிக்கப்படாவிட்டாலும்\V_VM_VNF ,\RD_PUNC மக்கள்\N_NN அவ்வாறே\RB கருதுகின்றனர்\V_VM_VF .\RD_PUNC பின்னர்\N_NST இது\PR_PRP அமெரிக்காவிற்கு\N_NNP கொண்டு\PSP சென்று\V_VM_VNF வளர்க்கப்பட்டது\V_VM_VF .\RD_PUNC
+TMED19	பின்னர்\N_NST இருவரும்\QT_QTO ஒரு\JJ ஆற்றிடம்\N_NN சென்று\V_VM_VNF முறையிட்டனர்\V_VM_VF .\RD_PUNC புலவரைக்\N_NN கண்டு\V_VM_VNF அந்த\DM_DMD ஆறும்\N_NN வணங்கியது\V_VM_VF .\RD_PUNC பின்னர்\N_NST அது\PR_PRP பேசியது\V_VM_VF .\RD_PUNC
+TMED190	ஈமுவை\N_NN அதன்\PR_PRP இறைச்சிக்காகவும்\RB ,\RD_PUNC தோல்\N_NN மற்றும்\CC_CCD எண்ணெய்க்காகவும்\RB வளர்க்கப்படுகிறது\V_VM_VF .\RD_PUNC
+TMED191	இது\PR_PRP குறைந்த\JJ கொழுப்பு\N_NN சத்து\N_NN கொண்ட\JJ இறைச்சியாகும்\V_VM .\RD_PUNC
+TMED192	இதன்\PR_PRP எண்ணெயின்\N_NN பயன்கள்\N_NN என்று\CC_CCS_UT பலவிதமாக\RB கூறப்பட்டாலும்\V_VM_VNF ,\RD_PUNC அவை\PR_PRP யாவும்\N_NN விஞ்ஞான\JJ ரீதியாக\RB உறுதிப்படுத்தப்படாமலே\V_VM_VNF இருந்து\PSP வருகிறது\V_VM_VF .\RD_PUNC
+TMED193	தமிழ்நாட்டில்\N_NNP சேலம்\N_NNP ,\RD_PUNC ஈரோடு\N_NNP மாவட்டங்களில்\N_NN ,\RD_PUNC வியாபார\JJ ரீதியாக\RB வளர்க்க\V_VM_VINF துவங்கின\V_VM_VF .\RD_PUNC
+TMED194	ஒருவன்\QT_QTO தவம்\N_NN செய்து\V_VM_VNF இறைவனிடம்\N_NN தன்\PR_PRP ஆசைகள்\N_NN எல்லாம்\N_NN நிறைவேற்ற\JJ ஓர்\JJ ஆள்\N_NN வேண்டும்\V_VM_VNF என்று\CC_CCS_UT கேட்டான்\V_VM_VF .\RD_PUNC
+TMED195	அதற்கு\PR_PRP இறைவன்\N_NN ,\RD_PUNC ``\RD_PUNC ``\RD_PUNC நீ\PR_PRP கேட்ட\JJ வரத்தைத்\N_NN தருகிறேன்\V_VM_VF .\RD_PUNC ஆனால்\CC_CCS ,\RD_PUNC நீ\PR_PRP அவனுக்குத்\PR_PRP தொடர்ந்து\V_VM_VNF ஏதாவது\PR_PRQ வேலை\N_NN கொடுத்துக்\V_VM_VNF கொண்டே\V_VM_VNF இருக்க\V_VM_VINF வேண்டும்\V_VAUX
+TMED196	இல்லை\RP_NEG என்றால்\CC_CCS அவன்\PR_PRP உன்னை\PR_PRP விழுங்கி\V_VM_VNF விடுவான்\V_VM_VNF ...\RD_PUNC `\RD_PUNC `\RD_PUNC என்றார்\V_VM_VF .\RD_PUNC
+TMED197	அவனும்\PR_PRP சரி\V_VM_VNF என்று\CC_CCS_UT சம்மதித்தான்\V_VM_VF .\RD_PUNC
+TMED198	உடனே\PR_PRP இறைவன்\N_NN அவனுடன்\PR_PRP ஒரு\JJ பூதத்தை\N_NN அனுப்பி\N_NN வைத்தார்\V_VM_VF .\RD_PUNC
+TMED199	பேராசை\N_NN கொண்ட\JJ அவன்\PR_PRP ,\RD_PUNC அந்த\DM_DMD பூதத்திடம்\N_NN ,\RD_PUNC ``\RD_PUNC ``\RD_PUNC எனக்கு\PR_PRP இந்த\DM_DMD நாட்டு\N_NN அரசன்\N_NN வசிப்பதை\V_VM_VNG விடப்\PSP பெரிய\JJ அரண்மனை\N_NN ஒன்று\JJ வேண்டும்\V_VM_VNF `\RD_PUNC `\RD_PUNC என்றான்\V_VM_VF .\RD_PUNC
+TMED2	அவரது\PR_PRP கவித்\N_NN திறனை\N_NN பலர்\QT_QTF பாராட்டினர்\V_VM_VF .\RD_PUNC அவரால்\PR_PRP அந்த\DM_DMD ஊரே\N_NN பெருமை\N_NN பெற்றது\V_VM_VF .\RD_PUNC அப்புலவர்\N_NN இரக்க\JJ குணமும்\N_NN ,\RD_PUNC தயாள\JJ மனமும்\N_NN படைத்தவர்\V_VM_VF .\RD_PUNC
+TMED20	.\RD_PUNC ``\RD_PUNC ``\RD_PUNC இந்த\DM_DMD மனிதர்கள்\N_NN புனிதமானவள்\V_VM_VNF என்று\CC_CCS_UT சொல்லி\V_VM_VNF என்னை\PR_PRP வணங்குகிறார்கள்\V_VM_VF ,\RD_PUNC போற்றுகிறார்கள்\V_VM_VF .\RD_PUNC எனினும்\CC_CCS_UT என்\PR_PRP மீதே\PSP குப்பைக்\N_NN கூளங்களைக்\N_NN கொட்டுகின்றனர்\V_VM_VF .\RD_PUNC
+TMED200	கண்\N_NN மூடிக்\V_VM_VNF கண்\N_NN திறப்பதற்குள்\V_VM_VNG அழகிய\JJ அரண்மனை\N_NN ஒன்றைக்\QT_QTO கட்டிக்\V_VM_VNF கொடுத்தது\V_VM_VF பூதம்\N_NN .\RD_PUNC
+TMED201	அவன்\PR_PRP மிகவும்\RP_INTF மகிழ்ச்சியடைந்தான்\V_VM_VF .\RD_PUNC
+TMED202	மேலும்\CC_CCD ,\RD_PUNC மேலும்\CC_CCD அவன்\PR_PRP ஆசைப்பட்டவற்றை\N_NN எல்லாம்\N_NN உடனுக்குடன்\PR_PRP நிறைவேற்றி\V_VM_VNF விட்டு\PSP ,\RD_PUNC ``\RD_PUNC ``\RD_PUNC வேலை\N_NN கொடு\V_VM_VF ...\RD_PUNC வேலை\N_NN கொடு\V_VM_VF ...\RD_PUNC இல்லையென்றால்\V_VM_VNF உன்னை\PR_PRP விழுங்கி\V_VM_VNF விடுவேன்\V_VM_VNF `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT பூதம்\N_NN அவனை\PR_PRP மிரட்ட\V_VM_VINF ஆரம்பித்தது\V_VM_VF
+TMED203	பூதத்துக்கு\N_NN வேலை\N_NN கொடுப்பதே\V_VM_VNF அவனுக்கு\PR_PRP வேலையாகி\V_VM_VNF விட்டது\V_VAUX .\RD_PUNC
+TMED204	அவனால்\PR_PRP முடியாமல்\V_VM_VNF போய்\V_VM_VNF மிகவும்\RP_INTF சோர்வடைந்து\V_VM_VNF போனான்\V_VM_VF .\RD_PUNC பூதம்\N_NN அவனை\PR_PRP விரட்ட\V_VM_VINF ஆரம்பித்தது\V_VM_VF .\RD_PUNC
+TMED205	மீண்டும்\RB இறைவனிடம்\N_NN ஓடினான்\V_VM_VF ...\RD_PUNC ``\RD_PUNC ``\RD_PUNC என்னைக்\PR_PRP காப்பாற்றுங்கள்\V_VM_VF ...\RD_PUNC காப்பாற்றுங்கள்\V_VM_VNF ...\RD_PUNC `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT கதறினான்\V_VM_VF .\RD_PUNC
+TMED206	மனமிறங்கிய\V_VM_VNF இறைவன்\N_NN ,\RD_PUNC அவனை\PR_PRP விரட்டி\V_VM_VNF வந்த\V_VM_VNF பூதத்திடம்\N_NN ,\RD_PUNC \RD_PUNC \RD_PUNC நான்\PR_PRP சொல்லும்\V_VM_VNF வரை\PSP இந்தப்\DM_DMD படிகளில்\N_NN ஏறி\V_VM_VNF ஏறி\V_VM_VNF இறங்கிக்\V_VM_VNF கொண்டு\PSP இரு\V_VM ...\RD_PUNC `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT கட்டளையிட்டார்\V_VM_VF .\RD_PUNC
+TMED207	பூதமும்\N_NN இறைவன்\N_NN சொன்னபடி\N_NN ,\RD_PUNC படிகளில்\N_NN விடாமல்\V_VM_VNF ஏறி\V_VM_VNF ,\RD_PUNC இறங்கிக்கொண்டே\V_VM_VNF இருந்தது\V_VAUX .\RD_PUNC
+TMED208	பேராசைக்காரன்\N_NN நிம்மதிப்\N_NN பெருமூச்சு\N_NN விட்டு\PSP தப்பித்தோம்\V_VM_VNF பிழைத்தோம்\V_VM_VNF என்று\CC_CCS_UT எண்ணியபடி\N_NN ,\RD_PUNC இறைவனை\N_NN வணங்கிவிட்டுச்\V_VM_VNF சென்றான்\V_VM_VF .\RD_PUNC
+TMED209	(\RD_SYM அந்தப்\DM_DMD பூதம்\N_NN வேறு\JJ யாரும்\PR_PRQ இல்லை\RP_NEG ...\RD_PUNC நமது\PR_PRP மனம்\N_NN தான்\RP_RPD ...\RD_PUNC நமது\PR_PRP மனம்\N_NN நமக்குத்\PR_PRP தேவையானவற்றை\N_NN அடைய\JJ வழியைக்\N_NN காட்டும்\JJ .\RD_PUNC பேராசைப்பட்டால்\V_VM_VNF நம்மையே\PR_PRP அழித்து\V_VM_VNF விடும்\V_VAUX .\RD_PUNC
+TMED21	தொழிற்சாலைகளின்\N_NN கழிவு\N_NN நீரையும்\N_NN ,\RD_PUNC சாக்கடை\N_NN நீரையும்\N_NN என்\PR_PRP மீது\PSP பாய\V_VM_VINF விடுகின்றனர்\V_VM_VF .\RD_PUNC
+TMED210	ரேவதி\N_NNP நன்றாகப்\RB படிக்கும்\V_VM_VNF மாணவி\N_NN ,\RD_PUNC பிறர்\N_NN தன்னிடம்\PR_PRP ஒப்படைக்கும்\JJ வேலையை\N_NN கச்சிதமாக\RB செய்து\V_VM_VNF முடிக்கும்\V_VM_VNF திறமைசாலி\N_NN சிறுமி\N_NN ,\RD_PUNC பெரியவர்கள்\N_NN முதல்\QT_QTC சிறியவர்கள்\N_NN வரை\PSP அனைவரிடமும்\N_NN அன்பாகவும்\RB ,\RD_PUNC பணிவாகவும்\RB நடந்து\V_VM_VNF கொள்வாள்\V_VM_VF .\RD_PUNC
+TMED211	ஆனால்\CC_CCS ரேவதியின்\N_NNP பிடிவாத\JJ குணம்\N_NN மட்டும்\PSP யாருக்கும்\PR_PRQ பிடிக்கவில்லை\V_VAUX .\RD_PUNC ரேவதியின்\N_NNP அம்மா\N_NN ,\RD_PUNC அப்பாவிற்கு\N_NN அவளது\PR_PRP பிடிவாதம்\N_NN பெரிய\JJ தலைவலியாக\RB இருந்தது\V_VM .\RD_PUNC
+TMED212	உடை\N_NN ,\RD_PUNC பொம்மை\N_NN ,\RD_PUNC பரிசுப்\N_NN பொருள்\N_NN எது\PR_PRQ கேட்டாலும்\V_VM_VNF உடனே\PR_PRP வாங்கி\V_VM_VNF தரவேண்டும்\V_VAUX .\RD_PUNC இல்லாவிட்டால்\V_VM_VNF வீட்டையே\N_NN போர்க்களம்\N_NN போல\PSP ஆக்கிவிடுவாள்\V_VAUX .\RD_PUNC
+TMED213	நாளைய\JJ தினம்\N_NN ரேவதியின்\N_NNP பிறந்தநாள்\N_NN .\RD_PUNC
+TMED214	வெகு\JJ நாட்களாகக்\RB கேட்டுக்\V_VM_VNF கொண்டிருந்த\V_VM_VNF விலை\N_NN உயர்ந்த\JJ கைக்கடிகாரத்தை\N_NN அன்றே\N_NST வாங்கித்\V_VM_VNF தரவேண்டும்\V_VM_VNF என்று\CC_CCS_UT அடம்பிடித்தாள்\V_VM_VF .\RD_PUNC
+TMED215	ரேவதியின்\N_NNP அம்மாவும்\N_NN ,\RD_PUNC அப்பாவும்\N_NN தங்கள்\PR_PRP சூழ்நிலையைக்\N_NN கூறி\V_VM_VNF ,\RD_PUNC அடுத்த\JJ மாதம்\N_NN வாங்கித்\V_VM_VNF தருகிறேன்\V_VM_VNF என்றனர்\V_VM_VF .\RD_PUNC
+TMED216	‘\RD_PUNC அதெல்லாம்\PR_PRP எனக்குத்\PR_PRP தெரியாது\V_VM_VF .\RD_PUNC நான்\PR_PRP பள்ளிக்கூடத்திற்கு\N_NN சென்று\V_VM_VNF வீட்டிற்கு\N_NN வரும்\V_VM_VNF போது\PSP நான்\PR_PRP கேட்ட\JJ கைகடிகாரம்\N_NN இங்கே\N_NST இருக்கணும்\V_VM .\RD_PUNC இல்லாவிட்டால்\V_VM_VNF நடப்பதே\V_VM_VNF வேறு\JJ ’\N_NN என்று\CC_CCS_UT கட்டளையிடுவது\V_VM_VNG போல்\PSP கூறிவிட்டுச்\V_VM_VNF சென்றாள்\V_VM_VF .\RD_PUNC
+TMED217	ரேவதியின்\N_NNP பெற்றோர்\N_NN என்ன\PR_PRQ சய்வது\V_VM_VNG என்று\CC_CCS_UT தெரியாமல்\V_VM_VNF விழித்தனர்\V_VM_VF .\V_VM_VF
+TMED218	மாலையில்\N_NN பள்ளி\N_NN முடிந்ததும்\V_VM_VNF ரேவதி\N_NNP வீட்டிற்கு\N_NN வந்து\V_VM_VNF கொண்டிருந்தாள்\V_VAUX .\RD_PUNC அப்போது\N_NST மழை\N_NN பெய்ய\V_VM_VINF ஆரம்பித்தது\V_VM_VF
+TMED219	உடனே\PR_PRP அருகில்\N_NST இருந்த\JJ ஒரு\JJ குடிசை\N_NN ஓரத்தில்\N_NN ஒதுங்கி\V_VM_VNF நின்றாள்\V_VM_VF .\RD_PUNC அப்பொழுது\N_NST அந்த\DM_DMD வீட்டிற்குள்\N_NN இருந்து\PSP வந்த\V_VM_VINF சத்தத்தைக்\N_NN கேட்டுத்\V_VM_VNF திரும்பிப்\V_VM_VNF பார்த்தாள்\V_VM_VF .\RD_PUNC
+TMED22	எங்களை\PR_PRP கண்ணெனக்\N_NN காக்கும்\JJ மணல்\N_NN தாயை\N_NN கதற\V_VM_VINF கதற\V_VM_VINF எடுத்துச்\V_VM_VNF செல்கின்றனர்\V_VM_VF .\RD_PUNC எனவே\CC_CCS_UT புலி\N_NN அண்ணா\N_NN ,\RD_PUNC இந்த\DM_DMD மனிதன்\N_NN மீது\PSP தயை\N_NN காட்டாதே\V_VM_VNF `\RD_PUNC `\RD_PUNC என்றது\V_VM_VF அது\PR_PRP .\RD_PUNC இதைக்\PR_PRP கேட்ட\JJ புலவர்\N_NN அதிர்ச்சி\N_NN அடைந்தனர்\V_VM_VF .\RD_PUNC
+TMED220	“\N_NN அப்பா\N_NN உங்க\JJ கால்\N_NN ரொம்ப\JJ அடிப்பட்டிருக்கு\V_VAUX .\RD_PUNC இருந்தும்\V_VM_VNF ஏன்\PR_PRP லீவு\RD_RDF எடுக்காம\V_VM_VNF வேலைக்குப்\N_NN போறீங்க\V_VM_VF ?\RD_PUNC ”\N_NN என்றாள்\V_VM_VF .\RD_PUNC
+TMED221	“\N_NN நீதான்\PR_PRP ,\RD_PUNC எல்லாரும்\N_NN டூர்\RD_RDF போறாங்க\V_VM_VF ...\RD_PUNC என்னை\PR_PRP அனுப்ப\V_VM_VINF மாட்டீங்களான்னு\V_VM_VNF கேட்ட\JJ இல்லை\RP_NEG .\RD_PUNC
+TMED222	நான்\PR_PRP லீவு\RD_RDF போடாமா\V_VM_VNF வேலைக்குப்\N_NN போனாத்தான்\V_VM_VNF உனக்கு\PR_PRP டூர்\RD_RDF போக\V_VM_VINF பணம்\N_NN தர\V_VM_VINF முடியும்\V_VM_VNF .\RD_PUNC ’\N_NN என்றார்\V_VM_VF .\RD_PUNC
+TMED223	“\N_NN இல்லே\RP_NEG அப்பா\N_NN நான்\PR_PRP டூர்\RD_RDF போகலை\V_VM_VF .\RD_PUNC அடுத்த\JJ தடவை\N_NN போய்க்கிறேன்\V_VM_VF .\RD_PUNC
+TMED224	நீங்க\JJ உங்க\JJ காலைப்\N_NN பார்த்துக்கோங்கப்பா\V_VM_VNF ”\N_NN என்றாள்\V_VM_VF அந்த\DM_DMD வீட்டுச்\N_NN சிறுமி\N_NN .\RD_PUNC
+TMED225	இல்லைங்க\V_VM ,\RD_PUNC நீங்க\JJ ரெஸ்ட்\RD_RDF எடுங்க\V_VM_VINF ,\RD_PUNC அவள்\PR_PRP டூர்\RD_RDF போகட்டும்\V_VM_VF .\RD_PUNC
+TMED226	பண்ணைக்காரர்\N_NN தோட்டத்திலே\N_NN வேளைக்கு\N_NN ஆள்\N_NN கூப்பிட்டிருக்காங்க\V_VAUX .\RD_PUNC நான்\PR_PRP ஒரு\JJ வாரம்\N_NN வேலைக்குப்\N_NN போகிறேன்\V_VM .\RD_PUNC கிடைக்கிற\JJ பணத்துல\JJ அவளுக்கு\PR_PRP டூர்\RD_RDF போகவும்\V_VM_VNF ,\RD_PUNC உங்க\JJ காலுக்கு\N_NN வைத்தியம்\N_NN பார்க்கவும்\V_VM_VNF சிரியாக\RB இருக்கும்\V_VM_VNF ”\N_NN என்றாள்\V_VM_VF அந்த\JJ சிறுமியின்\N_NN அம்மா\N_NN .\RD_PUNC
+TMED227	இதை\PR_PRP பார்த்துக்\V_VM_VNF கொண்டிருந்த\V_VM_VNF ரேவதி\N_NNP ஆச்சிரியப்பட்டாள்\V_VM_VF .\RD_PUNC
+TMED228	ஒரு\JJ சிறுமி\N_NN தன்\PR_PRP அப்பாவின்\N_NN கஷ்டத்தைப்\N_NN புரிந்து\V_VM_VNF கொண்டு\PSP விட்டுக்\PSP கொடுக்கிறாள்\V_VM_VF .\RD_PUNC
+TMED229	ஒரு\JJ அம்மா\N_NN ,\RD_PUNC தன்\PR_PRP குழந்தைக்காகவும்\RB ,\RD_PUNC கணவருக்காகவும்\RB வேலைக்குப்\N_NN போகிறேன்\V_VM_VNF என்கிறார்\V_VM_VF .\RD_PUNC ஒருவருக்கொருவர்\JJ விட்டுக்\PSP கொடுப்பதால்\V_VM_VNF அவர்கள்\PR_PRP குடிசையில்\N_NN வாழ்ந்தாலும்\V_VM_VNF சந்தோஷமாக\RB வாழ்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED23	பின்னர்\N_NST இருவரும்\QT_QTO அங்கே\N_NST பசியால்\N_NN வாடிக்\V_VM_VNF கொண்டிருந்த\V_VM_VNF ஒரு\JJ எருதிடம்\N_NN சென்று\V_VM_VNF முறையிட்டனர்\V_VM_VF .\RD_PUNC
+TMED230	இனி\N_NN நாமும்\PR_PRP அம்மா\N_NN ,\RD_PUNC அப்பாவுக்கு\N_NN தொந்தரவு\N_NN கொடுக்கக்கூடாது\V_VM_VNF ’\N_NN என்று\CC_CCS_UT எண்ணினாள்\V_VM_VF .\RD_PUNC
+TMED231	ரேவதி\N_NNP வீட்டிற்குச்\N_NN சென்றதும்\V_VM_VNF அவளது\PR_PRP பெற்றோர்\N_NN என்ன\PR_PRQ சொல்ல\V_VM_VINF போகிறாளோ\V_VM_VNF என்று\CC_CCS_UT தயங்கிக்\V_VM_VNF கொண்டிருந்தனர்\V_VAUX .\RD_PUNC
+TMED232	“\RD_PUNC ரேவதி\N_NNP ...\N_NN ”\RD_PUNC என்று\CC_CCS_UT அவர்கள்\PR_PRP வாயெடுக்க\V_VM_VINF ,\RD_PUNC “\RD_PUNC அப்பா\N_NN கைக்கடிகாரம்\N_NN இப்போ\N_NST இல்லைன்னா\V_VM_VNF அடுத்த\JJ பொறந்த\JJ நாளைக்கு\N_NN வாங்கிக்கலாம்\V_VM_VNF ”\RD_PUNC என்று\CC_CCS_UT கூறியவளைப்\V_VM_VNF பார்த்து\V_VM_VNF வியப்படைந்தனர்\V_VM_VNF அவளது\N_NN பெற்றோர்\N_NN .\RD_PUNC
+TMED233	தனது\PR_PRP பிடிவாத\JJ குணத்தை\N_NN அழித்த\JJ மகிழ்ச்சியோடு\N_NN பிறந்த\JJ நாளைக்\N_NN கொண்டாடினாள்\V_VM_VF ரேவதி\N_NN
+TMED234	ராமகிருஷ்ண\JJ பரமஹம்சரின்\N_NNP மடத்தில்\N_NN ஒரு\JJ விழா\N_NN நடக்க\V_VM_VINF இருந்தது\V_VM .\RD_PUNC அதற்காக\RB நிறைய\JJ லட்டுகள்\N_NN தயாரித்து\V_VM_VNF வைத்திருந்தனர்\V_VAUX .\RD_PUNC
+TMED235	அவற்றை\PR_PRP எறும்புகளிடம்\N_NN இருந்து\PSP பாதுகாக்க\V_VM_VINF என்ன\PR_PRQ செய்யலாம்\V_VM_VNF என்று\CC_CCS_UT ராமகிருஷ்ணரிடம்\N_NNP யோசனை\N_NN கேட்டனர்\V_VM_VF .\RD_PUNC
+TMED236	அவரோ\PR_PRP ,\RD_PUNC லட்டு\N_NN இருக்கும்\JJ பாத்திரத்தைச்\N_NN சுற்றிச்\V_VM_VNF சர்க்கரையால்\N_NN ஒரு\JJ வட்டம்\N_NN போட்டார்\V_VM_VF .\RD_PUNC
+TMED237	இரவில்\N_NN வந்த\JJ எறும்புகள்\N_NN சர்க்கரையை\N_NN எடுத்துக்\V_VM_VNF கொண்டு\PSP சென்றுவிட்டன\V_VAUX .\RD_PUNC அவை\PR_PRP லட்டு\N_NN இருந்த\JJ பாத்திரத்தின்\N_NN அருகே\N_NST கூட\PSP செல்லவில்லை\V_VAUX .\RD_PUNC
+TMED238	காலையில்\N_NN இதைப்\PR_PRP பார்த்தவர்கள்\N_NNV ராமகிருஷ்ணரிடம்\N_NNP கூறினர்\V_VM_VF .\RD_PUNC
+TMED239	அவர்\PR_PRP சொன்னார்\V_VM_VNF :\RD_PUNC ``\RD_PUNC ``\RD_PUNC இந்த\DM_DMD எறும்புகள்\N_NN முன்னேறிச்\V_VM_VNF சென்றிருந்தால்\V_VM_VNF இவற்றுக்கு\PR_PRP லட்டுகளே\N_NN கிடைத்திருக்கும்\V_VAUX
+TMED24	அந்த\DM_DMD எருது\N_NN அழுதுக்\V_VM_VNF கொண்டே\V_VM_VNF கூறியது\V_VM_VF .\RD_PUNC ``\RD_PUNC ``\RD_PUNC நான்\PR_PRP இந்த\DM_DMD மனிதர்களுக்கு\N_NN எவ்வளவோ\QT_QTF உதவி\N_NN செய்து\V_VM_VNF இருக்கிறேன்\V_VAUX .\RD_PUNC மேடு\N_NN பள்ளமான\JJ நிலங்களை\N_NN உழுது\V_VM_VNF ,\RD_PUNC என்\PR_PRP எஜமான்\N_NN பயிரிட்டு\V_VM_VNF விளைச்சலைப்\N_NN பெருக்க\V_VM_VINF உழைத்திருக்கிறேன்\V_VAUX .\RD_PUNC ஆனால்\CC_CCS ,\RD_PUNC இப்போது\N_NST எனக்கு\PR_PRP வயதாகி\V_VM_VNF விட்டது\V_VAUX .\RD_PUNC என்னைத்\PR_PRP துரத்தி\V_VM_VNF விட்டான்\V_VAUX .\RD_PUNC
+TMED240	இந்த\DM_DMD எறும்புகளைப்\N_NN போலத்\PSP தான்\RP_RPD மனிதர்கள்\N_NN பலரும்\QT_QTF உள்ளனர்\V_VM .\RD_PUNC
+TMED241	சிறு\JJ வெற்றியே\N_NN போதும்\V_VM_VF எனப்\CC_CCS_UT பெரும்\JJ வெற்றியைக்\N_NN கோட்டை\N_NN விட்டு\PSP விடுகின்றனர்\V_VM !\RD_PUNC `\RD_PUNC
+TMED242	பதிவேட்டில்\N_NN தமிழில்\N_NN கையெழுத்து\N_NN நோபல்\N_NN பரிசு\N_NN பெற்ற\JJ மகாகவி\N_NNP தாகூருக்கு\N_NNP ,\RD_PUNC கொல்கத்தாவில்\N_NNP பாராட்டுக்\N_NN கூட்டம்\N_NN ஒன்று\QT_QTC நடைபெற்றது\V_VM_VF .\RD_PUNC
+TMED243	விழாவுக்குத்\N_NN தலைவராக\RB டாக்டர்\RD_RDF ராதாகிருஷ்ணன்\N_NNP பங்கேற்றார்\V_VM_VF .\RD_PUNC
+TMED244	பல\QT_QTF பெரிய\JJ மனிதர்களும்\N_NN விழாவில்\N_NN கலந்து\V_VM_VNF கொண்டனர்\V_VM_VF .\RD_PUNC
+TMED245	கூட்டம்\N_NN நடந்த\JJ மண்டப\JJ வாயிலில்\N_NN வைக்கப்பட்டிருந்த\V_VM_VNF வருகைப்\N_NN பதிவேட்டில்\N_NN அனைவரும்\N_NN ஆங்கிலத்தில்\N_NN கையெழுத்து\N_NN இட்டிருந்தனர்\V_VAUX .\RD_PUNC
+TMED246	ஒரே\JJ ஒருவர்\QT_QTO மட்டும்\PSP தமிழில்\N_NN கையெழுத்திட்டிருந்தார்\V_VAUX .\RD_PUNC அவர்\PR_PRP யார்\PR_PRQ தெரியுமா\V_VM_VF ?\RD_PUNC
+TMED247	நோபல்\N_NN பரிசு\N_NN வென்ற\JJ விஞ்ஞானி\N_NN சர்\N_NN .\RD_PUNC சி\N_NN .\RD_PUNC வி\N_NN .\RD_PUNC ராமன்\N_NNP !\RD_PUNC
+TMED248	அன்னை\N_NN ஸ்ரீசாரதா\N_NNP தேவியின்\N_NNP ஆன்மிக\JJ பலம்\N_NN
+TMED249	ஒரு\JJ முறை\N_NN அன்னை\N_NN ஸ்ரீசாரதா\N_NNP தேவி\N_NNP கல்கத்தாவுக்குப்\N_NNP பயணம்\N_NN செய்து\V_VM_VNF கொண்டிருக்கும்\V_VM_VNF போது,\PSP அன்னையால்\N_NN வேகமாக\RB நடக்க\V_VM_VINF முடியாததால்\V_VM_VNF அவருடன்\PR_PRP வந்த\JJ கூட்டம்\N_NN முன்னால்\N_NST சென்றுவிட்டது\V_VAUX
+TMED25	ஆகையால்\CC_CCS ,\RD_PUNC புலி\N_NN அண்ணா\N_NN இவன்\PR_PRP மீது\PSP இரக்கம்\N_NN காட்டாதே\V_VM_VF `\RD_PUNC `\RD_PUNC என்றதும்\CC_CCS ,\RD_PUNC புலவர்\N_NN பயந்தார்\V_VM_VF .\RD_PUNC
+TMED250	இருட்டு\N_NN நேரமானதால்\V_VM_VNF மனிதர்\N_NN எவரும்\PR_PRQ இல்லாத\JJ நடுக்காட்டில்\N_NN அன்னை\N_NN தனியே\N_NN சென்று\V_VM_VNF கொண்டிருந்தார்\V_VAUX .\RD_PUNC
+TMED251	அப்பொழுது\N_NST ஒரு\JJ கொள்ளைக்காரனும்\N_NN அவனுடைய\PR_PRP மனைவியும்\N_NN அன்னையின்\N_NN முன்பு\N_NST வந்து\V_VM_VNF அவரைத்\PR_PRP தடுத்தி\V_VM_VNF நிறுத்தினர்\V_VM_VF .\RD_PUNC
+TMED252	அன்னை\N_NN மிகவும்\RP_INTF இள\JJ வயதுக்காரராக\RB இருந்த\V_VM_VNF போதிலும்\PSP மன\JJ தைரியத்தை\N_NN இழக்கவில்லை\V_VAUX .\RD_PUNC
+TMED253	அந்த\DM_DMD இருவரையும்\QT_QTO பார்த்து\V_VM_VNF ``\RD_PUNC அப்பா\N_NN ,\RD_PUNC அம்மா\N_NN `\RD_PUNC என்று\CC_CCS_UT அன்பு\N_NN ஒழுக\V_VM_VINF அழைத்தார்\V_VM_VF .\RD_PUNC
+TMED254	அன்னையின்\N_NN குரல்\N_NN அந்தக்\DM_DMD கொள்ளைக்காரர்களிடம்\N_NN இருந்த\JJ தாய்மை\N_NN உணர்வைத்\N_NN தட்டி\V_VM_VNF எழுப்பியது\V_VM_VF .\RD_PUNC
+TMED255	தான்\RP_RPD தனித்து\V_VM_VNF விடப்பட்ட\JJ சூழ்நிலையை\N_NN அவர்களிடம்\PR_PRP அன்னை\N_NN தெரிவித்தார்\V_VM_VF .\RD_PUNC
+TMED256	இளம்\JJ பெண்\N_NN ஒருத்தி\QT_QTO தங்களிடம்\PR_PRP பூரண\JJ நம்பிக்கை\N_NN வைத்துப்\V_VM_VNF பேசுவதைக்\V_VM_VNG கண்ட\JJ அவர்கள்\PR_PRP ,\RD_PUNC அன்னையிடம்\N_NN மிகவும்\RP_INTF அன்பாகவும்\RB மென்மையாகவும்\RB நடந்து\V_VM_VNF கொண்டனர்\V_VM_VF .\RD_PUNC
+TMED257	அவரை\PR_PRP நன்கு\JJ கவனித்துக்\V_VM_VNF கொண்டதுடன்\V_VM_VNF ,\RD_PUNC அன்னையின்\N_NN கூட்டத்தாருடன்\N_NN அவரைச்\PR_PRP சேர்த்தும்\V_VM_VNF விட்டனர்\V_VAUX .\RD_PUNC
+TMED258	அன்னையின்\N_NN ஆன்மிக\JJ பலம்\N_NN கொள்ளையரின்\N_NN மனத்தில்\N_NN ஓர்\JJ மாற்றத்தை\N_NN ஏற்படுத்தியது\V_VM_VF .\RD_PUNC
+TMED259	எங்கேயும்\PR_PRQ எப்போதும்\PR_PRQ சரவணன்\N_NNP என்று\CC_CCS_UT தான்\RP_RPD குறிப்பிடுகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED26	இதை\PR_PRP எல்லாம்\N_NN ஒரு\JJ நரி\N_NN பார்த்துக்\V_VM_VNF கொண்டே\V_VM_VNF வந்திருந்தது\V_VAUX .\RD_PUNC
+TMED260	அது\N_NN கிரெடிட்\RD_RDF .\RD_PUNC முதல்\QT_QTC படத்தில்\N_NN சின்னதான\JJ ஒரு\JJ கருவை\N_NN எடுத்து\V_VM_VNF சிக்கலில்\N_NN இல்லாமல்\RP_NEG சுவாரஸியமாக\RB தந்ததற்கு\V_VM_VNF கிடைத்த\V_VM_VNF பரிசு\N_NN என்றும்\CC_CCS_UT சொல்லலாம்\V_VM_VF .\RD_PUNC
+TMED261	கோவாவில்\N_NNP நடக்கும்\JJ சர்வதேச\JJ இந்திய\JJ திரைப்பட\JJ விழாவில்\N_NN சிறப்பு\N_NN விருந்தினராக\RB கமல்ஹாசன்\N_NNP கலந்து\V_VM_VNF கொண்டார்\V_VM_VF .\RD_PUNC அப்போது\N_NST அவர்\PR_PRP தனது\PR_PRP மகள்களின்\N_NN சினிமா\RD_RDF பிரவேசம்\N_NN குறித்தும்\JJ ,\RD_PUNC விஸ்வரூபம்\N_NN குறித்தும்\V_VM_VNF பேசினார்\V_VM_VF .\RD_PUNC
+TMED262	மகள்களுக்கு\N_NN முழு\N_NN சுதந்திரம்\N_NN தந்த\JJ தந்தையின்\N_NN பேச்சாக\RB அது\PR_PRP இருந்ததது\V_VM .\RD_PUNC
+TMED263	தகராறு\N_NN படத்தின்\N_NN பிரஸ்மீட்\RD_RDF .\RD_PUNC இது\PR_PRP வரை\PSP தயங்கித்\V_VM_VNF தயங்கி\V_VM_VNF பேசிவந்த\V_VM_VNF அருள்நிதி\N_NN அருவியாக\RB பொழிந்தார்\V_VM_VNF என்று\CC_CCS_UT தான்\RP_RPD சொல்ல\V_VM_VINF வேண்டும்\V_VAUX
+TMED264	இயல்பாக\RB அவர்\PR_PRP தன்னையே\PR_PRP ஜாலியாக\RB விமர்சித்தது\V_VM_VF
+TMED265	ஜனநாயகத்தின்\N_NN ஸ்வாமி\N_NN இந்தியன்\N_NNP எக்ஸ்பிரஸ்\RD_RDF குழுவின்\N_NN நிலைமை\N_NN இப்பொழுது\RB கெடவில்லை\V_VAUX ,\RD_PUNC எடிட்டர்\RD_RDF தொடங்கியது\V_VM_VF ?\RD_PUNC
+TMED266	இரண்டாம்\QT_QTO உலகம்\N_NN நவம்பர்\N_NN 22\QT_QTC வெளியாகிறது\V_VM_VF .\RD_PUNC படத்தின்\N_NN புரமோஷன்\RD_RDF முழு\N_NN வீச்சில்\N_NN தொடங்கியிருக்க\V_VM_VINF ,\RD_PUNC ஆர்யா\N_NNP ,\RD_PUNC அனுஷ்காவுடன்\N_NNP பத்திரிகையாளர்களை\N_NN சந்தித்தார்\V_VM_VF செல்வராகவன்\N_NNV .\RD_PUNC
+TMED267	வழக்கமான\JJ விளையாட்டுத்தனங்கள்\N_NN குறைந்து\V_VM_VNF ஆர்யா\N_NNP சீரியஸாக\RD_RDF பதிலளித்தது\V_VM_VNF ஆச்சரியம்\V_VM_VF
+TMED268	நீண்ட\JJ நாள்களுக்குப்\N_NN பிறகு\PSP ஒரு\JJ வெற்றி\N_NN .\RD_PUNC அதுவும்\PR_PRP தனது\PR_PRP முதல்\QT_QTC தயாரிப்பில்\N_NN .\RD_PUNC கொண்டாடி\V_VM_VNF தீர்ப்பது\V_VM_VNF என்று\CC_CCS_UT முடிவு\N_NN செய்துவிட்டார்\V_VM_VNF விஷால்\N_NNP
+TMED269	படத்தை\N_NN விளம்பரப்படுத்தவும்\V_VM_VNF ,\RD_PUNC ரசிகர்களை\N_NN சந்தித்து\V_VM_VNF நன்றி\N_NN தெரிவிக்கவும்\V_VM_VNF ஊர்\N_NN ஊராக\RB சென்று\V_VM_VNF கொண்டிருப்பவர்\N_NNV அளித்த\JJ பேட்டியின்\N_NN சருக்கம்\N_NN இங்கே\N_NST உங்களுக்காக\RB
+TMED27	அதன்\PR_PRP கொடூரமான\JJ தோற்றத்தையும்\N_NN ,\RD_PUNC அவலட்சணமான\JJ வாலையும்\N_NN பார்த்த\JJ புலவர்\N_NN இது\PR_PRP நமக்கு\PR_PRP உதவுமா\V_VM_VNF என்று\CC_CCS_UT எண்ணினார்\V_VM_VF .\RD_PUNC ஆனால்\CC_CCS நரி\N_NN ,\RD_PUNC புலவரின்\N_NN நிலையை\N_NN எண்ணி\V_VM_VNF இரங்கியது\V_VM_VF .\RD_PUNC
+TMED270	சாவுக்கு\N_NN பயந்தவனுக்கு\V_VM_VNF தான்\RP_RPD தினம்\N_NST தினம்\N_NST சாவு\N_NN
+TMED271	எதுக்குமே\PR_PRP பயப்படாதவனுக்கு\V_VM_VNF ஒரு\JJ முறை\N_NN தான்\RP_RPD சாவு\N_NN .\RD_PUNC
+TMED272	அ‌‌‌ஜீத்தின்\N_NNP இந்த\DM_DMD பன்ச்\RD_RDF டயலாக்குடன்\RD_RDF ஆரம்பிக்கிறது\V_VM_VNF ஆரம்பம்\N_NN ட்ரெய்லர்\RD_RDF .\RD_PUNC
+TMED273	நேற்று\N_NST வெளியிடப்பட்ட\JJ இந்த\DM_DMD ட்ரெய்லருக்காக\RD_RDF தான்\RP_RPD ரசிகர்கள்\N_NN பல\QT_QTF நாட்களாக\RB காத்திருந்தனர்\V_VAUX .\RD_PUNC
+TMED274	பில்லா\N_NN 2வின்\QT_QTO -\RD_PUNC தோல்வியை\N_NN ஆரம்பம்\N_NN மறக்கடிக்குமா\V_VM_VNF என்பதே\CC_CCS_UT அனைவ‌ரின்\N_NN கேள்வியாக\RB இருந்தது\V_VM
+TMED275	சிங்கம்\N_NN ,\RD_PUNC துப்பாக்கி\N_NN ,\RD_PUNC தலைவா\N_NN போன்ற\JJ படங்கள்\N_NN கேளிக்கையை\N_NN பிரதானமாகக்\RB கொண்டு\PSP எடுக்கப்படுபவை\V_VM_VF .\RD_PUNC
+TMED276	சுவாரஸியத்தில்\N_NN அவை\PR_PRP கோட்டை\N_NN விடும்\V_VM_VNF போது\RB மட்டுமே\PSP லாஜிக்\RD_RDF இன்ன\JJ பிற\JJ குறைகளைப்\N_NN பற்றி\PSP பேச\V_VM_VINF ஆரம்பிக்கிறோம்\V_VM_VF .\RD_PUNC அல்லது\CC_CCD குறைகள்\N_NN மலியும்\V_VM_VNF போது\PSP சுவாரஸியம்\N_NN இல்லாமல்\RP_NEG ஆகிறது\V_VM .\RD_PUNC
+TMED277	அந்த\JJ வகையில்\N_NN சின்ன\JJ சின்ன\JJ குறைகளைத்\N_NN தாண்டி\V_VM_VNF சுவாரஸியத்தை\N_NN தந்த\JJ பொழுதுப்\N_NN போக்கு\N_NN படம்\N_NN துப்பாக்கி\N_NN .\RD_PUNC சரி\V_VM_VF ,\RD_PUNC தலைவா\N_NN எந்த\PR_PRQ மாதிரி\N_NN ...\RD_PUNC
+TMED278	மிகப்\RP_INTF பெரிய\JJ வெற்றி\N_NN பெற்ற\JJ சிங்கத்தின்\N_NN இரண்டாம்\QT_QTO பாகம்\N_NN .\RD_PUNC
+TMED279	சிங்கத்தின்\N_NN முடிவில்\V_VM_VNF இருந்து\PSP படம்\N_NN தொடங்குகிறது\V_VM_VF
+TMED28	``\RD_PUNC ``\RD_PUNC உங்கள்\PR_PRP வழக்கு\N_NN எனக்குப்\PR_PRP புரியவில்லை\V_VAUX .\RD_PUNC எனக்கு\PR_PRP அது\PR_PRP புரிய\JJ நீங்கள்\PR_PRP முதலில்\QT_QTO இருந்த\N_NN இடங்களில்\N_NN நில்லுங்கள்\N_NN .\RD_PUNC அதைப்\PR_PRP பார்த்து\V_VM_VNF தான்\RP_RPD நான்\PR_PRP தீர்ப்புச்\N_NN சொல்ல\V_VM_VINF வேண்டும்\V_VAUX `\RD_PUNC `\RD_PUNC என்றது\N_NN நரி\N_NN .\RD_PUNC
+TMED280	சிங்கத்தில்\N_NN வில்லன்\N_NN பிரகாஷ்ராஜை\N_NNP கொன்ற\JJ பின்\PR_PRP ,\RD_PUNC தனது\PR_PRP வேலையை\N_NN ராஜினாமா\N_NN செய்து\V_VM_VNF தூத்துக்குடியில்\N_NNP உள்ள\JJ பள்ளி\N_NN ஒன்றில்\QT_QTO என்\RD_RDF சி\RD_RDF சி\RD_RDF மாஸ்டராக\RD_RDF வேலைக்கு\N_NN சேர்கிறார்\V_VM_VF சூர்யா\N_NNP .\RD_PUNC
+TMED281	தூத்துக்குடியில்\N_NNP ஆயுதக்\N_NN கடத்தல்\N_NNV செய்யும்\JJ கும்பலை\N_NN கண்டுபிடிக்கதான்\V_VM_VF
+TMED282	இந்த\DM_DMD நாடகம்\N_NN என்பது\CC_CCS_UT சூர்யாவுக்கும்\N_NNP ,\RD_PUNC அமைச்சர்\N_NN விஜயகுமாருக்கும்\N_NNP மட்டுமே\PSP தெரிந்த\V_VM_VNF ரகசியம்\N_NN
+TMED283	வடிவேலு\N_NNP ஒரு\JJ படத்தில்\N_NN குடித்துவிட்டு\V_VM_VNF ,\RD_PUNC உன்னைப்\PR_PRP பார்த்து\V_VM_VNF கண்\N_NN அடிச்சேனா\V_VM_VF ,\RD_PUNC கையைப்\N_NN பிடிச்சி\N_NN இழுத்தேனா\V_VM_VNF ,\RD_PUNC கட்டிப்\V_VM_VNF பிடிச்சி\V_VM_VNF முத்தம்\N_NN தந்தேனா\V_VM_VNF என்று\CC_CCS_UT சொல்லிக்\V_VM_VNF கொண்டே\V_VM_VNF கடைப்\N_NN பெண்ணிடம்\N_NN அத்தனையும்\PR_PRP செய்துவிடுவார்\V_VM_VNF இல்லையா\V_VAUX .\RD_PUNC
+TMED284	ரொம்ப\JJ நாட்களாக\RB குழந்தை\N_NN இல்லாத\JJ தம்பதியினர்\N_NN குழந்தை\N_NN நல்லபடியாகப்\RB பிறந்தால்\V_VM_VNF குலதெய்வத்தின்\N_NN பெயரை\N_NN குழந்தைக்கு\N_NN வைப்பதாக\RB வேண்டிக்\V_VM_VNF கொள்கிறார்கள்\V_VM_VF
+TMED285	குழந்தை\N_NN நல்லபடியாக\RB பிறக்கிறது\V_VM_VF .\RD_PUNC
+TMED286	குஞ்சிதபாதம்\N_NN என்ற\CC_CCS_UT பெயரை\N_NN குழந்தைக்கு\N_NN வைக்கிறார்கள்\V_VM_VF
+TMED287	தயாரிப்பாளர்கள்\N_NN சங்கத்\N_NN தலைவராக\RB பொறுப்பேற்றிருக்கும்\V_VM_VNF கேயார்\N_NNP தொலைநோக்குடன்\N_NN பிரச்சனைகளை\N_NN எதிர்கொள்கிறவர்\V_VM_VNF என்ற\CC_CCS_UT நம்பிக்கை\N_NN பரவலாக\RB இருக்கிறது\V_VM .\RD_PUNC
+TMED288	பிரச்சனைகளின்\N_NN உடனடி\N_NN தீர்வை\N_NN நோக்கி\V_VM_VNF செல்லாமல்\V_VM_VNF நிரந்தர\JJ தீர்வுக்கான\JJ வழிகளை\N_NN உருவாக்குவார்\V_VM_VNF என்ற\CC_CCS_UT நம்பிக்கையின்\N_NN பேரிலேயே\N_NN கேயார்\N_NNP தலைவராக\RB தேர்ந்தெடுக்கப்பட்டார்\V_VM_VF .\RD_PUNC
+TMED289	சமீபமாக\RB சினிமா\RD_RDF நிகழ்ச்சிகளில்\N_NN அவர்\PR_PRP வைக்கும்\JJ கோரிக்கைகளும்\N_NN ,\RD_PUNC விடுக்கும்\JJ சவால்களும்\N_NN நம்பிக்கையை\N_NN மறுபரிசீலனை\N_NN செய்வதாகவே\RB உள்ளது\V_VM
+TMED29	அது\PR_PRP ,\RD_PUNC அவரைக்\PR_PRP காப்பாற்றுவதோடு\V_VM_VNF ,\RD_PUNC தன்னையும்\PR_PRP காத்துக்\V_VM_VNF கொள்ள\V_VM_VINF எண்ணியது\V_VM_VF .\RD_PUNC இருவரையும்\QT_QTO அழைத்துக்\V_VM_VNF கொண்டு\PSP கூண்டுள்ள\JJ இடத்துக்கு\N_NN வந்தது\V_VM_VF .\RD_PUNC
+TMED290	இந்திய\JJ சினிமாவின்\RD_RDF நூற்றாண்டை\N_NN கொண்டாடும்\JJ வகையில்\N_NN தமிழ்\N_NN ஸ்டுடியோ\RD_RDF தொடர்ந்து\V_VM_VNF நூறு\QT_QTC இந்திய\JJ திரைப்படங்களை\N_NN திரையிட்டு\V_VM_VNF வருகிறது\V_VM_VF .\RD_PUNC
+TMED291	இதில்\PR_PRP முதல்\QT_QTC கட்டமாக\RB 30\QT_QTC இந்தியத்\N_NNP திரைப்படங்கள்\N_NN திரையிடப்பட்டது\V_VM_VF .\RD_PUNC அடுத்தக்\N_NN கட்டமாக\RB திரையிடப்படும்\V_VM_VNF படங்களின்\N_NN பட்டியல்\N_NN கொடுக்கப்பட்டுள்ளது\V_VAUX
+TMED292	டிசம்பர்\N_NN 20\QT_QTC தூம்\N_NN சீரிஸின்\RD_RDF 3ஆம்\QT_QTO பாகம்\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED293	அமீர்\N_NNP கான்\N_NNP தூம்\N_NN 3யில்\QT_QTO நடிக்கிறார்\V_VM_VF ,\RD_PUNC அதுவும்\PR_PRP வில்லனாக\RB என்றதும்\CC_CCS_UT விஷம்\N_NN மாதிரி\N_NN ஏறியது\V_VM_VF படத்தின்\N_NN மதிப்பு\N_NN .\RD_PUNC அதற்காக\RB தூம்\N_NN சீரிஸை\N_NN சாதாரணமாக\RB எடைபோட\V_VM_VINF முடியாது\V_VAUX .\RD_PUNC
+TMED294	ப்‌ரியதர்ஷனின்\N_NNP கே‌ரிய‌ரில்\N_NN பல\QT_QTF சொல்லி\V_VM_VNF தழுவியவை\V_VM_VF ,\RD_PUNC பல\QT_QTF சொல்லாமல்\V_VM_VNF தழுவியவை\V_VM_VF .\RD_PUNC
+TMED295	இவ்வளவு\QT_QTF நாள்\N_NN இதனை\PR_PRP கண்டு\V_VM_VNF கொள்ளாத\V_VM_VNF மீடியாக்கள்\RD_RDF கீதாஞ்சலி\N_NN படத்தில்\N_NN சிலிர்த்து\V_VM_VNF எழுந்துள்ளன\V_VAUX .\RD_PUNC
+TMED296	கீதாஞ்சலி\N_NN ப்‌ரியதர்ஷனின்\N_NNP குருநாதர்\N_NNP பாசில்\N_NN இயக்கிய\JJ மணிசித்ரதாழ்\N_NN படத்தின்\N_NN இரண்டாம்\QT_QTO பாகம்\N_NN
+TMED297	அது\PR_PRP என்ன\PR_PRQ ரகசியம்\N_NN என்று\CC_CCS_UT தெரியவில்லை\V_VAUX .\RD_PUNC
+TMED298	முருகதாஸ்\N_NNP ஹாலிவுட்டில்\RD_RDF இருந்து\PSP சுட்டு\V_VM_VNF இந்தியாவுக்கு\N_NNP ஏற்ப\V_VM_VNF எழுதி\V_VM_VNF இயக்கிய\JJ படம்\N_NN ஸ்டாலின்\N_NNP .\RD_PUNC
+TMED299	சிரஞ்சீவி\N_NNP நடிப்பில்\N_NN தெலுங்கில்\N_NN வெளியான\JJ படத்தின்\N_NN ஹிந்தி\N_NN பதிப்பு\N_NN தான்\RP_RPD ஜெய்\N_NN ஹோ\N_NN .\RD_PUNC
+TMED3	அவர்\PR_PRP எதிரில்\N_NN யார்\PR_PRQ துன்பப்பட்டாலும்\V_VM_VNF அதை\PR_PRP சகித்துக்\V_VM_VNF கொள்ளமாட்டார்\V_VM_VF .\RD_PUNC உடனே\PR_PRP விரைந்து\V_VM_VNF சென்று\V_VM_VNF அவர்களின்\PR_PRP துன்பங்களைக்\N_NN களைய\V_VM_VINF முற்படுவார்\V_VM_VF .\RD_PUNC எல்லா\N_NN மக்களும்\N_NN அவரது\PR_PRP இரக்கக்\JJ குணத்தைக்\N_NN கண்டு\V_VM_VNF மகிழ்ந்தனர்\V_VM_VF .\RD_PUNC
+TMED30	புலவரை\N_NN அவர்\PR_PRP நின்றிருந்த\V_VM_VNF இடத்தில்\N_NN நிறுத்தியது\V_VM_VF .\RD_PUNC அவ்வாறே\RB புலியையும்\N_NN அதன்\PR_PRP கூண்டிற்குள்\N_NN நிறுத்தியது\V_VM_VF .\RD_PUNC புலவரை\N_NN முன்பு\N_NST போலவே\PSP கதவை\N_NN மூடிக்\V_VM_VNF காட்டுமாறு\V_VM_VNF சொல்ல\V_VM_VINF ,\RD_PUNC அவரும்\PR_PRP கூண்டின்\N_NN கதவை\N_NN அழுத்தி\V_VM_VNF மூடித்\V_VM_VNF தாளிட்டார்\V_VM_VF
+TMED300	100\QT_QTC கோடி\N_NN நிச்சயம்\N_NN .\RD_PUNC கொஞ்சம்\QT_QTF முயற்சி\N_NN செய்து\V_VM_VNF விளம்பரப்படுத்தினால்\V_VM_VNF 200\QT_QTC கோடியை\N_NN தொடலாம்\V_VM_VF .\RD_PUNC
+TMED301	புல்லட்\N_NN ராஜ\N_NN திரைக்கு\N_NN வரும்\JJ முன்\N_NST பரவலாக\RB பேசப்பட்டவை\V_VM_VNF தான்\RP_RPD மேலே\N_NST நீங்கள்\PR_PRP படித்தது\V_VM_VNF .\RD_PUNC அதற்கு\PR_PRP ஏற்ப\V_VM_VNF புல்லட்\N_NN ராஜா\N_NN டிஜிட்டல்\RD_RDF கேம்\RD_RDF ,\RD_PUNC புல்லட்\N_NN ராஜா\N_NN காமிக்ஸ்\RD_RDF என்று\CC_CCS_UT போட்டு\V_VM_VNF தாக்கினார்கள்\V_VM_VF .\RD_PUNC
+TMED302	தமிழ்\N_NN ,\RD_PUNC தெலுங்கு\N_NN ,\RD_PUNC ஹிந்தி\N_NN ,\RD_PUNC போஜ\N_NN ;\RD_PUNC புரி\N_NN என\CC_CCS_UT பல\QT_QTF மொழிகளில்\N_NN நடித்த\JJ நீது\N_NNP சந்திரா\N_NNP கிரிக்\N_NN படம்\N_NN ஒன்றிலும்\QT_QTO நடித்தது\V_VM_VNF தெரிந்திருக்கும்\V_VAUX .\RD_PUNC
+TMED303	உலக\JJ சினிமா\RD_RDF பிரிவில்\N_NN இந்தப்\DM_DMD படம்\N_NN கோவா\N_NNP திரைப்பட\JJ விழாவில்\N_NN திரையிடப்பட்டது\V_VM_VF .\RD_PUNC
+TMED304	ஹேப்பி\RD_RDF நியூ\RD_RDF இயர்\RD_RDF படப்பிடிப்பு\N_NN தளத்துக்கு\N_NN சென்ற\JJ அமிதாப்பச்சன்\N_NNP ,\RD_PUNC படம்\N_NN அருமையாக\RB வந்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED305	எனக்கு\PR_PRP ஹேப்பி\RD_RDF என்று\CC_CCS_UT தெரிவித்துள்ளார்\V_VAUX .\RD_PUNC
+TMED306	ஹேப்பி\RD_RDF நியூ\RD_RDF இயருக்கு\RD_RDF நிறைய\JJ முக்கியத்துவம்\N_NN உண்டு\V_VM .\RD_PUNC
+TMED307	எந்த\DM_DMQ வழியில்\N_NN சென்றாலாவது\V_VM_VNG க்ரிஷ்\N_NN 3-யின்\QT_QTO 237\QT_QTC கோடி\N_NN சாதனையை\N_NN தவிடு\N_NN பொடியாக்க\V_VM_VINF வேண்டும்\V_VM_VNF என்ற\CC_CCS_UT முனைப்பில்\N_NN செயல்படுகிறது\V_VM_VF தூம்\N_NN 3\QT_QTC படக்குழு\N_NN .\RD_PUNC
+TMED308	டிசம்பர்\N_NN 20\QT_QTC வெளியாகும்\V_VM_VNF இந்தப்\DM_DMD படம்\N_NN ஹிந்தி\N_NN மட்டுமின்றி\V_VM_VNF தமிழ்\N_NN ,\RD_PUNC தெலுங்கிலும்\N_NN வெளியாகிறது\V_VM_VF
+TMED309	இன்றைய\JJ தேதியில்\N_NN ஹிந்தி\N_NN சினிமாவின்\RD_RDF நம்பிக்கைக்குரிய\JJ இயக்குனர்களில்\N_NN விஷால்\N_NNP பரத்வாஜ்\N_NNP முக்கியமானவர்\V_VM_VF .\RD_PUNC
+TMED31	அவ்வளவு\QT_QTF தான்\RP_RPD ,\RD_PUNC புலி\N_NN பாவம்\N_NN ,\RD_PUNC முன்பு\N_NST போல\PSP கூண்டில்\N_NN அடைபட்டுக்\V_VM_VNF கொண்டது\V_VM_VF .\RD_PUNC நரியாரை\N_NN வாழ்த்திவிட்டு\V_VM_VNF புலவர்\N_NN விடைப்\N_NN பெற்றுச்\V_VM_VNF சென்றார்\V_VM_VF .\RD_PUNC
+TMED310	எந்தப்\DM_DMQ படமாக\RB இருந்தாலும்\V_VM_VNF நம்பிப்\V_VM_VNF போகலாம்\V_VM_VF .\RD_PUNC
+TMED311	சத்ருக்கன்\N_NNP சின்காவின்\N_NNP மகள்\N_NN சோனாக்ஷி\N_NNP சின்கா\N_NNP ,\RD_PUNC அனில்\N_NNP கபூரீன்\N_NNP மகள்\N_NN சோனம்\N_NNP கபூர்\N_NNP ,\RD_PUNC தர்மேந்திராவின்\N_NNP மகள்\N_NN இஷா\N_NNP தியோல்\N_NNP என்று\CC_CCS_UT நடிகர்களின்\N_NN மகள்கள்\N_NN சினிமாவில்\RD_RDF நுழைந்திருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED312	தர்மேந்திராவின்\N_NNP இரண்டு\QT_QTC மகன்களும்\N_NN -\RD_PUNC சன்னி\N_NN தியோல்\N_NN ,\RD_PUNC பாபி\N_NN தியோல்\N_NN -\RD_PUNC பிரபலமான\JJ நடிகர்கள்\N_NN .\RD_PUNC என்றாலும்\CC_CCS_UT கான்கள்\N_NNP அளவுக்கோ\N_NN ,\RD_PUNC ரோஷன்\N_NNP அளவுக்கோ\N_NN ஸ்டாராக\RB இருவராலும்\QT_QTO முடியவில்லை\V_VAUX .\RD_PUNC
+TMED313	தர்மேந்திராவின்\N_NNP மகள்\N_NN இஷா\N_NNP தியோலாலும்\N_NNP சினிமாவில்\RD_RDF பெரிதாக\RB சாதிக்க\V_VM_VINF முடியவில்லை\V_VAUX .\RD_PUNC
+TMED314	இந்தி\N_NN நாளிதழ்\N_NN ஒன்றில்\QT_QTO வெளியான\JJ செய்தி\N_NN தான்\RP_RPD இது\PR_PRP !\RD_PUNC !\RD_PUNC அமிதாப்\N_NNP ,\RD_PUNC ஜெயா\N_NNP பச்சன்\N_NNP வீட்டில்\N_NN இருந்து\PSP பிரிந்து\V_VM_VNF தனிக்குடித்தனம்\N_NN செல்ல\V_VM_VINF விரும்புகிறாராம்\V_VM_VF ஐஸ்வர்யாராய்\N_NNP பச்சன்\N_NNP .\RD_PUNC
+TMED315	ஏஜென்ட்\RD_RDF வினோத்\N_NNP மாதிரி\N_NN தோல்வியடைந்து\V_VM_VNF விடக்\PSP கூடாது\V_VM_VNF என்பதில்\CC_CCS_UT கவனமாக\RB இருக்கிறார்\V_VM சைப்\N_NNP அலிகான்\N_NNP .\RD_PUNC
+TMED316	நவம்பர்\N_NN 28\QT_QTC வெளியாகவிருக்கும்\V_VM_VNF புல்லட்\N_NN ராஜா\N_NN படத்துக்கு\N_NN தான்\RP_RPD இந்த\DM_DMD முன்னெச்சரிக்கை\N_NN
+TMED317	வெளிநாடுகளின்\N_NN ஒட்டு\N_NN மொத்த\JJ ஓபனிங்\RD_RDF வசூலில்\N_NN க்ரிஷ்\N_NN 3யை\QT_QTO ராம்\N_NN லீலா\N_NN முந்தியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED318	கடந்த\JJ சில\QT_QTF படங்கள்\N_NN பன்சாலிக்கு\N_NN வொர்க்\RD_RDF அவுட்டாகவில்லை\V_VM .\RD_PUNC
+TMED319	ராம்\N_NNP லீலாவும்\N_NNP அந்த\DM_DMD லிஸ்டில்\RD_RDF சேர்ந்துவிடுமோ\V_VM_VNF என்ற\CC_CCS_UT உலகமகா\N_NN பயத்துடன்\N_NN தான்\RP_RPD படத்தை\N_NN வெளியிட்டார்\V_VM_VF .\RD_PUNC
+TMED32	இடிச்சத்தம்\N_NN காதைக்\N_NN கிழிக்க\V_VM_VINF ,\RD_PUNC மின்னலொளி\N_NN கண்ணைப்\N_NN பறிக்க\V_VM_VINF அடைமழை\N_NN விடாது\V_VM பெய்து\V_VM_VNF கொண்டிருந்தது\V_VAUX .\RD_PUNC
+TMED320	ஆனால்\CC_CCS ரசிகர்கள்\N_NN படத்தை\N_NN கொண்டாடி\V_VM_VNF தீர்த்துவிட்டார்கள்\V_VAUX .\RD_PUNC
+TMED321	முதல்\QT_QTC நாள்\N_NN இந்திய\JJ கலெக்ஷன்\RD_RDF மட்டும்\PSP 16\QT_QTC கோடிகள்\N_NN .\RD_PUNC
+TMED322	ஞாயிறு\N_NN முடிந்த\V_VM_VF போது\PSP கலெக்ஷன்\RD_RDF 50\QT_QTC கோடியை\N_NN தாண்டிவிட்டது\V_VAUX .\RD_PUNC
+TMED323	சென்னை\N_NN எக்ஸ்பிரஸின்\N_NN வெற்றியை\N_NN அமீர்\N_NNP கானின்\N_NNP தூம்\N_NN 3\QT_QTC முறியடிக்குமா\V_VM_VF ?\RD_PUNC சல்மான்\N_NNP கானின்\N_NNP ஜெய்\N_NN ஹோ\N_NN புரட்டிப்\N_NN போடுமா\V_VM_VNF என்று\CC_CCS_UT கூடிப்\V_VM_VNF பேசிக்\V_VM_VNF கொண்டிருக்கையில்\V_VM_VNF க்ரிஷ்\N_NN 3\QT_QTC வந்து\V_VM_VNF ஊதித்\V_VM_VNF தள்ளியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED324	இந்திய\JJ சினிமா\RD_RDF வரலாற்றில்\N_NN அதிகம்\QT_QTF வசூல்\N_NN செய்த\JJ படம்\N_NN இப்போது\N_NST க்ரிஷ்\N_NN 3\QT_QTC தான்\RP_RPD .\RD_PUNC
+TMED325	ஆபாசம்\N_NN ,\RD_PUNC வன்முறை\N_NN நிறைந்த\JJ ஒரு\JJ படத்துக்கு\N_NN ராம்\N_NN லீலா\N_NN என்று\CC_CCS_UT பெயர்\N_NN வைப்பதா\V_VM_VF ?\RD_PUNC ராமனை\N_NNP படத்தில்\N_NN கொச்சைப்படுத்தியிருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED326	படத்தை\N_NN தடை\N_NN செய்ய\V_VM_VINF வேண்டும்\V_VAUX ,\RD_PUNC ராம்\N_NN லீலா\N_NN என்ற\CC_CCS_UT பெயரை\N_NN பயன்படுத்தக்\V_VM_VINF கூடாது\V_VAUX .\RD_PUNC
+TMED327	இந்து\N_NN அமைப்புகள்\N_NN ராம்\N_NN லீலாவுக்கு\N_NN எதிராக\RB ஆறு\QT_QTC வழக்குகள்\N_NN தொடர்ந்தன\V_VM_VF .\RD_PUNC அத்தனையையும்\PR_PRP ஒரே\JJ விளக்கத்தால்\N_NN சிதறடித்து\V_VM_VNF தடை\N_NN மீண்டிருக்கிறார்\V_VM சஞ்சய்\N_NNP லீலா\N_NNP பன்சாலி\N_NNP .\RD_PUNC
+TMED328	சென்ற\JJ வாரம்\N_NN வரை\PSP யார்\PR_PRQ ஹிந்தி\N_NN சினிமாவின்\RD_RDF வசூல்\N_NN சக்ரவர்த்தி\N_NN என்ற\CC_CCS_UT போட்டியில்\N_NN மூன்று\QT_QTC கான்கள்\N_NNP மட்டுமே\PSP இருந்தனர்\V_VM .\RD_PUNC
+TMED329	சல்மான்\N_NNP கான்\N_NNP ,\RD_PUNC ஷாருக்\N_NNP கான்\N_NNV ,\RD_PUNC அமீர்\N_NNP கான்\N_NNP
+TMED33	வெறிச்சோடிக்\V_VM_VNF கிடந்த\JJ சாலையில்\N_NN ஒரு\JJ பேரூந்து\N_NN மட்டும்\PSP ஆட்கள்\N_NN நிரம்பியவாறு\V_VM_VNF சென்று\V_VM_VNF கொண்டிருந்தது\V_VAUX .\RD_PUNC
+TMED330	சன்னி\N_NNP லியோனை\N_NNP கவர்ச்சி\N_NN நடிகை\N_NN என்றால்\CC_CCS_UT இங்கிருக்கும்\JJ கவர்ச்சி\N_NN நடிகைகள்\N_NN கோபித்துக்\V_VM_VNF கொள்வார்கள்\V_VM_VF .\RD_PUNC
+TMED331	சன்னி\N_NNP அதற்கும்\PR_PRP மேலே\N_NST .\RD_PUNC
+TMED332	ப்ளூ\RD_RDF ஃபிலிம்\RD_RDF சமாச்சாரங்களை\N_NN ஓரம்\N_NN கட்டி\V_VM_VNF முழுநேர\JJ பாலிவுட்\RD_RDF நடிகையாகிவிட்டார்\V_VAUX சன்னி\N_NNP லியோன்\N_NNP (\RD_SYM உடனே\PR_PRP வருத்தப்பட\V_VM_VINF வேண்டாம்\V_VAUX .\RD_PUNC
+TMED333	அவரின்\PR_PRP இணையத்தில்\N_NN காசு\N_NN கட்டி\V_VM_VNF உங்கள்\PR_PRP விருப்பப்\N_NN படங்களைப்\N_NN பார்க்க\V_VM_VINF வசதி\N_NN செய்திருக்கிறார்\V_VAUX )\RD_SYM .\RD_PUNC
+TMED334	தொலைக்காட்சி\N_NN நிகழ்ச்சியை\N_NN பிரபலப்படுத்த\JJ ,\RD_PUNC அதில்\PR_PRP வெற்றி\N_NN பெற்றவர்களை\V_VM_VNF திருமணம்\N_NN செய்வேன்\V_VM_VNF என்று\CC_CCS_UT பிரபல\JJ நடிகைகள்\N_NN சொல்வதுண்டு\V_VAUX .\RD_PUNC
+TMED335	ராக்கி\N_NNP சாவந்த்\N_NNP அப்படி\RB ஒரு\JJ ஸ்டேட்மெண்ட்\RD_RDF விடுத்து\V_VM_VNF கடைசியில்\N_NN அவர்\PR_PRP திருமணத்துக்கு\N_NN தேர்வு\N_NN செய்த\JJ இளைஞருக்கும்\N_NN ,\RD_PUNC நிகழ்ச்சியை\N_NN பார்த்த\JJ லட்சக்கணக்கான\JJ ரசிகர்களுக்கும்\N_NN அல்வா\N_NN தந்தது\V_VM_VNF நினைவிருக்கலாம்\V_VM
+TMED336	இப்போது\N_NST மல்லிகா\N_NNP ஷெராவத்தின்\N_NNP முறை\N_NN .\RD_PUNC
+TMED337	தனது\PR_PRP படங்களை\N_NN புரமோட்\N_NN செய்வதில்\V_VM_VNG அமீர்\N_NNP கான்\N_NNP கில்லாடி\N_NNP .\RD_PUNC
+TMED338	கமல்ஹாசனே\N_NNP தள்ளிதான்\V_VM_VNF நிற்க\V_VM_VINF வேண்டும்\V_VAUX .\RD_PUNC
+TMED339	டிசம்பர்\N_NN 20\QT_QTC வெளியாகும்\V_VM தூம்\N_NN 3\QT_QTC படத்தை\N_NN எப்படி\PR_PRQ விளம்பரப்படுத்தப்\V_VM_VINF போகிறார்\V_VM ?\RD_PUNC
+TMED34	அதில்\PR_PRP பயந்த\JJ சுபாவம்\N_NN கொண்ட\JJ அப்பாவி\N_NN ஒருவனும்\QT_QTO உட்கார்ந்திருந்தான்\V_VAUX .\RD_PUNC பேரூந்தில்\N_NN உள்ளவர்கள்\N_NNV எல்லாம்\N_NN இந்த\DM_DMD இடி\N_NN பேரூந்தின்\N_NN மேல்\PSP விழுந்து\PSP நாம்\PR_PRP எல்லோரும்\N_NN எரிந்து\V_VM_VNF சாம்பலாகப்\RB போகிறோம்\V_VAUX என\CC_CCS_UT அஞ்சினர்\V_VM_VF .\RD_PUNC
+TMED340	கேள்வியோடு\N_NN காத்திருந்தவர்களுக்கு\V_VM_VNF அவர்\PR_PRP வெளியிட்ட\JJ அறிக்கையை\N_NN பார்த்து\V_VM_VNF ஒரே\JJ ஆச்சரியம்\V_VM_VF
+TMED341	பகாங்\N_NNP ,\RD_PUNC (\RD_SYM மலாய்\N_NNV :\RD_PUNC Pahang\N_NNP )\RD_SYM ,\RD_PUNC மலேசியத்\N_NNP தீபகற்கத்தின்\N_NN கிழக்கே\N_NST உள்ள\JJ ஒரு\JJ பெரிய\JJ மாநிலம்\N_NN ஆகும்\V_VM .\RD_PUNC இந்த\DM_DMD மாநிலத்தின்\N_NN வடக்கே\N_NST கிளாந்தான்\N_NN மாநிலம்\N_NN உள்ளது\V_VM .\RD_PUNC பகாங்\N_NNP மாநிலத்திற்கு\N_NN வட\JJ மேற்கே\N_NST பேராக்\N_NNP மாநிலம்\N_NN உள்ளது\V_VM .\RD_PUNC மேற்கே\N_NST சிலாங்கூர்\N_NNP மாநிலம்\N_NN உள்ளது\V_VM .\RD_PUNC
+TMED342	மதக்\N_NN கலவரத்தில்\N_NN மாட்டிக்\V_VM_VNF கொண்ட\JJ இந்து\N_NN பெண்ணுக்கும்\N_NN ,\RD_PUNC முஸ்லீம்\N_NN இளைஞனுக்கும்\N_NN நடுவில்\N_NN மலரும்\JJ நட்பை\N_NN பற்றிய\JJ படம்\N_NN அது\PR_PRP .\RD_PUNC
+TMED343	இந்திய\JJ சினிமா\RD_RDF சரித்திரத்தில்\N_NN முக்கியமான\JJ படங்களில்\N_NN ஒன்று\QT_QTC ஷோலே\N_NN .\RD_PUNC
+TMED344	இந்தியன்\N_NNP கமர்ஷியல்\RD_RDF சினிமாக்களை\RD_RDF ஷோலேக்கு\N_NN முன்\N_NST ஷோலேக்கு\N_NN பின்\N_NST என்று\CC_CCS_UT பிரிக்கலாம்\V_VM_VF
+TMED345	ஷோலேக்கு\N_NN பிறகு\PSP வெளிவந்த\JJ கமர்ஷியல்\RD_RDF படங்களில்\N_NN அப்படத்தின்\N_NN தாக்கம்\N_NN கடுமையாக\RB இருந்ததது\V_VM .\RD_PUNC
+TMED346	தெற்கே\N_NST ஜொகூர்\N_NNP மாநிலமும்\N_NN மேற்கே\N_NST தென்\N_NST சீனக்\N_NNP கடலும்\N_NN அமைந்து\V_VM_VNF உள்ளன\V_VAUX .\RD_PUNC பகாங்\N_NNP மாநிலம்\N_NN மலேசியத்\N_NNP தலைநகர்\N_NN கோலாலம்பூரில்\N_NNP இருந்து\PSP சுமார்\N_NN 80\QT_QTC கிலோ\N_NN மீட்டர்\N_NN தொலைவில்\N_NN இருக்கின்றது\V_VM .\RD_PUNC
+TMED347	அதே\PR_PRP போல்\PSP புகை\N_NN பிடிக்கும்\JJ காட்சிகளில்\N_NN புகை\N_NN கேடு\N_NN என்று\CC_CCS_UT எழுதி\V_VM_VNF காண்பிக்க\V_VM_VINF வேண்டும்\V_VAUX .\RD_PUNC
+TMED348	சேம்பியன்ஸின்\RD_RDF விஷயம்\N_NN வித்தியாசமாக\RB இருக்கிறது\V_VAUX .\RD_PUNC
+TMED349	கிராமப்புற\JJ மனிதர்களை\N_NN இந்த\DM_DMD கணக்கெடுப்பில்\N_NN கண்டு\V_VM_VNF கொள்வதில்லை\V_VAUX .\RD_PUNC
+TMED35	அப்போது\N_NST அங்குளள\JJ ஒருவன்\QT_QTO ``\RD_PUNC இந்த\DM_DMD பேரூந்தில்\N_NN பாவங்கள்\N_NN செய்தவன்\N_NNV யாரோ\PR_PRQ இருக்கிறான்\V_VM அதனால்\CC_CCS_UT இடி\N_NN பேரூந்தின்\N_NN மேல்\PSP விழப்போகிறது\V_VAUX அவனால்\PR_PRP நாம்\PR_PRP எல்லோரும்\N_NN அழியப்போகிறோம்\V_VAUX ``\RD_PUNC என்றான்\V_VM_VF
+TMED350	பகாங்\N_NNP மாநிலம்\N_NN 11\QT_QTC மாவட்டங்களைக்\N_NN கொண்டது\V_VM_VF .\RD_PUNC குவாந்தான்\N_NNV நகரைத்\N_NN தலைநகராகவும்\RB பெக்கான்னை\N_NNP அரச\JJ நகராகவும்\RB கொண்டது\V_VM_VNF
+TMED351	படத்தை\N_NN வாங்க\JJ ஹிந்தியின்\N_NN மூன்று\QT_QTC நிறுவனங்கள்\N_NN போட்டா\N_NN போட்டி\N_NN போடுகின்றன\V_VM_VF .\RD_PUNC
+TMED352	180\QT_QTC கோடி\N_NN வரை\PSP விலை\N_NN பேசப்பட்டதாக\RB தகவல்\N_NN .\RD_PUNC
+TMED353	சச்சின்\N_NNP ஜோஷியின்\N_NNP தீபாவளி\N_NN விருந்தில்\N_NN சன்னி\N_NNP லியோன்\N_NNP கலந்து\V_VM_VNF கொள்ளாதது\V_VM_VNF விருந்தினர்களுக்கு\N_NN எதிர்பாராத\JJ அப்செட்டை\RD_RDF தந்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED354	இணையத்தில்\N_NN முழுமையாக\RB தரிசித்த\JJ சன்னி\N_NNP லியோனை\N_NNP பக்கத்தில்\N_NN பார்க்க\V_VM_VINF எல்லோருக்கும்\N_NN ஆசை\N_NN .\RD_PUNC
+TMED355	மூன்றே\QT_QTO தினங்களில்\N_NN சர்வதேச\JJ அளவில்\N_NN 100\QT_QTC கோடியை\N_NN தாண்டியது\V_VM_VF க்ரிஷ்\N_NN 3\QT_QTC .\RD_PUNC
+TMED356	இது\PR_PRP வரையான\JJ இந்திய\JJ சினிமா\RD_RDF சரித்திரத்தில்\N_NN 6வது\QT_QTO பிரமாண்ட\JJ ஓபனிங்\RD_RDF என்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED357	தனது\PR_PRP தந்தை\N_NN ராகேஷ்\N_NNP ரோஷனின்\N_NNP இயக்கத்தில்\N_NN ஹிர்த்திக்\N_NNP ரோஷன்\N_NNP நடித்த\JJ படம்\N_NN க்ரிஷ்\N_NN 3\QT_QTC .\RD_PUNC
+TMED358	அவருடன்\PR_PRP ப்ரியங்கா\N_NNP சோப்ரா\N_NNP ,\RD_PUNC கங்கனா\N_NNP ரனவத்\N_NNP ஆகியோரும்\N_NN நடித்திருந்தனர்\V_VAUX .\RD_PUNC
+TMED359	பயமுறுத்தும்\JJ ஹாரர்\N_NN படங்கள்\N_NN இந்திய\JJ ரசிகர்களுக்கு\N_NN பிடிக்கும்\V_VM_VNF என\CC_CCS_UT நடிகர்\N_NN அக்சய்\N_NNP குமார்\N_NNP தெரிவித்துள்ளார்\V_VAUX .\RD_PUNC
+TMED36	அதற்கு\PR_PRP இன்னொருவன்\QT_QTO ``\RD_PUNC அப்படியானால்\RB பேரூந்தை\N_NN நிறுத்திவிட்டு\V_VM_VNF அதோ\PR_PRP தூரத்தில்\N_NN தெரிகிறதே\V_VM_VF ஒரு\JJ மரம்\N_NN அதை\PR_PRP ஒவ்வொருவராக\JJ இறங்கி\V_VM_VNF சென்று\V_VM_VNF தொட்டு\V_VM_VNF விட்டு\PSP வருவோம்\V_VM_VF
+TMED360	அக்சய்\N_NNP குமார்\N_NNP நடித்த\JJ பாஸ்\N_NN படம்\N_NN வார\JJ இறுதியில்\N_NN 45\QT_QTC கோடிகளை\N_NN வசூலித்துள்ளது\V_VAUX .\RD_PUNC
+TMED361	நூறு\QT_QTC கோடியை\N_NN படம்\N_NN எட்டும்\V_VM_VNF என்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED362	தூம்\N_NN 3\QT_QTC மூலம்\PSP எந்த\PR_PRQ சாதனையையும்\N_NN நான்\PR_PRP உடைப்பதாக\RB இல்லை\V_VM_VNF என\CC_CCS_UT தெரிவித்துள்ளார்\V_VAUX
+TMED363	அமீர்\N_NNP கான்\N_NNP .\RD_PUNC தூம்\N_NN ஒன்று\QT_QTC மற்றும்\CC_CCD இரண்டு\QT_QTC பாகங்கள்\N_NN பெரிய\JJ வெற்றியை\N_NN பெற்ற\JJ படங்கள்\N_NN
+TMED364	அவைகளை\PR_PRP தாண்டி\V_VM_VNF தூம்\N_NN 3க்கு\QT_QTO எதிர்பார்ப்பு\N_NN உள்ளது\V_VM .\RD_PUNC காரணம்\N_NN அமீர்\N_NNP கான்\N_NNP .\RD_PUNC
+TMED365	தூம்\N_NN சீரிஸில்\RD_RDF அவர்\PR_PRP நடிப்பது\V_VM_VNG இதுவே\PR_PRP முதல்\QT_QTC முறை.\N_NN அதுவும்\PR_PRP வில்லனாக\RB நடிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED366	தமிழில்\N_NN வெளியான\JJ ரமணா\N_NNP படத்தை\N_NN கப்பார்\N_NN என்ற\CC_CCS_UT பெயரில்\N_NN ஹிந்தியில்\N_NN ரீமேக்\RD_RDF செய்கிறார்\V_VM_VF சஞ்சய்\N_NNP லீலா\N_NNP பன்சாலி\N_NNP .\RD_PUNC
+TMED367	இந்தப்\DM_DMD படத்தை\N_NN வானம்\N_NN படத்தை\N_NN இயக்கிய\JJ க்ரிஷ்\N_NN இயக்குவார்\V_VM_VNF என்று\CC_CCS_UT கூறப்பட்டது\V_VM_VF .\RD_PUNC
+TMED368	ஹீரோ\RD_RDF அக்ஷய்\N_NNP குமார்\N_NNP .\RD_PUNC ஹீரோயினாக\RD_RDF நடிக்க\JJ அமலா\N_NNP பால்\N_NN முதல்\QT_QTF ஸ்ருதிஹாசன்\N_NNP வரை\PSP பல\QT_QTF பெயர்கள்\N_NN அடிபட்டன\V_VM_VF .\RD_PUNC
+TMED369	ஆப்பிரிக்க\JJ நாடான\JJ மொராக்கோவில்\N_NNP கடந்த\JJ 12\QT_QTC வருடங்களாக\RB சர்வதேச\JJ திரைப்பட\JJ விழா\N_NN நடந்து\V_VM_VNF வருகிறது\V_VM_VF .\RD_PUNC
+TMED37	அப்போது\N_NST பாவம்\N_NN செய்தவன்\N_NNV யாரோ\PR_PRQ அவன்\PR_PRP மேல்\N_NST இடி\N_NN விழட்டும்\V_VM_VF .\RD_PUNC மற்றவர்கள்\N_NN எல்லாம்\N_NN தப்பித்து\V_VM_VNF கொள்ளலாம்\V_VM_VF \RD_PUNC என்றான்\V_VM_VF
+TMED370	இந்த\DM_DMD வருடம்\N_NN நவம்பர்\N_NN 29ஆம்\QT_QTO தேதி\N_NN 13வது\QT_QTO திரைப்படவிழா\N_NN தொடங்குகிறது\V_VM_VF .\RD_PUNC
+TMED371	நிறைவுநாள்\N_NN டிசம்பர்\N_NN 7\QT_QTC .\RD_PUNC மொத்தம்\N_NN 9\QT_QTC தினங்கள்\N_NN .\RD_PUNC
+TMED372	அக்டோபர்\N_NN 25\QT_QTC வெளியாவதாக\RB இருந்த\V_VM_VNF ராம்\N_NNP கோபால்\N_NNP வர்மாவின்\N_NNP சத்யா\N_NNP 2வின்\QT_QTO ரிலீஸ்\RD_RDF தள்ளிப்\V_VM_VNF போயுள்ளது\V_VAUX
+TMED373	சட்ட\JJ விரோதமாக\RB ஆயுதம்\N_NN வைத்திருந்ததற்காக\RB ஐந்தாண்டு\QT_QTO சிறைத்\N_NN தண்டனையை\N_NN புனே\N_NNP ஏர்வாடா\N_NNP சிறையில்\N_NN அனுபவித்து\V_VM_VNF வருகிறார்\V_VM_VF நடிகர்\N_NN சஞ்சய்\N_NNP தத்\N_NNV .\RD_PUNC
+TMED374	அவருக்கு\PR_PRP தண்டனை\N_NN குறைப்புக்காக\RB மத்திய\JJ அரசு\N_NN முயற்சி\N_NN செய்து\V_VM_VNF வருவதாக\RB தெரிகிறது\V_VM_VF .\RD_PUNC
+TMED375	இரண்டு\QT_QTC வளர்ந்த\JJ குழந்தைக்கு\N_NN தாயான\JJ பிறகும்\PSP இப்படி\RB கவர்ச்சியாக\RB ட்ரெஸ்\RD_RDF அணிகிறாரே\V_VM_VNF என\CC_CCS_UT குற்றச்சாட்டுக்கு\N_NN ஆளானவர்\V_VM_VF ஸ்ரீதேவி\V_VM_VF .\RD_PUNC
+TMED376	ஆனாலும்\CC_CCS அவருக்குள்ளும்\PR_PRP ஒரு\JJ 16\QT_QTC வயது\N_NN மயில்\N_NN ஒளிந்து\V_VM_VNF கொண்டு\PSP தான்\RP_RPD இருக்கிறார்\V_VM .\RD_PUNC
+TMED377	அர்னால்ட்\N_NNP ஸ்வாஸ்நேகர்\N_NNP ,\RD_PUNC சில்வஸ்டர்\N_NNP ஸ்டாலோன்\N_NNP நடித்திருக்கும்\V_VM_VF எஸ்கேப்\N_NN பிளான்\N_NN படம்\N_NN வருகிற\JJ 18ஆம்\QT_QTO தேதி\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED378	இந்தப்\DM_DMD படத்தை\N_NN இந்தியாவில்\N_NNP பி\RD_RDF வி\RD_RDF ஆர்\RD_RDF பிக்சர்ஸ்\RD_RDF வெளியிடுகிறது\V_VM_VF .\RD_PUNC
+TMED379	அக்டோபர்\N_NN 25\QT_QTC ராம்\N_NNP கோபால்\N_NNP வர்மாவின்\N_NNP சத்யா\N_NNP 2\QT_QTC வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED38	எல்லோரும்\N_NN உடன்பட்டு\V_VM_VNF ஒவ்வொருவராக\RB இறங்கிச்\V_VM_VNF சென்று\V_VM_VNF மரத்தை\N_NN தொட்டு\V_VM_VNF விட்டு\PSP வந்து\V_VM_VNF ஏறி\V_VM_VNF ``\RD_PUNC நான்\PR_PRP பாவம்\N_NN செய்யவில்லை\V_VM_VNF ``\RD_PUNC என்று\CC_CCS_UT பெருமூச்சு\N_NN விட்டனர்\V_VM .\RD_PUNC
+TMED380	இந்திய\JJ சினிமாவில்\RD_RDF அதிகளவு\N_NN நிழல்\N_NN உலக\JJ தாதாக்களைப்\N_NN பற்றிய\JJ படங்களை\N_NN எடுத்தவர்\V_VM_VNF வர்மா.\N_NNP
+TMED381	இன்னும்\RB சில\QT_QTF வருடங்கள்\N_NN இப்படியே\RB போனால்\V_VM_VNF உலக\JJ அளவில்\N_NN முதலிடம்\N_NN கிடைக்கும்\V_VM_VF .\RD_PUNC
+TMED382	அக்ஷய்\N_NNP குமாரின்\N_NNP பாஸ்\RD_RDF வெளியாகியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED383	அக்ஷய்\N_NN படத்தில்\N_NN சினிமா\RD_RDF என்ற\CC_CCS_UT கலையை\N_NN அடுத்தக்கட்டத்துக்கு\N_NN நகர்த்தவா\V_VM_VNF போகிறார்கள்\V_VM_VF ?\RD_PUNC காமெடி\RD_RDF பிளஸ்\RD_RDF ஆக்ஷன்\RD_RDF தான்\RP_RPD பாஸின்\RD_RDF ஃபார்முலா\RD_RDF .\RD_PUNC
+TMED384	நய்யாண்டியில்\N_NN எனக்குப்\PR_PRP பதில்\N_NN பாடி\N_NN டபுளை\RD_RDF வைத்து\V_VM_VNF ஆபாசமாக\RB எடுத்துவிட்டார்கள்\V_VM_VNF என்ற\CC_CCS_UT நஸ்ரியா\N_NNP நசீமின்\N_NNP குற்றச்சாட்டு\N_NN தமிழகத்தை\N_NN கலக்கி\V_VM_VNF ஒரு\JJ நாள்\N_NN தான்\RP_RPD ஆகிறது\V_VM
+TMED385	இந்நிலையில்\N_NN வடக்கே\N_NST இருந்து\PSP ஒரு\JJ அபயக்\N_NN குரல்\N_NN .\RD_PUNC சன்னி\N_NNV லியோனுக்கும்\N_NNP பாடி\V_VM_VNF டபுளை\RD_RDF பயன்படுத்தி\V_VM_VNF இருக்கிறார்களாம்\V_VM_VF .\RD_PUNC
+TMED386	இயக்குனரான\JJ பிறகு\PSP வேறு\JJ இயக்குனர்களின்\N_NN படங்களுக்கு\N_NN கோரியோகிராஃப்\N_NNP செய்வதில்லை\JJ பிரபுதேவா\N_NNP
+TMED387	எப்போதாவது\PR_PRQ சில\QT_QTF விதிவிலக்குகள்\N_NN இருக்கலாம்\V_VM .\V_VM
+TMED388	அக்சய்\N_NNP குமார்\N_NNP நடித்திருக்கும்\V_VM_VNF பாஸ்\RD_RDF அப்படி\RB ஒரு\JJ விதிவிலக்கு\N_NN .\RD_PUNC
+TMED389	நேற்று\RB அமிதாப்பச்சனின்\N_NNP 71வது\QT_QTO பிறந்தநாள்\N_NN .\RD_PUNC
+TMED39	கடைசியாக\RB அந்த\DM_DMD அப்பாவி\N_NN மட்டும்\PSP பயந்து\V_VM_VNF கொண்டு\PSP இறங்கிச்செல்லாமல்\V_VM_VNF உட்கார்ந்திருந்தான்\V_VAUX .\RD_PUNC
+TMED390	அவரின்\PR_PRP பிறந்த\JJ நாளை\N_NN முன்னிட்டு\V_VM_VNF மூன்றாயிரம்\QT_QTO வீடுகளுக்கு\N_NN இலவச\JJ சோலார்\N_NN மின்\N_NN வசதி\N_NN செய்துத்\V_VM_VNF தரப்பட\V_VM_VINF உள்ளது\V_VAUX
+TMED391	ஷாருக்கான்\N_NNP ,\RD_PUNC தீபிகா\N_NNP படுகோன்\N_NNP நடிப்பில்\N_NN வெளிவந்த\JJ சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN திரைப்படம்\N_NN இப்போது\N_NST எகிப்திலும்\N_NNP வெளியாகியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED392	விவேக்\N_NNP ஓபராய்\N_NNP நடித்த\JJ கிராண்ட்\N_NN மஸ்தி\N_NN திரைப்படம்\N_NN சர்வதேச\JJ அளவில்\N_NN 100\QT_QTC கோடியை\N_NN வசூலித்துள்ளது\V_VAUX
+TMED393	100\QT_QTC கோடி\N_NN கிளப்\RD_RDF என்பது\CC_CCS_UT இந்தியாவில்\N_NNP 100\QT_QTC கோடியை\N_NN வசூலிக்கும்\JJ படங்களுக்குரியது\V_VM_VF .\RD_PUNC
+TMED394	சமீபத்தில்\N_NN வெளியான\JJ அடல்ஸ்\N_NN ஒன்லி\N_NN படமான\JJ கிரான்ட்\N_NN மஸ்தி\N_NN இந்தியாவில்\N_NNP இது\PR_PRP வரை\PSP 95\QT_QTC .\RD_PUNC 25\QT_QTC கோடிகளை\N_NN வசூலித்துள்ளது\V_VAUX .\RD_PUNC
+TMED395	வான்டட்\N_NN ,\RD_PUNC ரவுடி\N_NN ரத்தோர்\N_NN ,\RD_PUNC ராமையா\N_NN வஸ்தாவையா\N_NN படங்களுக்குப்\N_NN பிறகு\PSP பிரபுதேவா\N_NNP ஹிந்தியில்\N_NN இயக்கியிருக்கும்\V_VM_VNF படம்\N_NN ரா\N_NN ...\RD_PUNC ராஜ்குமார்\N_NNP .\RD_PUNC
+TMED396	இதன்\PR_PRP ஃபர்ஸ்ட்\RD_RDF லுக்\RD_RDF போஸ்டர்களை\RD_RDF வெளியிட்டுள்ளனர்\V_VAUX .\RD_PUNC
+TMED397	நமக்கு\PR_PRP கவர்ச்சிப்\N_NN படம்\N_NN மாதிரி\N_NN தொலைக்காட்சிகளுக்கு\N_NN ராக்கி\N_NN சாவந்த்\N_NN .\RD_PUNC ஏதாவது\CC_CCS ஒரு\JJ நிகழ்ச்சியில்\N_NN அவரை\PR_PRP கமிட்\RD_RDF செய்தால்\V_VM_VNF போதும்\V_VM_VF ஏடாகூடமாக\RB பேசியே\V_VM_VNF நிகழ்ச்சியை\N_NN ஹிட்டாக்கி\RD_RDF விடுவார்\V_VM
+TMED398	பயபுள்ளயோட\N_NN செலக்ஷன்\RD_RDF இருக்கே\V_VM ...\RD_PUNC ம்ஹும்\RP_INJ .\RD_PUNC
+TMED399	அடல்ஸ்\N_NN ஒன்லி\N_NN சமாச்சாரங்கள்\N_NN நிறைந்த\JJ கிரான்ட்\N_NN மஸ்தி\N_NN திரைப்படம்\N_NN பாக்ஸ்\RD_RDF ஆபிஸில்\RD_RDF கலக்குகிறது\V_VM_VF .\RD_PUNC
+TMED4	ஒரு\JJ நாள்\N_NN புலவர்\N_NN சொக்கநாதர்\N_NNP ,\RD_PUNC பக்கத்து\N_NN ஊரிலுள்ள\JJ நண்பரின்\N_NN மகளுக்குக்\N_NN கல்வி\N_NN கற்பிக்க\V_VM_VINF புத்தகத்துடன்\N_NN சென்றார்\V_VM_VF .\RD_PUNC ஒரு\JJ காட்டு\N_NN வழியே\N_NN நடந்து\V_VM_VNF சென்று\V_VM_VNF கொண்டிருந்த\V_VM_VNF போது\PSP ,\RD_PUNC திடீரென்று\RB உறுமல்\N_NN சத்தம்\N_NN கேட்டது\V_VM_VF .\RD_PUNC அச்சத்துடன்\N_NN திரும்பிப்\V_VM_VNF பார்த்தார்\V_VM_VF புலவர்\N_NN .\RD_PUNC
+TMED40	எல்லோரும்\N_NN அவனைப்\PR_PRP பார்த்து\V_VM_VNF அப்படியானால்\RB பாவம்\N_NN செய்தவன்\N_NNV நீயாகத்\RB தான்\RP_RPD இருக்க\V_VM_VINF வேண்டும்\V_VAUX .\RD_PUNC உன்னால்\PR_PRP நாம்\PR_PRP எல்லோரும்\N_NN உயிரை\N_NN விட\PSP முடியாது\V_VM
+TMED400	நூறு\QT_QTC கோடி\N_NN கிளப்பில்\RD_RDF சேர்வதற்கான\JJ அனைத்து\N_NN அடையாளங்களும்\N_NN முதல்\QT_QTC வார\JJ வசூலில்\N_NN தெரிகிறது\V_VM_VF .\RD_PUNC
+TMED401	எண்பதுகளிலும்\QT_QTO தொண்ணூறுகளிலும்\RD_RDF ரசிகர்களின்\N_NN மனம்\N_NN கவர்ந்த\JJ நடிகையாக\RB இருந்தவர்\V_VM_VNF டிம்பிள்\N_NNP கபாடியா\N_NNP .\RD_PUNC
+TMED402	விக்ரம்\N_NNP படத்தில்\N_NN மன்னரின்\N_NN தங்கையாக\RB வந்து\V_VM_VNF கமலிடம்\N_NNP மனதை\N_NN பறிகொடுக்கும்\V_VM_VNF அவரின்\PR_PRP கதாபாத்திரம்\N_NN மறக்க\V_VM_VINF முடியாத\V_VM_VNF ஒன்று\QT_QTC
+TMED403	சினிமாவில்\RD_RDF நடிக்கும்\JJ மிருகங்களின்\N_NN கேரக்டர்\RD_RDF பெயராக\RB சினிமா\RD_RDF நட்சத்திரங்களின்\N_NN பெயர்களை\N_NN சூட்டுவது\V_VM_VNG ஆச்சர்யமில்லை\V_VM .\RD_PUNC
+TMED404	வம்சம்\N_NN படத்தில்\N_NN வரும்\JJ மாடுக்கு\N_NN அசின்\V_VM_VNF என்ற\CC_CCS_UT பெயரை\N_NN வைத்திருந்தார்கள்\V_VAUX .\RD_PUNC
+TMED405	அது\PR_PRP போல்\PSP பல\QT_QTF படங்கள்\N_NN .\RD_PUNC ஆனாலும்\CC_CCS மூன்றாம்\QT_QTO பிறை\N_NN படத்தில்\N_NN பாலுமகேந்திரா\N_NNP நாய்க்குட்டிக்கு\N_NN வைத்த\JJ சுப்பிரமணி\N_NN பெயர்\N_NN மறக்க\V_VM_VINF முடியாது\V_VAUX .\RD_PUNC
+TMED406	ஸ்ரீதேவியின்\N_NNP கொஞ்சும்\JJ குரலில்\N_NN கேட்டு\V_VM_VNF கேட்டு\V_VM_VNF தமிழ்\N_NN மனங்களில்\N_NN அது\PR_PRP பதிந்துவிட்டது\V_VAUX .\RD_PUNC
+TMED407	சஞ்சய்\N_NNP லீலா\N_NNP பன்சாலியின்\N_NNP ராம்லீலா\N_NN படத்தின்\N_NN பர்ஸ்ட்\RD_RDF லுக்கை\RD_RDF ஒரு\JJ வழியாக\RB வெளியிட்டிருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED408	ஏன்\PR_PRQ ஒரு\JJ வழியாக\RB என்ற\CC_CCS_UT பிரயோகம்\N_NN ...\RD_PUNC ?\RD_PUNC காரணம்\N_NN இருக்கிறது\V_VM .\RD_PUNC
+TMED409	ராம்லீலாவை\N_NNP தொடங்குவது\V_VM_VNG என்று\CC_CCS_UT முடிவானதும்\V_VM_VNF பன்சாலி\N_NNP கால்ஷீட்\RD_RDF சென்றது\V_VM_VF கரினா\N_NNP கபூரிடம்\N_NNP .\RD_PUNC
+TMED41	நீயும்\PR_PRP இரங்கிச்\V_VM_VNF செல்\V_VM_VINF என்றனர்\V_VM_VF .\RD_PUNC அதற்கு\PR_PRP அவன்\PR_PRP நான்\PR_PRF போக\V_VM_VINF மாட்டேன்\V_VM_VNF என\CC_CCS_UT பயந்தான்\V_VM_VF .\RD_PUNC
+TMED410	இதோ\PR_PRP அதோ\PR_PRP என்று\CC_CCS_UT இழுத்தடித்து\V_VM_VNF ஒரு\JJ சுபயோக\N_NN சுப\JJ தினத்தில்\N_NN கால்ஷீட்\RD_RDF நஹி\RD_RDF என்று\CC_CCS_UT கைவிரித்தார்\V_VM_VF .\RD_PUNC
+TMED411	கமல்ஹாசன்\N_NNP திலீப்\N_NNP குமாரின்\N_NNP தீவிர\JJ ஃபேன்\RD_RDF .\RD_PUNC
+TMED412	சிவாஜி\N_NNP அளவுக்கு\N_NN பிடித்தமானவர்\V_VM_VF .\RD_PUNC சில\QT_QTF விஷயங்களில்\N_NN சிவாஜியையும்\N_NNP தாண்டி\V_VM_VNF .\RD_PUNC
+TMED413	இயக்குனர்\N_NN இந்திர\JJ குமார்\N_NNP ஒரு\JJ மாதிரியான\JJ ஆள்தான்\V_VM_VF .\RD_PUNC
+TMED414	பெயரிலேயே\N_NN இந்திரன்\N_NN இருப்பதாலும்\V_VM_VNF இருக்கலாம்\V_VAUX
+TMED415	இவரின்\PR_PRP கிராண்ட்\N_NN மஸ்தி\N_NN திரைப்படத்தை\N_NN வெளியிடக்\V_VM_VINF கூடாது\V_VAUX ,\RD_PUNC கலாச்சாரத்தில்\N_NN பெரிய\JJ சைஸ்\RD_RDF ஓசோன்\N_NN ஓட்டையாக\RB விழுந்துவிடும்\V_VM_VNF என\CC_CCS_UT வடக்கே\N_NST இரண்டு\QT_QTC மூன்று\QT_QTC மாநிலங்களில்\N_NN ஸ்டே\RD_RDF வாங்கினார்கள்\V_VM_VF .\RD_PUNC
+TMED416	கலியுகமாச்சே\V_VM_VF
+TMED417	நல்ல\JJ கேரக்டர்கள்\RD_RDF வருவதற்காக\RB காத்திருப்பதை\V_VM_VNG விட\PSP நாமே\PR_PRP அதனை\PR_PRP உருவாக்கிக்கொள்ள\V_VM_VNF தான்\RP_RPD படம்\N_NN தயாரிக்கிறேன்\V_VM_VNF என்று\CC_CCS_UT கூறியிருக்கிறார்\V_VAUX இர்பான்கான்\N_NNP
+TMED418	கரீனா\N_NNP கபூரும்\N_NNP ,\RD_PUNC இம்ரான்\N_NNP கானும்\N_NNP இணைந்திருக்கும்\V_VM_VNF புதிய\JJ படம்\N_NN கோரி\N_NN தேரே\N_NN பியார்\N_NN மெயின்\RD_RDF
+TMED419	கரண்\N_NNP ஜோஹர்\N_NNP படத்தை\N_NN தயாரித்துள்ளார்\V_VAUX .\RD_PUNC
+TMED42	அவனை\PR_PRP எல்லோரும்\N_NN கட்டாயப்படுத்தி\V_VM_VNF இறக்கி\V_VM_VNF விட்டனர்\V_VAUX .\RD_PUNC அவனும்\PR_PRP நடுங்கியபடியே\V_VM_VNF சென்று\V_VM_VNF அந்த\DM_DMD மரத்தை\N_NN தொட்டு\V_VM_VNF விட்டு\PSP திரும்பினான்\V_VM_VF .\RD_PUNC
+TMED420	ஷாருக்கானின்\N_NNP சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN இது\PR_PRP வரையான\JJ அனைத்து\N_NN இந்தியப்\N_NNP படங்களின்\N_NN வசூலையும்\N_NN முறியடித்து\V_VM_VNF 225\QT_QTC .\RD_PUNC 67\QT_QTC கோடிகளை\N_NN வசூலித்துள்ளது\V_VAUX
+TMED421	இது\PR_PRP வரை\PSP பல\QT_QTF சாதனைகள்\N_NN வைத்திருந்த\V_VM_VNF சல்மானின்\N_NNP ரிக்கார்ட்களை\RD_RDF எக்ஸ்பிரஸ்\RD_RDF மோதி\V_VM_VNF தகர்த்ததில்\N_NN சல்மான்\N_NNP ரசிகர்களுக்கு\N_NN பெருத்த\JJ சோகம்\N_NN .\RD_PUNC
+TMED422	சீடர்களுக்கே\N_NN இப்படி\RB என்றால்\PR_PRQ தலைவருக்கு\N_NN எப்படி\PR_PRQ இருக்கும்\V_VM ?\RD_PUNC
+TMED423	ப்ரித்தி\N_NNP ஜிந்தா\N_NNP மீண்டும்\RB நடிக்க\V_VM_VINF வந்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED424	அவரை\PR_PRP கடைசியாகப்\RB பார்த்தது\V_VM_VNF ,\RD_PUNC இஷ்க்\N_NN இன்\N_NN பாரிஸ்\N_NN .\RD_PUNC
+TMED425	படம்\N_NN அட்டர்\N_NN பிளாப்\N_NN .\RD_PUNC அது\PR_PRP ப்ரித்தியின்\N_NNP சொந்தப்\N_NN படமும்\N_NN கூட\PSP .\RD_PUNC
+TMED426	ஏக்தா\N_NNP கபூர்\N_NNP தயாரிப்பில்\N_NN தயாராகும்\JJ மிலன்\N_NN டாக்கீஸ்\N_NN படத்தில்\N_NN இருந்து\PSP விலகியிருக்கிறார்\V_VAUX ப்ரியங்கா\N_NNP சோப்ரா\N_NNP .\RD_PUNC
+TMED427	சோப்ரா\N_NNP .\RD_PUNC அவருக்குப்\PR_PRP பதில்\N_NN வேறு\JJ நடிகையை\N_NN தேடி\V_VM_VNF வருகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED428	மிலன்\N_NN டாக்கீஸில்\N_NN இம்ரான்\N_NNP கானும்\JJ ,\RD_PUNC ப்ரியங்கா\N_NNP சோப்ராவும்\N_NNP நடிப்பதாக\RB இருந்தது\V_VM .\RD_PUNC
+TMED429	இயக்குனர்\N_NN ,\RD_PUNC தயாரிப்பாளர்\N_NN கரண்\N_NNP ஜோஹரின்\N_NNP பிரபலமான\JJ தொலைக்காட்சி\N_NN நிகழ்ச்சி\N_NN இது\PR_PRP வரை\PSP மூன்று\QT_QTC பாகங்கள்\N_NN வெற்றிகரமாக\RB நிறைவடைந்து\V_VM_VNF நான்காவது\QT_QTO செஷன்\RD_RDF வரும்\JJ டிசம்பரில்\N_NN தொடங்குகிறது\V_VM_VF .\RD_PUNC
+TMED43	அப்போது\JJ பலத்த\JJ சத்தத்துடன்\N_NN இடி\N_NN விழுந்தது\V_VM_VF .\RD_PUNC கதறியவாறே\V_VM_VNF கண்ணையும்\N_NN காதையும்\N_NN மூடிக்கொண்டான்\V_VM_VF .\RD_PUNC
+TMED430	நடிகை\N_NN ஸ்ரீதேவியின்\N_NNP கணவரும்\N_NN ,\RD_PUNC பிரபல\JJ தயாரிப்பாளருமான\JJ போனி\N_NNP கபூருக்கு\N_NNP தொலைபேசியில்\N_NN மர்ம\JJ நபர்கள்\N_NN கொலை\N_NN மிரட்டல்\N_NNV விடுத்துள்ளனர்\V_VAUX .\RD_PUNC
+TMED431	போனி\N_NNP கபூரை\N_NNP போனில்\RD_RDF தொடர்பு\N_NN கொண்ட\JJ மர்ம\JJ நபர்கள்\N_NN ,\RD_PUNC அவரை\PR_PRP சுட்டுக்\V_VM_VNF கொன்றுவிடுவோம்\V_VM_VNF என\CC_CCS_UT மிரட்டியுள்ளனர்\V_VAUX .\RD_PUNC
+TMED432	நடிகை\N_NN தீபிகா\N_NNP படுகோன்\N_NN ஹாலிவுட்\RD_RDF படத்தில்\N_NN நடிக்க\V_VM_VINF தேர்வு\N_NN செய்யப்பட்டிருக்கிறார்\V_VAUX
+TMED433	ஹாலிவுட்\N_NN இப்போது\N_NST ஹந்திப்பட\JJ நட்சத்திரங்களை\N_NN உற்றுக்\V_VM_VNF கவனிக்க\V_VM_VINF ஆரம்பித்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED434	நஸ்ருதீன்\N_NNP ஷா\N_NNP ,\RD_PUNC அமிதாப்பச்சன்\N_NNP ,\RD_PUNC ஓம்பூரி\N_NNP ,\RD_PUNC ஐஸ்வர்யா\N_NNP ராய்\N_NNP ,\RD_PUNC ஷபனா\N_NNP ஆஸ்மி\N_NNP ,\RD_PUNC இர்ஃபான்\N_NNP கான்\N_NNP ,\RD_PUNC அனில்\N_NNP கபூர்\N_NNP ஆகியோர்\N_NN ஏற்கனவே\RB ஹாலிவுட்\RD_RDF படத்தில்\N_NN நடித்துள்ளனர்\V_VAUX .\RD_PUNC
+TMED435	தீபா\N_NNP மேத்தாவின்\N_NNP படத்தில்\N_NN நடித்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED436	தமிழ்\N_NN ,\RD_PUNC தெலுங்கு\N_NN ,\RD_PUNC கன்னடம்\N_NN ,\RD_PUNC மலையாளம்\N_NN ,\RD_PUNC ஹிந்தி\N_NN என\CC_CCS_UT எங்கும்\N_NST ஸ்ரேயாவை\N_NNP காண\V_VM_VINF முடியவில்லை\V_VAUX .\RD_PUNC
+TMED437	சுத்தேசி\N_NNP ரொமான்ஸ்\RD_RDF படத்தில்\N_NN உதட்டோடு\N_NN உதடு\N_NN பதித்து\V_VM_VNF முத்தத்தை\N_NN வாரி\V_VM_VNF வழங்கியிருக்கிறார்\V_VAUX பரினீதி\N_NNP சோப்ரா\N_NNP
+TMED438	சமீபத்தில்\N_NN இந்த\DM_DMD அளவு\N_NN போல்டாக\RD_RDF யாரும்\PR_PRQ முத்தம்\N_NN தந்திருக்க\V_VM_VINF மாட்டார்கள்\V_VM_VF .\RD_PUNC
+TMED439	அவரிடம்\PR_PRP போய்\V_VM_VNF பிகினியில்\RD_RDF நடிப்பீர்களா\V_VM_VNF என்று\CC_CCS_UT கேட்டால்\V_VM_VNF ,\RD_PUNC வொய்\RD_RDF நாட்\RD_RDF ?\RD_PUNC என்ற\CC_CCS_UT பதில்\N_NN தானே\RP_RPD வரும்\V_VM_VF ...\RD_PUNC ?\RD_PUNC
+TMED44	சிறிது\QT_QTF நேரம்\N_NN கழித்து\V_VM_VNF நிமிர்ந்து\V_VM_VNF பார்த்தான்\V_VM_VF .\RD_PUNC அவன்\PR_PRP வந்த\JJ பேரூந்து\N_NN எரிந்து\V_VM_VNF கொண்டிருந்தது\V_VAUX .\RD_PUNC
+TMED440	இப்படி\RB சொல்லியிருப்பவர்\V_VM_VNF ஜாக்குலின்\N_NNP பெர்னாண்டஸ்\N_NNP .\RD_PUNC உங்களுக்கு\PR_PRP ஏற்கனவே\RB அறிமுகமானவர்தான்\V_VM_VF .\RD_PUNC
+TMED441	சமீபத்தில்\N_NN வெளியான\JJ பிரபுதேவாவின்\N_NNP ராமையா\N_NN வஸ்தாவையா\N_NN ஹிந்திப்\N_NN படத்தில்\N_NN ஒரு\JJ பாடலுக்கு\N_NN இவர்\PR_PRP தான்\RP_RPD நடனமாடினார்\V_VM_VF .\RD_PUNC
+TMED442	ஒரு\JJ சிங்கள\JJ நடிகையை\N_NN எப்படி\PR_PRQ பிரபுதேவா\N_NNP தனது\PR_PRP படத்தில்\N_NN ஆட\V_VM_VINF வைக்கலாம்\V_VM_VNF என்று\CC_CCS_UT எதிர்ப்பு\N_NN கிளம்பியதும்\V_VM_VNF இவரை\PR_PRP முன்\PSP வைத்து\V_VM_VNF தான்\RP_RPD
+TMED443	பழம்பெரும்\JJ நடிகர்\N_NN மனோஜ்\N_NNP குமார்\N_NNP ஷாருக்கான்\N_NNP மற்றும்\CC_CCD ஃபராகான்\N_NNP மீது\PSP தொடர்ந்த\JJ வழக்கை\N_NN வாபஸ்\N_NN பெற்றுக்\V_VM_VNF கொண்டார்\V_VM_VF .\RD_PUNC
+TMED444	இந்தி\N_NN சினிமாவில்\RD_RDF சில\QT_QTF நடிப்பு\N_NN திமிங்கலங்கள்\N_NN உண்டு\V_VM
+TMED445	கைப்புள்ள\JJ சொன்ன\V_VM_VINF அது\PR_PRP போன\V_VM_VNF மாசம்\N_NN கதையாக\RB தான்\RP_RPD இருக்கிறது\V_VM
+TMED446	கரினா\N_NNP கபூரின்\N_NNP கதையும்\N_NN .\RD_PUNC நெருக்கமாக\RB நடிக்கச்\V_VM_VINF சொன்னாலே\V_VM_VNF ,\RD_PUNC அது\PR_PRP கல்யாணத்துக்கு\N_NN முன்னால\N_NST ,\RD_PUNC இப்போ\N_NST முடியாது\V_VM_VNF என\CC_CCS_UT மறுத்துவிடுகிறார்\V_VM_VF .\RD_PUNC
+TMED447	ஆக்கப்பூர்வமாக\RB படமெடுத்தால்\V_VM_VNF எது\PR_PRQ வேண்டுமானாலும்\V_VM_VNF கேட்கலாம்\V_VM_VF ,\RD_PUNC ஒரு\JJ நியாயம்\N_NN இருக்கிறது\V_VM .\RD_PUNC
+TMED448	ஆளும்\JJ கட்சியை\N_NN தடவி\V_VM_VNF விடுவதற்கு\V_VM_VNG எல்லாம்\N_NN டாக்ஸ்\RD_RDF ஃப்ரீ\RD_RDF என்றால்\PR_PRQ ...\RD_PUNC ?\RD_PUNC
+TMED449	குழந்தைகள்\N_NN சாப்பிடுகிற\JJ மேகியானாலும்\RD_SYM பெரியவர்கள்\N_NN போடுகிற\JJ கோட்டானாலும்\JJ அமிதாப்பச்சன்\N_NNP சிபாரிசு\N_NN செய்தால்\V_VM_VNF மட்டுமே\PSP எடுபடுகிறது\V_VM_VF .\RD_PUNC
+TMED45	இதில்\PR_PRP கிடைத்த\JJ நீதி\N_NN என்னவென்றால்\CC_CCS ``\RD_PUNC நம்மில்\PR_PRP பலர்\QT_QTF பாவங்களை\N_NN அழுக்கு\N_NN மூட்டைகளாக\RB சுமந்து\V_VM_VNF கொண்டு\PSP அதன்\PR_PRP சுமை\N_NN அறியாது\V_VM_VNF அடுத்தவர்களை\N_NN பழி\N_NN சொல்லிக்\V_VM_VNF கொண்டிருகிறோம்\V_VAUX ``\RD_PUNC என்பதே\V_VM_VF
+TMED450	எனில்\CC_CCS_UT ,\RD_PUNC தனது\PR_PRP பிரமாண்ட\JJ சூப்பர்\RD_RDF ஹீரோ\RD_RDF படத்துக்கு\N_NN அமிதாப்பச்சன்\N_NNP வாய்ஸ்\RD_RDF ஓவர்\RD_RDF தந்தால்\V_VM_VNF நன்றாக\RB இருக்கும்\V_VM_VNF என\CC_CCS_UT ராகேஷ்\N_NNP ரோஷன்\N_NNP எண்ணியதில்\V_VM_VNF வியப்பில்லை\V_VM
+TMED451	திருவிழா\N_NN தினத்தில்\N_NN படத்தை\N_NN வெளியிட்டால்\V_VM_VNF வசூல்\N_NN எப்படி\PR_PRQ இருக்கும்\V_VM_VNF என்பதற்கு\CC_CCS உச்சபட்ச\JJ உதாரணமாகியிருக்கிறது\V_VAUX சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN .\RD_PUNC
+TMED452	ரம்ஜானுக்கு\N_NN வெளியான\JJ படம்\N_NN முந்தைய\RB அனைத்து\N_NN வசூல்\N_NN ரெக்கார்டுகளையும்\RD_RDF முறியடித்தது\V_VM_VF .\RD_PUNC
+TMED453	குஜராத்\N_NNP முதல்வர்\N_NN மோடியின்\N_NNP வாழ்க்கை\N_NN சினிமாவாகிறது\RD_RDF .\RD_PUNC
+TMED454	அடுத்த\JJ வருடம்\N_NN தேர்தல்\N_NNV இருக்கும்\JJ நிலையில்\N_NN மோடியின்\N_NNP இமேஜ்\RD_RDF பூஸ்ட்\RD_RDF செய்வதற்காக\RB இந்தத்\DM_DMD திரைப்படம்\N_NN உருவாக்கப்படுவதாக\RB மோடி\N_NNP எதிர்ப்பாளர்கள்\N_NNV தெரிவித்துள்ளனர்\V_VAUX .\RD_PUNC
+TMED455	ஹிந்தி\N_NN சினிமாவின்\RD_RDF சூப்பர்\RD_RDF ஸ்டார்\RD_RDF ஷாருக்\N_NNP கான்\N_NNP மற்றும்\CC_CCD தீபிகா\N_NNP படுகோன்\N_NNP நடித்து\V_VM_VNF வெளிவந்த\JJ சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN திரைப்படத்தின்\N_NN லுங்கிடான்ஸ்\RD_RDF இணையதளத்தில்\N_NN கொலைவெறிப்\N_NN பாடல்\N_NN போல\PSP பிரபலம்\N_NN அடைந்து\V_VM_VNF வருகிறது\V_VM_VF .\RD_PUNC
+TMED456	அது\PR_PRP என்னவோ\PR_PRQ தெரியலை\V_VM_VF ஹாலிவுட்காரர்களுக்கு\RD_RDF இந்திய\JJ முகம்\N_NN தேவைப்பட்டால்\V_VM_VNF நேராக\RB இர்ஃபான்\N_NNP கானுக்கு\N_NNP போனை\RD_RDF போடுகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED457	லைஃப்\N_NN ஆஃப்\N_NN பை\N_NN ,\RD_PUNC த\N_NN அமொஸிங்\N_NN ஸ்பைடர்மேன்\N_NN என்று\CC_CCS_UT சமீபத்திலேயே\N_NN இரண்டு\QT_QTC படங்களில்\N_NN நடித்துவிட்டார்\V_VAUX .\RD_PUNC
+TMED458	கடைசியாக\RB அழைப்பு\N_NN வந்தது\V_VM_VF ஹாலிவுட்டின்\RD_RDF ஸ்டார்\N_NN இயக்குனர்\N_NN கிறிஸ்டோபர்\N_NNP நோலனிடம்\N_NNP இருந்து\PSP .\RD_PUNC
+TMED459	மும்பையில்\N_NNP இளம்\JJ பெண்\N_NN போட்டோகிராஃபருக்கு\RD_RDF நடந்த\JJ பாலியல்\N_NN வன்கொடுமை\N_NN தேசம்\N_NN முழுவதும்\N_NN அதிர்ச்சியை\N_NN ஏற்படுத்தியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED46	ராமு\N_NNP ,\RD_PUNC சோமு\N_NNP .\RD_PUNC அம்மு\N_NNP ,\RD_PUNC பொம்மு\N_NNP என்று\CC_CCS_UT 4\QT_QTC குரங்குகள்\N_NN இருந்தன\V_VM .\RD_PUNC அவை\PR_PRP ஒரு\JJ நாள்\N_NN அருகிலுள்ள\JJ பழத்தோட்டத்திற்குள்\N_NN நுழைந்தன\V_VM_VF .\RD_PUNC
+TMED460	பாலிவுட்\RD_RDF நட்சத்திரங்கள்\N_NN தங்கள்\PR_PRP அதிர்ச்சியையும்\N_NN கண்டனத்தையும்\N_NN வெளிப்படுத்தியிருக்கிறார்கள்\V_VAUX
+TMED461	சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN பதினைந்து\QT_QTC தினங்களில்\N_NN 200\QT_QTC கோடி\N_NN கிளப்பில்\RD_RDF இணைந்துள்ளது.\V_VAUX
+TMED462	3\QT_QTC இடியட்ஸ்\N_NN படத்துக்குப்\N_NN பிறகு\PSP 200\QT_QTC கோடியை\N_NN தொட்ட\JJ படம்\N_NN என்ற\CC_CCS_UT சாதனையை\N_NN சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN படைத்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED463	பாக்ஸ்\RD_RDF ஆபிஸ்\RD_RDF கிங்காக\N_NN கருதப்பட்ட\JJ சல்மான்\N_NNP கான்\N_NNP இப்போது\N_NST மூன்றாவது\QT_QTO இடத்துக்கு\N_NN தள்ளப்பட்டிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED464	பாலிவுட்\RD_RDF நடிகை\N_NN சனாகான்\N_NNV பிறந்த\JJ நாள்\N_NN கொண்டாட்ட\JJ படங்கள்\N_NN !\RD_PUNC
+TMED465	இணையத்தை\N_NN எப்போதும்\PR_PRQ குளிர்ச்சியாக\RB வைத்திருப்பதில்\V_VM_VNG வீணாமாலிக்கிற்கும்\V_VM_VNF ,\RD_PUNC ஷெர்லின்\N_NNP சோப்ராவுக்கும்\N_NNP இணைய\JJ பயனீட்டாளர்கள்\N_NN கடமைப்பட்டிருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED466	பிரபல\JJ நீலப்பட\JJ நடிகை\N_NN சன்னி\N_NNP லியோனின்\N_NNP கணவர்\N_NN டேனியல்\N_NNP வெப்பரும்\N_NN இந்திப்\N_NN படத்தில்\N_NN நடிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED467	அறிமுகமே\N_NN மனைவியின்\N_NN படத்தில்\N_NN தான்\RP_RPD என்பது\CC_CCS_UT விசேஷம்\N_NN .\RD_PUNC
+TMED468	பாகிஸ்தானைச்\N_NNP சேர்ந்த\JJ வீணா\N_NNP மாலிக்\N_NNV நடித்திருப்பதால்\V_VM_VNF கன்னடத்தில்\N_NN தயாரான\JJ சில்க்\N_NN சக்கத்\N_NN படத்துக்கு\N_NN தடை\N_NN வாங்கியிருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED469	படத்துக்கு\N_NN எதிர்ப்பு\N_NN தெரிவித்து\V_VM_VNF திரையரங்கில்\N_NN கலவரம்\N_NN செய்தவர்கள்\V_VM_VF ஸ்ரீராம\N_NNP சேனாவினர்\N_NNP .\RD_PUNC
+TMED47	அங்கே\N_NST பறித்து\V_VM_VNF வைத்திருந்த\V_VM_VNF பழங்களை\N_NN கூடையோடு\N_NN தூக்கிக்\V_VM_VNF கொண்டு\PSP தங்கள்\PR_PRP வசிப்பிடத்திற்கு\N_NN சென்றன\V_VM_VF .\RD_PUNC
+TMED470	சல்மான்கான்\N_NNP தான்\RP_RPD முன்பு\N_NST எல்லாம்\N_NN படத்துக்கு\N_NN கால்ஷீட்\RD_RDF தந்ததும்\V_VM_VNF சட்டையை\N_NN கழற்றி\V_VM_VNF மூலையில்\N_NN எறிவார்\V_VM_VF .\RD_PUNC
+TMED471	அவரது\PR_PRP கட்டுமஸ்தான\JJ உடம்பில்\N_NN எத்தனை\PR_PRQ படிக்கட்டுகள்\N_NN என்பது\CC_CCS ரசிகர்களுக்கு\N_NN காணாப்\N_NN பாடம்\N_NN .\RD_PUNC
+TMED472	இப்போது\N_NST அத்தியாவசியம்\N_NN என்றால்\DM_DMD மட்டுமே\PSP மனிதர்\N_NN டாப்லெஸ்ஸாக\QT_QTF காட்சியளிப்பார்\V_VM_VNF .\RD_PUNC
+TMED473	ரம்ஜானுக்கு\N_NN வெளியான\JJ சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN உலக\JJ ஓட்டம்\N_NN ஓடுகிறது\V_VM_VF .\RD_PUNC
+TMED474	அதன்\PR_PRP பாய்ச்சலைப்\N_NN பார்த்தால்\V_VM_VNF 250\QT_QTC கோடிகளை\N_NN வசூலித்து\V_VM_VNF விட்டு\PSP தான்\RP_RPD அடங்கும்\V_VM_VNF போலிருக்கிறது\V_VAUX .\RD_PUNC
+TMED475	வசூல்\N_NN ராஜாவாக\RB இருக்கும்\V_VM_VNF சல்மான்கானுக்கு\N_NNP அதில்\PR_PRP வருத்தம்\N_NN தான்\RP_RPD .\RD_PUNC
+TMED476	எக்ஸ்பிரஸ்\N_NN பீவரில்\RD_RDF இருக்கிறது\V_VM இந்தி\N_NN சினிமா\RD_RDF .\RD_PUNC
+TMED477	ஆகஸ்ட்\N_NN 9\RD_RDF ஷாருக்கானின்\N_NNP சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC படத்தை\N_NN வெளியிடுவது\V_VM_VNG யுடிவி\RD_RDF .\RD_PUNC
+TMED478	டி\N_NN சீரிஸ்\N_NN அக்டோபரில்\N_NN ஆரம்பிக்கும்\JJ படத்தில்\N_NN அபிஷேக்பச்சனின்\N_NNP தந்தையாக\RB ரிஷி\N_NNP கபூர்\N_NNP நடிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED479	கத்ரினா\N_NNP ஒரு\JJ காலத்தில்\N_NN சல்மான்கானின்\N_NNP காதலி\N_NN .\RD_PUNC
+TMED48	அவைகள்\PR_PRP திருடிய\JJ பழக்கூடையை\N_NN .\RD_PUNC ஆளுக்கு\N_NN கொஞ்ச\JJ நேரமாக\RB தலையில்\N_NN சுமந்தபடி\N_NN வந்து\V_VM_VNF கொணடிருந்தன\V_VAUX .\RD_PUNC அந்த\DM_DMD வழியில்\N_NN ஒரு\JJ மரத்தடியில்\N_NN பஞ்சுமிட்டாய்\N_NN விற்பவன்\N_NNV படுத்து\V_VM_VNF இருந்தான்\V_VAUX
+TMED480	சல்மான்\N_NNP சிறைக்குச்\N_NN சென்ற\V_VM_VNF போது\PSP அவரை\PR_PRP சிறைக்குச்\N_NN சென்று\V_VM_VNF பார்த்தவர்\V_VM_VF .\RD_PUNC
+TMED481	இந்திப்பட\JJ உலகில்\N_NN எல்லோரையும்\N_NN விட\PSP சல்லுபாயிடம்\N_NNP அதிக\JJ உரிமை\N_NN கொண்டவர்\V_VM_VF .\RD_PUNC
+TMED482	ஒரு\JJ கட்டத்தில்\N_NN இருவரும்\QT_QTO நண்பர்களாகப்\RB பிரிந்தாலும்\V_VM_VNF ,\RD_PUNC இறுக்கமான\JJ நட்பு\N_NN இருந்தது\V_VM இருவரிடமும்\QT_QTO .\RD_PUNC
+TMED483	சஜ்ஜித்\N_NN நடியட்\N_NN வாலா\N_NN முதல்\QT_QTC முறையாக\RB இயக்கும்\V_VM_VNF படம்\N_NN கிக்\N_NN .\RD_PUNC
+TMED484	தெலுங்கில்\N_NN வெளியான\JJ கிக்\N_NN படத்தை\N_NN அதே\PR_PRP பெயரில்\N_NN இந்தியில்\N_NN எடுக்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED485	கிக்\N_NN தமிழில்\N_NN ஜெயம்\N_NN ரவி\N_NN நடிப்பில்\N_NN தில்லாலங்கடி\N_NN என்ற\CC_CCS_UT பெயரில்\N_NN வெளியானது\V_VM_VF .\RD_PUNC
+TMED486	சுதந்திரநாடு\N_NN ,\RD_PUNC மக்களாட்சி\N_NN நடக்கும்\JJ நாடு\N_NN என்று\CC_CCS_UT கூறினாலும்\V_VM_VNF சில\QT_QTF அரசியல்\N_NN ,\RD_PUNC சமூதாய\JJ அமைப்புகளின்\N_NN எதேச்சதிகாரத்துக்கு\N_NN கட்டுப்பட்டே\V_VM_VNF இயங்க\V_VM_VINF வேண்டியிருக்கிறது\V_VAUX
+TMED487	இந்த\DM_DMD எதேச்சதிகாரத்தை\N_NN கட்டுப்படுத்த\V_VM_VINF வேண்டிய\JJ அதிகாரம்\N_NN அதற்கு\PR_PRP பணிந்து\V_VM_VNF சேவை\N_NN செய்வது\V_VM_VNG இந்தியாவின்\N_NNP துரதிர்ஷ்டம்\N_NN .\RD_PUNC
+TMED488	ஸ்பெயினில்\N_NNP தனது\PR_PRP புதிய\JJ பாய்\RD_RDF ஃப்ரெண்ட்\RD_RDF ரன்பீர்\N_NNP கபூருடன்\N_NNP பிகினியில்\N_NNP மாட்டிக்\V_VM_VNF கொண்ட\JJ கத்ரினா\N_NNP கைஃப்\RD_RDF ,\RD_PUNC ஹாலிடேயில்\RD_RDF இருந்த\JJ என்னை\PR_PRP என்னுடைய\PR_PRP சம்மதம்\N_NN இல்லாமல்\RP_NEG படமெடுத்தது\V_VM_VNF களவாணித்தனம்\V_VM_VNF என்று\CC_CCS_UT சாடியிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED489	பாக்\N_NN மில்கா\N_NN பாக்\N_NN வெற்றி\N_NN பாலிவுட்டை\RD_RDF விளையாட்டு\N_NN வீரர்களை\N_NN நோக்கி\V_VM_VNF ஓட\V_VM_VINF வைத்திருக்கிறது.\V_VAUX
+TMED49	அவன்\PR_PRP தலைக்குப்\N_NN பக்கத்தில்\N_NN கூடை\N_NN நிறைய\JJ பஞ்சுமிட்டாய்\N_NN இருந்தது\V_VM .\RD_PUNC பஞ்சுமிட்டாய்\N_NN வியாபாரி\N_NN பயணக்களைப்பில்\N_NN நன்றாக\RB தூங்கிவிட்டான்\V_VAUX .\RD_PUNC
+TMED490	ஏற்கனவே\RB ப்ரியங்கா\N_NNP சோப்ரா\N_NNP இந்திய\JJ ட்ரெஸ்ட்லர்\RD_RDF மேரிகோமின்\N_NNP வாழ்க்கை\N_NN வரலாற்றில்\N_NN மேரி\N_NN கோமாக\RB நடித்து\V_VM_VNF வருகிறார்\V_VM_VF .\RD_PUNC
+TMED491	இந்நிலையில்\N_NN தாராசிங்கின்\N_NNP வாழ்க்கை\N_NN வரலாற்றை\N_NN படமாக்க\V_VM_VINF துடிக்கிறார்கள்\V_VM_VF
+TMED492	நேரம்\N_NN படத்தை\N_NN இந்தியில்\N_NN இயக்கப்\V_VM_VINF போறேன்\V_VM_VNF என்று\CC_CCS_UT கிளம்பிய\JJ அல்போன்ஸ்\N_NNP புத்திரன்\N_NN நேரத்தை\N_NN கைவிட்டு\PSP ஷட்டருக்கு\N_NN மாறியிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED493	2012ல்\QT_QTO வெளியான\JJ மலையாளப்\N_NN படம்\N_NN ஷட்டரை\N_NN இந்தியில்\N_NN ரீமேக்\RD_RDF செய்யும்\V_VM_VNF எண்ணத்துடன்\N_NN மும்பையில்\N_NNP முகாமிட்டுள்ளார்\V_VAUX .\RD_PUNC
+TMED494	பிஜோய்\N_NNP நம்பியாரின்\N_NNP கடைசிப்\N_NN படம்\N_NN டேவிட்\N_NNP தமிழிலும்\N_NN சரி\V_VM_VF ,\RD_PUNC இந்தியிலும்\N_NN சரி\V_VM_VF பெரிதாகப்\RB போகவில்லை\V_VAUX .\RD_PUNC
+TMED495	தமிழில்\N_NN பிஜோய்\N_NNP நம்பியாரின்\N_NNP நவீன\JJ முயற்சிக்கு\N_NN கெட்ட\JJ பெயர்\N_NN கிடைத்தது\V_VM_VNF தான்\RP_RPD மிச்சம்\N_NN .\RD_PUNC
+TMED496	ஆனால்\CC_CCS இந்தியில்\N_NN டேவிட்\N_NNP ஓடவில்லை\V_VM_VNF என்றாலும்\CC_CCS பிஜோய்\N_NN மீதான\JJ நம்பிக்கையை\N_NN படம்\N_NN குலைக்கவில்லை\V_VAUX .\RD_PUNC
+TMED497	ஷாருக்கானின்\N_NNP சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN ஆகஸ்ட்\N_NN 8\QT_QTC ஆம்\N_NN தேதி\N_NN வெளியாகிறது\V_VM_VNF .\RD_PUNC
+TMED498	அதே\PR_PRP நாள்\N_NN அக்சய்\N_NNP குமாரின்\N_NNP Once\RD_RDF Upon\RD_RDF A\RD_RDF Time\RD_RDF In\RD_RDF Mumbaai\N_NN Dobaara\N_NN படமும்\N_NN வெளியாகும்\V_VM_VNF என\CC_CCS_UT முதலில்\QT_QTO தெரிவித்தனர்.\V_VM_VF
+TMED499	தாதாக்கள்\N_NN இல்லாவிட்டால்\V_VM_VNF இந்தி\N_NN சினிமாவே\RD_RDF அழிந்து\V_VM_VNF போயிருக்குமோ\V_VM_VNF எனும்\CC_CCS_UT அளவுக்கு\N_NN தாதாக்களை\N_NN பற்றிய\JJ படங்களாக\RB எடுத்துத்\V_VM_VNF தள்ளுகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED5	அங்கு\N_NST மரங்களுக்கு\N_NN இடையில்\N_NST ஒரு\JJ கூண்டில்\N_NN புலி\N_NN அடைப்பட்டுக்\N_NN கிடந்தது\V_VM_VF .\RD_PUNC அதைக்\PR_PRP கண்டு\V_VM_VNF புலவர்\N_NN மிகவும்\RP_INTF பயந்தார்\V_VM_VF
+TMED50	“\RD_PUNC அந்தப்\DM_DMD பஞ்சுமிட்டாய்\N_NN ரொம்ப\JJ இனிப்பாக\RB இருக்கும்\V_VM .\RD_PUNC எனக்கு\PR_PRP அதைச்\PR_PRP சாப்பிட\V_VM_VINF ஆசையாக\RB இருக்கு\V_VM ”\RD_PUNC என்றது\CC_CCS_UT ராமு\N_NNP குரங்கு\N_NN .\RD_PUNC
+TMED500	சஞ்சய்\N_NNP லீலா\N_NNP பன்சாலியும்\N_NNP ,\RD_PUNC விஷால்\N_NNP பரத்வாஜும்\N_NNP அடுத்து\N_NN பெண்\N_NN தாதாக்களின்\N_NN கதையை\N_NN படமாக்குகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED501	தமிழில்\N_NN ரஜினி\N_NNP ,\RD_PUNC அஜித்\N_NNP இருவரும்\QT_QTO தங்கள்\PR_PRP படங்களின்\N_NN ப்ரமோஷனில்\RD_RDF கலந்து\V_VM_VNF கொள்வதில்லை\V_VAUX
+TMED502	விஜய்\N_NNP ,\RD_PUNC படத்தின்\N_NN ஆடியோ\N_NN ,\RD_PUNC ட்ரெய்லர்\RD_RDF வெளியீட்டு\N_NN விழாக்களில்\N_NN கலந்து\V_VM_VNF கொள்வார்\V_VM_VNF ,\RD_PUNC நான்கைந்து\QT_QTO பேட்டிகள்\N_NN தருவார்\V_VM_VF .\RD_PUNC
+TMED503	மற்ற\JJ நடிகர்களும்\N_NN அப்படியே\RB .\RD_PUNC ஆனால்\CC_CCS இந்தியில்\N_NN படத்துக்கு\N_NN உழைத்த\JJ அளவுக்கு\N_NN ப்ரமோஷனுக்கு\RD_RDF மெனக்கெட\V_VM_VINF வேண்டும்\V_VAUX
+TMED504	கத்ரினா\N_NNP ஒரு\JJ காலத்தில்\N_NN சல்மான்கானின்\N_NNP காதலி\N_NN
+TMED505	சல்மான்கான்\N_NNP ஹீரோ\RD_RDF
+TMED506	சுதந்திரநாடு\N_NN ,\RD_PUNC மக்களாட்சி\N_NN நடக்கும்\JJ நாடு\N_NN என்று\CC_CCS_UT கூறினாலும்\V_VM_VNF சில\QT_QTF அரசியல்\N_NN ,\RD_PUNC சமுதாய\JJ அமைப்புகளின்\N_NN எதேச்ச\JJ அதிகாரத்துக்கு\N_NN கட்டுப்பட்டே\V_VM_VNF இயங்க\V_VM_VINF வேண்டியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED507	ஸ்பெயினில்\N_NNP தனது\PR_PRP புதிய\JJ பாய்\RD_RDF ஃப்ரெண்ட்\RD_RDF ரன்பீர்\N_NNP கபூருடன்\N_NNP பிகினியில்\RD_RDF மாட்டிக்\V_VM_VNF கொண்ட\JJ கத்ரினா\N_NNP கைஃப்\N_NNP ,\RD_PUNC ஹாலிடேயில்\RD_RDF இருந்த\JJ என்னை\PR_PRP என்னுடைய\PR_PRP சம்மதம்\N_NN இல்லாமல்\RP_NEG படம்\N_NN எடுத்தது\V_VM_VNF களவாணித்தனம்\V_VM_VNF என்று\CC_CCS_UT சாடியிருக்கிறார்\V_VAUX
+TMED508	தமிழில்\N_NN ரஜினி\N_NNP ,\RD_PUNC அஜித்\N_NNP இருவரும்\QT_QTO தங்கள்\PR_PRP படங்களின்\N_NN ப்ரமோஷனில்\RD_RDF கலந்து\V_VM_VNF கொள்வதில்லை\V_VAUX .\RD_PUNC
+TMED509	விஜய்\N_NNP ,\RD_PUNC படத்தின்\N_NN ஆடியோ\RD_RDF ,\RD_PUNC ட்ரெய்லர்\RD_RDF வெளியீட்டு\N_NN விழாக்களில்\N_NN கலந்து\V_VM_VNF கொள்வார்\V_VM_VF ,\RD_PUNC நான்கைந்து\QT_QTO பேட்டிகள்\N_NN தருவார்\V_VM_VF
+TMED51	‘\N_NN ஆமாம்\N_NN ,\RD_PUNC ஆமாம்\N_NN ...\RD_PUNC எத்தனை\PR_PRQ நாளைக்கு\N_NN தான்\RP_RPD பழங்களையே\N_NN தின்பது\V_VM_VNG ,\RD_PUNC இன்று\N_NST பஞ்சுமிட்டாய்\N_NN சாப்பிடுவோம்\V_VM_VNF ”\N_NN என்றது\V_VM_VF சோமு\N_NNP .\RD_PUNC
+TMED510	மற்ற\JJ நடிகர்களும்\N_NN அப்படியே\RB .\RD_PUNC
+TMED511	ஆனால்\CC_CCS இந்தியில்\N_NN படத்துக்கு\N_NN உழைத்த\JJ அளவுக்கு\N_NN ப்ரமோஷனுக்கு\RD_RDF முயற்சி\N_NN செய்தல்\N_NNV வேண்டும்\V_VM .\RD_PUNC
+TMED512	இப்தார்\N_NNV விருந்தில்\N_NN கலந்து\V_VM_VINF கொண்ட\JJ சல்மான்\N_NNP கானும்\N_NNP ,\RD_PUNC ஷாருக்கானும்\N_NNP பரஸ்பரம்\N_NN கட்டித்தழுவி\V_VM_VNF வாழ்த்து\N_NN தெரிவித்து\V_VM_VNF கொண்டதை\V_VM_VNF ,\RD_PUNC இந்திய\JJ ,\RD_PUNC பாகிஸ்தான்\N_NNP பிரதமர்கள்\N_NN பழம்\N_NN விட்டுக்\PSP கொண்டதைப்\V_VM_VNF போல்\PSP மீடியாக்கள்\RD_RDF பூரித்துபோய்\V_VM_VNF எழுதின\V_VM_VF .\RD_PUNC
+TMED513	ஐந்து\QT_QTC வருட\JJ சண்டையை\N_NN மறந்து\V_VM_VNF இருவரும்\QT_QTO நட்பாகி\V_VM_VNF விட்டதாகவும்\RB செய்தியில்\N_NN ஒரு\JJ வரி\N_NNP சேர்த்துக்\V_VM_VNF கொண்டதுதான்\V_VM_VNF வேடிக்கை\N_NN .\RD_PUNC
+TMED514	தாதாக்கள்\N_NN ,\RD_PUNC அண்டர்\RD_RDF கிரவுண்ட்\RD_RDF ,\RD_PUNC துப்பாக்கி\N_NN ,\RD_PUNC படுகொலைகள்\N_NN ...\N_NN இந்தி\N_NN சினிமாவுக்கு\RD_RDF சலிக்கவே\V_VM_VINF சலிக்காத\JJ கதைக்களம்\N_NN .\RD_PUNC
+TMED515	வருடத்துக்கு\N_NN 25\QT_QTC படங்களாவது\V_VM_VNG இந்த\DM_DMD ஜனவரியில்\N_NN வெளியாகும்\V_VM .\RD_PUNC
+TMED516	வர்மா\N_NNP அதில்\PR_PRP சக்ரவர்த்தி\N_NN என்றால்\CC_CCS_UT சஞ்சய்\N_NNP குப்தா\N_NNP சிற்றரசர்\N_NN .\RD_PUNC
+TMED517	சைப்\N_NNP அலிகானுடன்\N_NNP திருமணம்\N_NN நடந்தது\V_VM_VF கரீனா\N_NNV கபூரின்\N_NNP சினிமா\RD_RDF வாழ்க்கையை\N_NN எந்த\DM_DMQ விதத்திலும்\N_NN கட்டுப்படுத்தவில்லை\V_VAUX .\RD_PUNC
+TMED518	விரைவில்\RB தொடங்கயிருக்கும்\V_VM_VNF ஏக்தா\N_NNP கபூரின்\N_NNP படமே\N_NN சாட்சி\N_NN .\RD_PUNC
+TMED519	அழகிகள்\N_NN எல்லோரும்\N_NN திருமதியாகும்\JJ வேகத்தில்\N_NN இருக்கிறார்கள்\V_VM .\RD_PUNC
+TMED52	“\N_NN அந்த\DM_DMD பஞ்சுமிட்டாய்\N_NN விற்பவன்\N_NNV நன்றாகத்\RB தூங்குகிறான்\V_VM_VF ,\RD_PUNC அவைகளை\PR_PRP கூடையோடு\N_NN தூக்கிச்\V_VM_VNF சென்றுவிடலாம்\V_VM_VNF ”\N_NN என்றது\V_VM_VNF அம்மு\N_NNP .\RD_PUNC
+TMED520	அடுத்த\JJ வருடம்\N_NN திருமண\JJ பந்தத்தில்\N_NN இணைவது\V_VM_VNG என\CC_CCS_UT முடிவு\N_NN செய்திருக்கிறார்\V_VAUX தியா\N_NNP மிர்சா\N_NNP .\RD_PUNC
+TMED521	மிஸ்\N_NN ஏஷியா\N_NN பசிபிக்\N_NN பட்டத்தை\N_NN தியா\N_NNP மிர்சா\N_NNP வென்றதும்\V_VM_VNF அவரின்\PR_PRP வாழ்க்கை\N_NN யு\RD_RDF டர்ன்\RD_RDF அடித்தது\V_VM_VF .\RD_PUNC
+TMED522	பாலிவுட்\RD_SYM கதவுகள்\N_NN அவருக்காக\PR_PRP விரிய\V_VM_VINF திறந்தன\V_VM_VF .\RD_PUNC
+TMED523	கார்ல்லூயிஸ்\N_NNP அமெரிக்காவின்\N_NNP பெருமைகளில்\N_NN ஒருவர்\QT_QTO
+TMED524	தடகள\JJ வீரர்\N_NN .\RD_PUNC ஓட்டம்\N_NN ,\RD_PUNC லாங்\RD_RDF ஜம்ப்\RD_RDF இரண்டிலும்\QT_QTO சாம்பியன்\RD_RDF .\RD_PUNC பத்து\QT_QTC ஒலிம்பிக்\N_NN மெடல்களை\RD_RDF வென்றிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED525	அதில்\PR_PRP ஒன்பது\QT_QTC தங்கப்பதக்கங்கள்\N_NN
+TMED526	அவர்\PR_PRP மில்கா\N_NNP சிங்கை\N_NNP தொடர்பு\N_NN கொண்டு\PSP பாராட்டியிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED527	எல்லாவற்றுக்கும்\N_NN காரணம்\N_NN பாக்\N_NN மில்கா\N_NN பாக்\N_NN திரைப்படம்\N_NN .\RD_PUNC
+TMED528	ஆகஸ்ட்\N_NN 8ஆம்\RD_RDF தேதி\N_NN ஷாருக்கானின்\N_NNP சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED529	ஆகஸ்ட்\N_NN 23\QT_QTC மெட்ராஸ்\N_NN கஃபே\N_NN .\RD_PUNC
+TMED53	“\N_NN நாம்\PR_PRP முதலில்\QT_QTO இந்தப்\DM_DMD பழங்களை\N_NN நம்\PR_PRP இருப்பிடம்\N_NN கொண்டு\PSP சென்றுவிடுவோம்\V_VAUX .\RD_PUNC பிறகு\PSP வாய்ப்பு\N_NN கிடைத்தால்\V_VM_VNF பஞ்சுமிட்டாயை\N_NN திருடலாம்\V_VM_VF .\RD_PUNC
+TMED530	சென்னை\N_NN எக்ஸ்பிரஸின்\N_NN கதை\N_NN நமக்கு\PR_PRP தெரியும்\V_VM_VF .\RD_PUNC
+TMED531	ரோஹித்\N_NNV ஷெட்டி\N_NNP கமர்ஷியல்\RD_RDF ஹிட்டுக்காக\RD_RDF காதலையும்\N_NN ,\RD_PUNC ஆக்சனையும்\RD_RDF புனைந்து\V_VM_VNF எடுத்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED532	அந்த\DM_DMD வகையில்\N_NN ஆபத்தில்\N_NN இல்லாதது\V_VM .\RD_PUNC ஆனால்\CC_CCS மெட்ராஸ்\N_NN கஃபே\N_NN ...\RD_PUNC ?\RD_SYM
+TMED533	பஞ்சத்தில்\N_NN அடிபட்டவர்\V_VM_VNF போலிருக்கிறார்\V_VAUX இலியானா\N_NNP .\RD_PUNC
+TMED534	இந்திக்காரர்களுக்கு\N_NN அந்த\DM_DMD ஒல்லி\JJ உடம்பு\N_NN தான்\RP_RPD பிடித்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED535	ஷாகித்\N_NNP கபூர்\N_NNP நடிக்கும்\JJ படா\N_NN போஸ்டர்\RD_RDF நிக்லா\N_NNP ஹீரோ\RD_RDF படத்தில்\N_NN இலியானா\N_NNP ஹீரோயின்\RD_RDF .\RD_PUNC
+TMED536	இந்தியாவின்\N_NNP பெருமைக்குரிய\JJ விளையாட்டு\N_NN வீரர்\N_NN மில்கா\N_NNV சிங்கின்\N_NNP வாழ்க்கை\N_NN வரலாறை\N_NN சொல்லும்\V_VM_VNF பாக்\N_NN மில்கா\N_NN பாக்\N_NN நேற்று\N_NN வெளியானது\N_NN
+TMED537	பொதுவாக\RB வாழ்க்கை\N_NN வரலாறுகள்\N_NN -\RD_PUNC அதுவும்\PR_PRP விளையாட்டு\N_NN வீரர்\N_NN ஒருவரின்\QT_QTO வாழ்க்கை\N_NN இந்திய\JJ சினிமாவில்\RD_RDF ஆவணப்படுத்துவது\V_VM_VNG அரிது\V_VM_VF .\RD_PUNC
+TMED538	அப்படியே\RB படம்\N_NN எடுத்தாலும்\V_VM_VNF கமர்ஷியல்\RD_RDF வெற்றி\N_NN கானல்\N_NNV நீர்தான்\N_NN .\RD_PUNC
+TMED539	நெஞ்சினிலே\N_NN ...\RD_RDF நெஞ்சினிலே\N_NN ...\RD_PUNC என்று\CC_CCS_UT ஷாருக்கானுடன்\N_NNP மலையாள\JJ காஸ்ட்யூமில்\RD_RDF ப்ரீத்தி\N_NNP ஜிந்தா\N_NNP ஆடியது\V_VM_VNF இன்னும்\RB கன்னக்குழியில்\N_NN ...\RD_PUNC சே\RP_INJ ,\RD_PUNC கண்களுக்கள்ளேயே\N_NN இருக்கிறது\V_VM
+TMED54	அவன்\PR_PRP அருகிலேயே\N_NST படுத்து\V_VM_VNF இருக்கிறான்\V_VAUX .\RD_PUNC நாம்\PR_PRP பிடிபட்டால்\V_VM_VNF தொலைத்துவிடுவான்\V_VM_VNF .\RD_PUNC ”\N_NN என்றது\V_VM_VF பொம்மு\N_NNP குரங்கு\N_NN .\RD_PUNC
+TMED540	சினிமாவை\RD_RDF தூரமாக\RB வைத்து\V_VM_VNF பிசினஸ்\RD_RDF என்று\CC_CCS_UT தனது\PR_PRP காதலருடன்\N_NN ஐபிஎல்\RD_RDF வியாபாரத்தில்\N_NN குதித்து\V_VM_VNF ஸ்டேடியம்\RD_RDF ஸ்டேடியமாக\RD_RDF கொடி\N_NN அசைத்துக்\V_VM_VNF கொண்டிருந்தார்\V_VAUX .\RD_PUNC
+TMED541	இப்படி\RB சொல்கிறவர்\V_VM_VNF ஜான்\N_NNP ஆபிரஹாம்\N_NNP .\RD_PUNC
+TMED542	இந்தி\N_NN சினிமாவின்\RD_RDF ஜிம்\N_NNP பாயான\JJ இவருக்கு\PR_PRP இந்தி\N_NN சினிமா\RD_RDF மீது\PSP பல\QT_QTF கோபங்கள்\N_NN உண்டு\V_VM .\RD_PUNC
+TMED543	அதில்\PR_PRF ஒன்று\QT_QTC ,\RD_PUNC விளையாட்டு\N_NN சம்பந்தமான\JJ படங்களை\N_NN இவர்கள்\PR_PRP அதிகமாக\RB எடுப்பதில்லை\V_VAUX என்பது\CC_CCS_UT .\RD_PUNC
+TMED544	பாக்சிங்\N_NNP பற்றி\PSP ஒரு\JJ படத்தை\N_NN எடுத்தால்\V_VM_VNF நன்றாக\RB இருக்கும்\V_VM_VNF என\CC_CCS_UT பாக்சிங்\N_NNP பின்னணியில்\N_NN கதை\N_NN ஒன்றை\QT_QTO எழுத\V_VM_VINF ஆரம்பித்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED545	பிரபுதேவாவின்\N_NNP மூன்றாவது\QT_QTO இந்திப்\N_NN படம்\N_NN ராமையா\N_NNP வஸ்தாவையா\N_NN இந்த\DM_DMD மாதம்\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED546	மற்ற\JJ இரு\QT_QTC படங்களைப்\N_NN போல\PSP இதுவும்\PR_PRP ரீமேக்\RD_RDF
+TMED547	ஒரு\JJ வித்தியாசம்\N_NN ,\RD_PUNC முதல்\QT_QTC இரு\QT_QTC படங்கள்\N_NN வேறு\JJ இயக்குனர்கள்\N_NN இயக்கியவை\V_VM_VF .\RD_PUNC
+TMED548	இது\PR_PRP தான்\RP_RPD கடந்த\JJ சில\QT_QTF தினங்களாக\RB பாலிவுட்\RD_RDF மென்று\V_VM_VNF கொண்டிருந்த\V_VM_VNF அவல்\N_NN .\RD_PUNC
+TMED549	கடந்த\JJ மாதம்\N_NN 26ஆம்\QT_QTO தேதி\N_NN அர்ஜுன்\N_NNP கபூர்\N_NNP ஒரு\JJ பார்ட்டிக்கு\RD_RDF ஏற்பாடு\RB செய்தார்\V_VM_VF .\RD_PUNC
+TMED55	“பொம்மு\N_NNP சொல்வதும்\V_VM_VNG சரிதான்\V_VM_VF .\RD_PUNC நாம்\PR_PRP பழங்களை\N_NN வீட்டில்\N_NN வைத்து\V_VM_VNF விட்டு\PSP வருவோம்\V_VM_VNF ”\N_NN என்றது\V_VM_VF அம்மு\N_NNP .\RD_PUNC
+TMED550	அவரின்\PR_PRP பிறந்தநாள்\N_NN பார்ட்டி\RD_RDF .\RD_PUNC பாட்டும்\N_NN ,\RD_PUNC கூத்தும்\N_NN ,\RD_PUNC ஆல்கஹாலும்\N_NN பாய்ந்தோடிய\V_VM_VNF பார்ட்டியில்\RD_RDF கத்ரினா\N_NNP கைஃபும்\N_NN கலந்து\V_VM_VNF கொண்டார்\V_VM_VF .\RD_PUNC
+TMED551	விசு\N_NN பட\JJ வசனம்\N_NN போல\PSP இருந்தாலும்\V_VM_VNF அது\PR_PRP தான்\RP_RPD உண்மை\N_NN
+TMED552	சஞ்சய்\N_NNP தத்\N_NNP சிறையில்\N_NN இருந்தாலும்\V_VM_VNF அவரது\PR_PRP கருணை\N_NN மனம்\N_NN கம்பியைத்\N_NN தாண்டி\V_VM_VNF சிறகடிக்கிறது\V_VM_VF .\RD_PUNC
+TMED553	சஞ்சய்\N_NNP தத்தின்\N_NNP போலீஸ்கிரி\N_NN ஜூலை\N_NN 5\QT_QTC வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED554	தத்\N_NNP சிறையில்\N_NN இருப்பதால்\V_VM_VNF சிம்பதிக்காவது\V_VM_VNG அனைவரும்\N_NN படத்தை\N_NN ஒரு\JJ முறை\N_NN பார்க்க\V_VM_VINF வாய்ப்புள்ளது\V_VM .\RD_PUNC
+TMED555	முதல்\QT_QTC படம்\N_NN உதயத்தில்\N_NN ராம்\N_NNP கோபால்\N_NNP வர்மா\N_NNP அழுத்தமான\JJ முத்திரையை\N_NN பதித்தார்\V_VM_VF .\RD_PUNC
+TMED556	இந்திக்கு\N_NN சென்ற\V_VM_VNF பிறகு\PSP பல\QT_QTF படங்கள்\N_NN பல\QT_QTF விதமான\JJ வெற்றிகள்\N_NN .\RD_PUNC
+TMED557	தோல்விகள்\N_NN அதை\PR_PRP விட\PSP அதிக\JJ அளவுக்கு\N_NN .\RD_PUNC
+TMED558	இன்றும்\N_NST வர்மா\N_NNP என்றால்\CC_CCS_UT நிமிர்ந்து\V_VM_VNF உட்கார\V_VM_VINF வைப்பதற்கு\V_VM_VNG ரங்கீலா\N_NNP ,\RD_PUNC கம்பெனி\RD_RDF ,\RD_PUNC சர்க்கார்\N_NN ,\RD_PUNC சர்க்கார்\N_NN ராஜ்\N_NN என்று\CC_CCS_UT பல\QT_QTF படங்கள்\N_NN காரணமாக\RB இருந்தாலும்\V_VM_VNF அதற்கு\PR_PRP எல்லாம்\N_NN மேல்\PSP சம்மணமிட்டு\V_VM_VNF அமர்ந்திருப்பது\V_VM_VNG சத்யா\N_NNP .\RD_PUNC
+TMED559	எழுபதுகளிலும்\QT_QTO ,\RD_PUNC எண்பதுகளிலும்\QT_QTO வட\JJ இந்திய\JJ இளைஞர்களின்\N_NN கனவிலும்\N_NN ,\RD_PUNC நினைவிலும்\N_NN கிளாமர்\RD_RDF குயினாக\RD_RDF இருந்தவர்\V_VM_VNF ஸீனத்\N_NNP அமன்\N_NNP .\RD_PUNC
+TMED56	“\RD_PUNC இல்லை\V_VM ...\N_NN இல்லை\V_VM ...\RD_PUNC அவன்\PR_PRP நன்றாக\RB தூங்குகிறான்\V_VM_VF .\RD_PUNC இப்போது\N_NST பஞ்சு\N_NN மிட்டாயை\N_NN எடுத்துவிட\V_VM_VNF வேண்டும்\V_VM_VNF ”\RD_PUNC என்று\CC_CCS_UT பிடிவாதம்\N_NN பிடித்தன\V_VM_VF ,\RD_PUNC ராமுவும்\N_NNP சோமுவும்\N_NNP .\RD_PUNC
+TMED560	அறுபத்து\QT_QTC மூன்று\QT_QTC வயதாகும்\V_VM_VNF ஸீனத்\N_NNP அமனுக்கு\N_NNP இன்றும்\N_NST ஆஃபர்\RD_RDF இருக்கிறது\V_VM .\RD_PUNC
+TMED561	சன்னி\N_NNP லியோனிடம்\N_NNP சமீபத்தில்\N_NN நீண்ட\JJ பேட்டி\N_NN எடுக்கப்பட்டது\V_VM_VF
+TMED562	நீலப்படங்களில்\N_NN நடித்ததற்காக\RB இப்போது\N_NST வருத்தப்படுகிறீர்களா\V_VM_VNF என்பது\CC_CCS_UT அதில்\PR_PRP ஒரு\JJ கேள்வி\N_NN
+TMED563	அதற்கு\PR_PRP சன்னி\N_NNV லியோன்\N_NNP அளித்த\JJ பதிலை\N_NN ,\RD_PUNC மனிதன்\N_NN தனது\PR_PRP மைனஸை\RD_RDF எப்படி\PR_PRQ பிளஸ்ஸாக\RD_RDF காட்டிக்\V_VM_VNF கொள்வது\V_VM_VNG என்பதற்கான\CC_CCS_UT உதாரணமாக\RB கல்வெட்டில்\N_NN பொறித்து\V_VM_VNF வைக்கலாம்\V_VM_VF .\RD_PUNC
+TMED564	மதூர்\N_NNP பண்டார்கரின்\N_NNP `\RD_PUNC பார்\N_NN `\RD_PUNC நினைவுகள்\N_NN படங்களை\N_NN நினைவுப்படுத்தும்\V_VM_VNF போது\PSP அனைத்துப்\N_NN படங்களையும்\N_NN பின்\N_NST தள்ளி\V_VM_VNF முன்னுக்கு\N_NST வருவது\V_VM_VNG சாந்தினி\N_NN பார்\N_NN .\RD_PUNC
+TMED565	தபு\N_NNP நடித்த\JJ இந்தப்\DM_DMD படம்\N_NN 4\QT_QTC தேசிய\JJ விருதுகளை\N_NN பெற்றது\V_VM_VF .\RD_PUNC அதில்\PR_PRP ஒன்று\QT_QTC ,\RD_PUNC சிறந்த\JJ நடிகைக்காக\RB தபுக்கு\N_NNP கிடைத்தது\V_VM_VF .\RD_PUNC
+TMED566	இந்தியாவின்\N_NNP முதல்\QT_QTC வெற்றிகரமான\JJ சூப்பர்\RD_RDF ஹீரோ\RD_RDF க்ரிஷ்\N_NNP .\RD_PUNC
+TMED567	அமெரிக்காவின்\N_NNP சூப்பர்\RD_RDF ஹீரோக்களுக்கு\RD_RDF இணையான\JJ பலம்\N_NN பொருந்திய\JJ க்ரிஷ்\N_NNP முழுக்க\JJ ஒரு\JJ சுதேசி\N_NNP படைப்பு\N_NN .\RD_PUNC
+TMED568	காஞ்சனா\N_NN படம்\N_NN வெளியான\JJ போது\PSP சல்மான்\N_NNP கான்\N_NNP காஞ்சனாவின்\N_NN இந்தி\N_NN ரீமேக்கில்\RD_RDF நடிக்க\V_VM_VINF ஆசைப்பட்டதாக\RB செய்திகள்\N_NN வந்தன\V_VM_VF
+TMED569	தற்போது\N_NST அந்த\DM_DMD ரைட்ஸ்\RD_RDF சஞ்சய்\N_NNP லீலா\N_NNP பன்சாலியின்\N_NNP கைக்கு\N_NN சென்றிருக்கிறது\V_VAUX
+TMED57	அவை\PR_PRP இரண்டும்\QT_QTO ,\RD_PUNC பஞ்சுமிட்டாய்\N_NN கூடையை\N_NN நெருங்கி\V_VM_VNF அவற்றைத்\PR_PRP தூக்கிக்\V_VM_VNF கொண்டு\PSP ஓடின\V_VM_VF .\RD_PUNC
+TMED570	சைஸ்\RD_RDF ஸீரோ\RD_RDF மயக்கத்தில்\N_NN இருக்கும்\JJ இந்தி\N_NN சினிமாவில்\RD_RDF சோனாக்சி\N_NNP சின்கா\N_NNP விதிவிலக்கு\N_NN .\RD_PUNC
+TMED571	ஒரு\JJ இந்தியப்\N_NNP பெண்ணாக\RB தெரிய\V_VM_VINF வேண்டும்\V_VM_VNF என்பது\CC_CCD தான்\RP_RPD என்னுடைய\PR_PRP ஆசை\N_NN என்று\CC_CCS_UT சொல்கிறவர்\V_VM_VF .\RD_PUNC
+TMED572	அவரை\PR_PRP அப்படி\RB அடையாளப்படுத்துவது\V_VM_VNG ,\RD_PUNC முதல்\QT_QTC படத்தில்\N_NN இருந்து\PSP அவர்\PR_PRP அணிந்து\V_VM_VNF வரும்\V_VM_VNF மூக்குத்தி\N_NN .\RD_PUNC
+TMED573	அமீஷா\N_NNP படேல்\N_NN ,\RD_PUNC நீல்\N_NNP நிதின்\N_NNP முகேஷ்\N_NNP நடித்திருக்கும்\V_VM_VNF ஷார்ட்\N_NN கட்\N_NN ரோமியோ\N_NN வெளியாகியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED574	இந்த\DM_DMD மாநிலம்\N_NN மலேசியாவின்\N_NNP பல\QT_QTF முக்கிய\JJ சுற்றுலாத்\N_NN தளங்களை\N_NN உள்ளடக்கி\V_VM_VNF உள்ளது\V_VM .\RD_PUNC
+TMED575	சுசி\N_NNP கணேசனே\N_NNP இயக்கியிருந்தார்\V_VAUX .\RD_PUNC
+TMED576	தமிழில்\N_NN மொழிப்பெயர்த்தால்\V_VM_VNF அர்த்தம்\N_NN அடிக்கிற\JJ மாதிரி\N_NN இருக்கும்\V_VM_VNF என்பதால்\CC_CCS_UT ஆங்கிலம்\N_NN .\RD_PUNC
+TMED577	ஜான்\N_NNP ஆபிரஹாம்\N_NNP தனது\PR_PRP அடுத்தப்\N_NN படத்துக்கு\N_NN பனானா\N_NN என்று\CC_CCS_UT பெயர்\N_NN வைத்திருக்கிறார்\V_VM_VNF என்பது\CC_CCS_UT தான்\RP_RPD விஷயம்\N_NN .\RD_PUNC
+TMED578	ரன்பீர்\N_NNP கபூர்\N_NNP ,\RD_PUNC தீபிகா\N_NNP படுகோன்\N_NNP நடித்திருக்கும்\V_VM_VNF ஹே\N_NN ஜவானி\N_NN ஹை\N_NN திவானி\N_NN இரண்டாவது\QT_QTO வாரத்தில்\N_NN 150\QT_QTC கோடியை\N_NN தாண்டி\V_VM_VNF வசூலித்து\V_VM_VNF ,\RD_PUNC தானொரு\JJ பிளாக்\N_NN பஸ்டர்\N_NN என்பதை\CC_CCS_UT நிலைநாட்டி\V_VM_VNF இருக்கிறது\V_VAUX .\RD_PUNC
+TMED579	உடற்கட்டுக்கு\N_NN பெயர்\N_NN போனவர்\V_VM_VNF ஹாலிவுட்\RD_RDF நடிகர்\N_NN சில்வஸ்டர்\N_NNP ஸ்டலோன்\N_NNP .\RD_PUNC
+TMED58	அம்முவும்\N_NNP ,\RD_PUNC பொம்முவும்\N_NNP பழக்கூடையை\N_NN சுமந்து\V_VM_VNF கொண்டு\PSP சென்றன\V_VM_VF .\RD_PUNC சில\QT_QTF நிமிடங்களில்\N_NN கண்விழித்த\JJ பஞ்சுமிட்டாய்\N_NN வியாபாரி\N_NN ,\RD_PUNC பஞ்சுமிட்டாய்க்\N_NN கூடை\N_NN காணமல்\V_VM_VNF போய்\V_VM_VNF இருப்பது\V_VM_VNG கண்டு\V_VM_VNF அதிர்ச்சி\N_NN அடைந்தான்\V_VM_VF .\RD_PUNC
+TMED580	அவரே\PR_PRP ஒரு\JJ இந்திய\JJ நடிகரின்\N_NN உடற்கட்டு\N_NN என்னை\PR_PRP விட\PSP எல்லாவிதத்திலும்\N_NN மேம்பட்டது\V_VM_VNF என்று\CC_CCS_UT பாராட்டினால்\V_VM_VNF ...\RD_PUNC ?\RD_PUNC உச்சி\N_NN குளிர்ந்து\V_VM_VNF போயிருக்கிறார்\V_VAUX நடிகர்\N_NN ஜான்\N_NNP ஆபிரஹாம்\N_NNP .\RD_PUNC
+TMED581	மாதுரி\N_NN தீட்சித்தை\N_NN எங்களுக்கு\PR_PRP தாருங்கள்\V_VM_VF ,\RD_PUNC காஷ்மீரை\N_NNP நீங்கள்\PR_PRP எடுத்துக்\V_VM_VNF கொள்ளுங்கள்\V_VM_VNF என்று\CC_CCS_UT மாதுரி\N_NN தீட்சித்\N_NN இந்தி\N_NN சினிமாவில்\RD_RDF உச்சத்தில்\N_NN இருந்த\V_VM_VNF போது\PSP பாகிஸ்தான்\N_NNP மாதுரி\N_NN ரசிகர்கள்\N_NN இப்படி\RB சொன்னார்கள்\V_VM_VF
+TMED582	தனது\N_NN தந்தையின்\N_NN ஆயுளை\N_NN நீட்டிக்க\V_VM_VINF பிரியங்கா\N_NNP சோப்ரா\N_NNP சமீபத்தில்\N_NN செய்த\JJ மிருத்யுஞ்ஜய\N_NN பூஜை\N_NN பலன்\N_NN தரவில்லை\V_VAUX
+TMED583	கேன்சரால்\RD_RDF அவதிப்பட்டு\V_VM_VNF வந்த\V_VM_VNF பிரியங்காவின்\N_NNP தந்தை\N_NN நேற்று\N_NST மதியம்\N_NN 12\QT_QTC .\RD_PUNC 30\QT_QTC மணியளவில்\N_NN காலமானார்\V_VM_VF .\RD_PUNC
+TMED584	வேறு\JJ எந்தப்\DM_DMQ படமாக\RB இருக்கும்\V_VM .\RD_PUNC
+TMED585	இந்தியாவில்\N_NNP முதல்\QT_QTC இரண்டு\QT_QTC தினங்களில்\N_NN 36\QT_QTC கோடிக்கு\N_NN மேல்\N_NST வசூலித்த\JJ படம்\N_NN வெளிநாடுகளிலும்\N_NN சுழற்றியடிக்கிறது\V_VM_VF .\RD_PUNC முக்கியமாக\RB யு\RD_RDF எஸ்\RD_RDF ஸில்\RD_RDF .\RD_PUNC
+TMED586	சிங்கம்\N_NN படத்தின்\N_NN இந்தி\N_NN ரிமேக்கை\RD_RDF ரோஹித்\N_NNP ஷெட்டி\N_NNP இயக்க\V_VM_VINF அஜய்தேவ்\N_NNP கான்\N_NNP நடித்தார்\V_VM_VF .\RD_PUNC
+TMED587	படம்\N_NN பம்பர்\N_NN ஹிட்\RD_RDF .\RD_PUNC சிங்கம்\N_NN 2\QT_QTC வெற்றியடைந்தால்\V_VM_VNF அதனையும்\PR_PRP ரோஹித்\N_NNP ஷெட்டி\N_NNP அஜய்தேவ்\N_NNP கானை\N_NNP வைத்து\V_VM_VNF இந்தியில்\N_NN எடுப்பார்\V_VM_VNF என\CC_CCS_UT பரவலான\JJ பேச்சு\N_NN .\RD_PUNC
+TMED588	பட்\RD_RDF ,\RD_PUNC ரோஹித்\N_NNP ஷெட்டி\N_NNP அதை\PR_PRP விட\PSP பாஸ்ட்\RD_RDF
+TMED589	என்ன\PR_PRQ மனுஷன்யா\N_NNP இவரு\PR_PRP என்று\CC_CCS_UT தான்\RP_RPD பிரபுதேவாவை\N_NNP பார்த்து\V_VM_VNF வியக்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED59	பதற்றத்தில்\N_NN பஞ்சுமிட்டாயைத்\N_NN தேடி\V_VM_VNF அங்கும்\N_NST இங்கும்\N_NST ஓடினான்\V_VM_VF ,\RD_PUNC தூரத்தில்\N_NN குரங்குகள்\N_NN பஞ்சுமிட்டாய்\N_NN கூடையை\N_NN கொண்டு\PSP செல்வதைக்\V_VM_VNG கண்டான்\V_VM_VF .\RD_PUNC
+TMED590	ராமைய்யா\N_NNP வஸ்தாவையா\N_NNP படத்தை\N_NN இயக்கிக்\V_VM_VNF கொண்டே\V_VM_VNF ஷாகித்\N_NNP கபூர்\N_NNP நடிக்கும்\JJ ராம்போ\N_NNP ராஜ்குமாரையும்\N_NNP எடுத்து\V_VM_VNF வருகிறார்\V_VM_VF
+TMED591	இரண்டு\QT_QTC ஹை\RD_RDF பட்ஜெட்\RD_RDF படங்கள்\N_NN .\RD_PUNC
+TMED592	புனே\N_NNP சிறையில்\N_NN இருக்கிறார்\V_VM சஞ்சய்\N_NNP தத்\N_NNP .\RD_PUNC
+TMED593	இரவு\N_NN உறக்கம்\N_NN வருவதற்காக\RB கடின\JJ வேலை\N_NN தாருங்கள்\V_VM_VNF என்று\CC_CCS_UT கேட்டு\V_VM_VNF அது\PR_PRP மறுக்கப்பட்டிருக்கிறது\V_VAUX .\RD_PUNC
+TMED594	ஏசியும்\N_NN -\RD_PUNC ,\RD_PUNC பஞ்சணையுமாக\N_NN இருந்தவருக்கு\V_VM_VNF தூசியும்\N_NN புழுக்கமுமான\JJ அறை\N_NN நிஜமான\JJ தண்டனை\N_NN தான்\RP_RPD .\RD_PUNC
+TMED595	கே\RD_RDF .\RD_PUNC எஸ்\RD_RDF .\RD_PUNC ரவிக்குமார்\N_NNP இவரை\PR_PRP வைத்து\V_VM_VNF இயக்கி\V_VM_VNF இருக்கும்\V_VM_VNF சாமியின்\N_NN இந்தி\N_NN ரீமேக்கான\RD_RDF போலீஸ்கிரி\N_NN அடுத்த\JJ மாதம்\N_NN 5ஆம்\QT_QTO தேதி\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED596	சென்ற\JJ வருட\JJ இறுதியில்\N_NN மனீஷா\N_NNP கொய்ராலாவுக்கு\N_NNP கேன்சர்\RD_RDF இருப்பதை\V_VM_VNG கண்டு\V_VM_VNF பிடித்தார்கள்\V_VM_VF .\RD_PUNC
+TMED597	உடனடியாக\RB அமெரிக்கா\N_NNP சென்று\V_VM_VNF சிகிச்சை\N_NN மேற்கொண்டார்\V_VM_VF .\RD_PUNC
+TMED598	கசந்த\JJ திருமண\JJ வாழ்க்கையில்\N_NN இருந்து\PSP மீள\V_VM_VINF மீண்டும்\RB சினிமாவில்\RD_RDF நடிக்க\V_VM_VINF ஆரம்பித்தவருக்கு\V_VM_VNF கேன்சர்\RD_RDF பெரும்\JJ அடியாக\RB அமைந்தது\V_VM_VF .\RD_PUNC
+TMED599	எல்லோரும்\N_NN எதிர்பார்த்தது\V_VM_VNF தான்\RP_RPD .\RD_PUNC ஆனாலும்\CC_CCS இப்படி\RB ஒரு\JJ ஓபனிங்\RD_RDF சத்தியமாக\RB யாரும்\PR_PRQ எதிர்பார்க்கவில்லை\V_VAUX .\RD_PUNC
+TMED6	புலவரைப்\N_NN பார்த்து\V_VM_VNF விட்ட\JJ புலி\N_NN பரிதாபமாகச்\RB சொன்னது\V_VM_VF :\RD_PUNC ``\RD_PUNC ``\RD_PUNC ஐயா\N_NN ,\RD_PUNC தயவு\N_NN செய்து\V_VM_VNF என்னை\PR_PRP இந்தக்\DM_DMD கூண்டில்\N_NN இருந்து\PSP விடுவித்து\V_VM_VNF விடுங்கள்\V_VM_VF .\RD_PUNC
+TMED60	‘\N_NN ஏய்\RP_INJ திருட்டுக்\N_NN குரங்குகளா\N_NN ,\RD_PUNC என்\PR_PRP பஞ்சுமிட்டாயையா\N_NN திருடிச்\V_VM_VNF செல்கிறீர்கள்\V_VM_VF ,\RD_PUNC உங்கள்\PR_PRP மண்டையை\N_NN உடைக்கிறேன்\V_VM_VNF பாருங்கள்\V_VM_VNF ’\N_NN என்று\CC_CCS_UT கற்களை\N_NN எடுத்து\V_VM_VNF அவைகள்\PR_PRP மீது\PSP வீசி\V_VM_VNF எறிந்தான்\V_VM_VF .\RD_PUNC
+TMED600	2009ல்\QT_QTO வேக்\N_NN அப்\N_NN சிட்\N_NN என்ற\CC_CCS_UT சூப்பர்\RD_RDF ஹிட்\RD_RDF படத்தை\N_NN தந்த\JJ அயர்ன்\N_NNP முகர்ஜி\N_NNP 2013ல்\QT_QTO தான்\RP_RPD திரும்பி\V_VM_VNF வருகிறார்\V_VM_VF .\RD_PUNC
+TMED601	அப்படி\RB என்ன\PR_PRQ தான்\RP_RPD இந்தப்\DM_DMD படத்தில்\N_NN சொல்லப்\V_VM_VINF போகிறார்\V_VM_VNF என்று\CC_CCS_UT பாலிவுட்டுக்கு\RD_RDF சின்னதாக\RB ஒரு\JJ ஆர்வம்\N_NN .\RD_PUNC
+TMED602	ஹீரோ\RD_RDF ரன்பீர்\N_NNP ,\RD_PUNC ஹீரோயின்\RD_RDF தீபிகா\N_NNP படுகோன்\N_NNP என்றதும்\CC_CCS_UT எதிர்பார்ப்பு\N_NN சூடு\N_NN வைத்த\JJ ஆட்டோ\N_NN மீட்டராக\RB எகிறியது\V_VM_VF .\RD_PUNC
+TMED603	சல்மான்\N_NNP கான்\N_NNP கேட்டுக்\V_VM_VNF கொண்டதற்காக\V_VM_VNF தனது\PR_PRP படத்தயாரிப்பை\N_NN மாற்றி\V_VM_VNF வைத்திருக்கிறார்\V_VAUX ஸ்ரீதேவியின்\N_NNP கணவரான\JJ போனி\N_NNP கபூர்\N_NNP .\RD_PUNC
+TMED604	மென்டல்\RD_RDF ,\RD_PUNC கிக்\RD_RDF என\CC_CCS_UT இரு\QT_QTC படங்களில்\N_NN நடிக்கிறார்\V_VM_VF சல்மான்\V_VM_VF .\RD_PUNC
+TMED605	இதை\PR_PRP அடுத்து\N_NN போனி\N_NNP கபூர்\N_NNP தயாரிப்பில்\N_NN நோ\N_NN எண்ட்ரி\N_NN படத்தின்\N_NN இரண்டாம்\QT_QTO பாகமான\JJ நோ\N_NN என்ட்ரி\N_NN மெய்ன்\N_NN என்ட்ரி\N_NN .\RD_PUNC
+TMED606	இந்நிலையில்\N_NN திடீர்\RB திருப்பமாக\RB உள்ளே\N_NST நுழைந்திருக்கிறார்\V_VAUX சூரஜ்\N_NNP பர்ஜாட்யா\N_NNP .\RD_PUNC
+TMED607	பாடலுக்கு\N_NN நடனம்\N_NN அமைப்பதை\V_VM_VNG விட\PSP வேகமாக\RB படங்களை\N_NN இயக்கி\V_VM_VNF வருகிறார்\V_VM_VF பிரபுதேவா\N_NNP
+TMED608	வான்டட்\RD_RDF படத்தின்\N_NN மூலம்\PSP இந்தியில்\N_NN நுழைந்தவர்\V_VM_VF ரவுடி\N_NN ரத்தோரை\N_NNP ஹிட்டாக்கி\RD_RDF ராமையா\N_NN வஸ்தாயா\N_NN படத்தை\N_NN தற்போது\N_NST இயக்கிக்\V_VM_VNF கொண்டிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED609	எனக்கும்\PR_PRP உனக்கும்\PR_PRP சம்திங்\N_NN சம்திங்\N_NN படத்தின்\N_NN ரீமேக்\RD_RDF இது\PR_PRP .\RD_PUNC
+TMED61	கல்லடிபட்ட\JJ குரங்குகள்\N_NN இரு\QT_QTC கூடைகளையும்\N_NN போட்டு\V_VM_VNF விட்டு\PSP பிழைத்தால்\N_NN போதும்\V_VM_VNF என்று\CC_CCS_UT அலறிக்\V_VM_VNF கொண்டே\V_VM_VNF ஓடின\V_VM_VF .\RD_PUNC
+TMED610	ப்ரீத்தி\N_NNP ஜிந்தா\N_NNP தயாரித்து\V_VM_VNF இருக்கும்\V_VM_VNF இஷ்க்\N_NN இன்\N_NN பாரிஸ்\N_NN சென்ற\JJ வருடமே\N_NN வெளி\N_NST வந்திருக்க\V_VM_VINF வேண்டியது\V_VM_VNF பல\QT_QTF காரணங்கள்\N_NN .\RD_PUNC
+TMED611	தாமதமாக\RB சென்ற\JJ வாரம்\N_NN வெளியானது\V_VM_VF .\RD_PUNC
+TMED612	தாமதமாக\RB வெளியாகும்\V_VM_VNF படங்களில்\N_NN 99\QT_QTC சதவீதம்\N_NN வெற்றிக்\N_NN கோட்டை\N_NN எட்டுவதில்லை\V_VAUX .\RD_PUNC
+TMED613	இந்தப்\DM_DMD படமும்\N_NN அப்படியே\RB .\RD_PUNC மிகச்\RP_INTF சுமாரான\JJ வசூல்\N_NN
+TMED614	கேன்ஸில்\RD_RDF இணையதளம்\N_NN ஒன்றுக்கு\QT_QTO பேட்டி\N_NN அளித்த\JJ மல்லிகா\N_NNP ஷெராவத்\N_NNP ,\RD_PUNC இந்தியாவைப்\N_NNP பற்றி\PSP மோசமாக\RB முன்\N_NST மொழிய\V_VM_VINF ப்ரியங்கா\N_NNP சோப்ரா\N_NNP அவரை\PR_PRP எண்ணைய்\N_NN இல்லாமலே\V_VM_VNF வறுத்தெடுத்தார்\V_VM_VF .\RD_PUNC
+TMED615	பர்ஃபி\N_NN படத்தைப்\N_NN பார்த்து\V_VM_VNF மறந்து\V_VM_VNF விட்டு\PSP இருப்பீர்கள்\V_VM .\RD_PUNC
+TMED616	ஆனால்\CC_CCS படத்தை\N_NN தயாரித்த\JJ யுடிவி\RD_RDF விடாது\V_VM_VNF கருப்பு\N_NN மாதிரி\N_NN விடமாட்டார்கள்\V_VM_VNF போலிருக்கிறது\V_VAUX .\RD_PUNC
+TMED617	ஹாலிவுட்\RD_RDF படங்களில்\N_NN நம்மூர்\PR_PRP ஸ்டார்\RD_RDF நடிகர்களை\N_NN ஊறுகாய்\N_NN அளவுக்கு\N_NN தான்\RP_RPD பயன்படுத்துவார்கள்\V_VM_VF .\RD_PUNC
+TMED618	மிஷன்\N_NN இம்பாஸிபிள்\N_NN கோஸ்ட்\N_NN புரோட்டோகால்\N_NN படத்தில்\N_NN அனில்கபூரை\N_NNP ஊறுகாய்\N_NN அளவுக்குக்\N_NN கூட\PSP பயன்படுத்தவில்லை\V_VAUX .\RD_PUNC
+TMED619	சயிப்\N_NNP அலிகான்\N_NNP நடித்திருக்கும்\V_VM_VNF கோவா\N_NN கான்\N_NN படம்\N_NN சென்ற\JJ வாரம்\N_NN வெளியாகி\V_VM_VNF சுமாரான\JJ வரவேற்பை\N_NN பெற்றிருக்கிறது\V_VAUX
+TMED62	பஞ்சுமிட்டாய்\N_NN வியாபாரி\N_NN ,\RD_PUNC ‘\N_NN குரங்குகளால்\N_NN எனக்கு\PR_PRP ஒரு\JJ கூடை\N_NN பழம்\N_NN லாபம்\N_NN ’\N_NN என்று\RP_RPD பஞ்சுமிட்டாயுடன்\N_NN பழக்கூடையையும்\N_NN தூக்கிச்\V_VM_VNF சென்றான்\V_VM_VF .\RD_PUNC
+TMED620	படம்\N_NN பரவாயில்லை\V_VM_VNF என\CC_CCS_UT விமர்சனங்கள்\N_NN சொல்வதால்\V_VM_VNF வசூல்\N_NN நிச்சயம்\N_NN என்ற\CC_CCS_UT மகிழ்ச்சி\N_NN சயிப்\N_NNP அலிகானுக்கு\N_NNP .\RD_PUNC
+TMED621	அந்த\DM_DMD மகிழ்ச்சியில்\N_NN அடுத்தப்\N_NN பட\JJ வேலையில்\N_NN இறங்கியிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED622	சோனம்\N_NNP கபூரை\N_NNP குறித்து\V_VM_VNF கடந்த\V_VM_VNF சில\QT_QTF நாட்களாக\RB பல\QT_QTF வதந்திகள்\N_NN .\RD_PUNC
+TMED623	முக்கியமாக\RB இயக்குனர்\N_NN புனத்\N_NNP மல்கோத்ராவை\N_NNP காதலிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED624	ஆனால்\CC_CCS சோனத்தின்\N_NNP பதில்\N_NN வேறாக\RB இருக்கிறது\V_VM .\RD_PUNC
+TMED625	துருக்கியில்\N_NNP தொழில்\N_NN முறை\N_NN ரீதியாக\RB ஒரு\JJ இந்தியப்\N_NNP படம்\N_NN நாளை\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED626	இதற்கு\PR_PRP முன்\N_NST துருக்கியில்\N_NNP நடந்த\JJ திரைப்பட\JJ விழாக்களில்\N_NN இந்தியப்\N_NNP படங்கள்\N_NN திரையிடப்பட்டிருக்கின்றன\V_VAUX .\RD_PUNC
+TMED627	ஆனால்\CC_CCS வியாபார\JJ ரீதியாக\RB அதிக\JJ திரையரங்குகளில்\N_NN ஒரு\JJ இந்தியத்\N_NNP திரைப்படம்\N_NN வெளியானதில்லை\V_VAUX .\RD_PUNC
+TMED628	யாஷ்\N_NNV ராஜ்\N_NNP ஃபிலிம்ஸின்\RD_RDF புதிய\JJ படத்தை\N_NN அறிவித்திருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED629	படத்தின்\N_NN பெயர்\N_NN மருதாணி\N_NN .\RD_PUNC இயக்குனர்\N_NN பிரதீப்\N_NNP சர்க்கார்\N_NN .\RD_PUNC
+TMED63	“\RD_PUNC நான்\PR_PRP அப்பவே\RB சொன்னேன்\V_VM_VF .\RD_PUNC இருக்கிறதை\V_VM_VNF விட்டு\PSP விட்டு\PSP பறக்குறதுக்கு\V_VM_VNF ஆசைப்படக்\V_VM_VINF கூடாதுன்னு\V_VM_VNF ,\RD_PUNC இப்போது\N_NST நாம்\PR_PRP கொண்டு\PSP வந்த\V_VM_VNF பழக்கூடையும்\N_NN போச்சா\V_VM_VNF ”\N_NN என்றது\CC_CCS_UT பொம்மு\N_NN குரங்கு\N_NN .\RD_PUNC
+TMED630	யாஷ்\N_NNP ராஜ்\N_NNP ஃபிலிம்ஸ்\RD_RDF ஆதித்ய\N_NNP சோப்ரா\N_NNP இந்தப்\DM_DMD படத்தை\N_NN தயாரிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED631	படத்தின்\N_NN முக்கியமான\JJ வேடத்தில்\N_NN நடிப்பவர்\N_NNV ராணி\N_NNP முகர்ஜி\N_NNP .\RD_PUNC ஆதித்ய\JJ சோப்ராவும்\N_NNP ,\RD_PUNC ராணி\N_NNP முகர்ஜியும்\N_NNP ரகசிய\JJ திருமணம்\N_NN செய்து\V_VM_VNF கொண்டார்கள்\V_VM_VNF என\CC_CCS_UT இந்தி\N_NN சினிமாவின்\RD_RDF பிரபலங்களே\N_NN பப்ளிக்காக\RD_RDF பேசி\V_VM_VNF வருகிறார்\V_VM_VF .\RD_PUNC
+TMED632	துப்பாக்கி\N_NN படத்தில்\N_NN ஆக்சன்\RD_RDF காட்சிகள்\N_NN முக்கிய\JJ இடம்\N_NN வகித்தது\V_VM_VF
+TMED633	துப்பாக்கியின்\N_NN இந்தி\N_NN ரீமேக்\RD_RDF பிஸ்டலில்\RD_RDF துப்பாக்கியை\N_NN விட\PSP ஆக்சனுக்கு\RD_RDF அதிக\JJ முக்கியத்துவம்\N_NN தந்திருக்கிறார்\V_VAUX முருகதாஸ்\N_NNP .\RD_PUNC
+TMED634	பூஜா\N_NN பட்\N_NN எடுக்கும்\JJ படம்\N_NN எல்லாமே\N_NN வித்தியாசமாக\RB தான்\RP_RPD இருக்கும்\V_VM .\RD_PUNC
+TMED635	மனதின்\N_NN கறுப்புப்\N_NN பக்கங்கள்\N_NN தான்\RP_RPD இவரின்\PR_PRP டார்கெட்\RD_RDF .\RD_PUNC
+TMED636	இந்திய\JJ சினிமாவின்\RD_RDF நூற்றாண்டு\N_NN விழாவை\N_NN முன்னிட்டு\V_VM_VNF கரண்\N_NNP ஜோஹர்\N_NNP உள்பட\N_NN நான்கு\QT_QTC இயக்குனர்கள்\N_NN நான்கு\QT_QTC குறும்\JJ படங்களை\N_NN இயக்கி\V_VM_VNF அவற்றை\PR_PRP ஒன்றாக\RB மும்பை\N_NN டாக்கீஸ்\N_NN என்ற\CC_CCS_UT பெயரில்\N_NN வெளியிடுகிறார்கள்\V_VM_VF
+TMED637	3ஆம்\QT_QTO தேதி\N_NN ,\RD_PUNC நூறு\QT_QTC வருடங்களுக்கு\N_NN முன்\N_NST தாதா\N_NNP சாகேப்\N_NNP பால்கே\N_NNP தனது\PR_PRP முதல்\QT_QTC படத்தை\N_NN வெளியிட்ட\JJ அதே\PR_PRP நாளில்\N_NN மும்பை\N_NN டாக்கீஸ்\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED638	சன்னி\N_NNP லியோன்\N_NNP காட்டில்\N_NN அடைமழை\N_NN
+TMED639	இப்படியே\RB போனால்\V_VM_VNF எம்பி\RD_RDF தேர்தலில்\N_NN நின்று\V_VM_VNF ,\RD_PUNC இந்திய\JJ கலாச்சாரத்தை\N_NN இன்றைய\N_NST அரசியல்வாதிகள்\N_NN கெடுத்துவிட்டார்கள்\V_VAUX
+TMED64	“\RD_PUNC சரி\N_NN தான்\RP_RPD நாம்\PR_PRP பேராசைப்\N_NN பட்டோம்\V_VM_VF ,\RD_PUNC பெருநஷ்டம்\N_NN அடைந்தோம்\V_VM_VNF ”\N_NN என்றன\V_VM_VF மற்ற\JJ குரங்குகள்\N_NN
+TMED640	அதனை\PR_PRP காப்பாற்ற\JJ எனக்கு\PR_PRP ஓட்டு\N_NN போடுங்கள்\V_VM_VNF என்று\CC_CCS_UT வீதி\N_NN வீதியாக\RB சன்னி\N_NNP லியோன்\N_NNP ஓட்டு\N_NN கேட்டு\V_VM_VNF வரப்போகிற\V_VM_VNF திருக்காட்சி\N_NN விரைவில்\PSP நடந்தேறும்\V_VM_VF
+TMED641	துபாயில்\N_NNP நடப்பதாக\RB இருந்த\V_VM_VNF சன்னி\N_NNP லியோனின்\N_NNP இரவு\N_NN நடனத்துக்கு\N_NN துபாய்\N_NNP ,\RD_PUNC டிபார்ட்மெண்ட்\RD_RDF ஆஃப்\RD_RDF டூரிஸம்\RD_RDF மற்றும்\CC_CCD காமர்ஸ்\RD_RDF மார்க்கெட்டிங்\RD_RDF அனுமதி\N_NN மறுத்துள்ளது\V_VAUX .\RD_PUNC
+TMED642	உச்சகட்ட\JJ உணர்ச்சியிலும்\N_NN நிதானத்தை\N_NN தவறவிடாதவர்\V_VM_VNF என்று\CC_CCS_UT அமிதாப்புக்கு\N_NNP ஒரு\JJ பெயர்\N_NN உண்டு\V_VM
+TMED643	குறைந்தபட்சம்\N_NN மீடியாக்களின்\N_NN முன்பாவது\V_VM_VNG அவர்\PR_PRP இன்றும்\N_NST மிஸ்டர்\RD_RDF கூல்தான்\V_VM_VF
+TMED644	அவரையே\PR_PRP பேய்\N_NN பிறவிகள்\N_NN என்று\CC_CCS_UT ஆவேசப்பட\V_VM_VINF வைத்திருக்கிறது\V_VAUX டெல்லியின்\N_NNP கற்பழிப்பு\N_NN சம்பவம்\N_NN .\RD_PUNC
+TMED645	ஜெயம்\N_NNP ரவி\N_NNP ,\RD_PUNC த்ரிஷா\N_NNP நடித்த\JJ சம்திங்\N_NN சம்திங்\N_NN படத்தின்\N_NN ஒரிஜினல்\RD_RDF தெலுங்கை\N_NN இயக்கியவர்\N_NNV பிரபுதேவா\N_NNP .\RD_PUNC
+TMED646	ஹீரோ\RD_RDF சித்தார்த்\N_NNP .\RD_PUNC
+TMED647	அந்தப்\DM_DMD படத்தை\N_NN தற்போது\N_NST இந்தியில்\N_NN ராமைய்யா\N_NNP வஸ்தாவையா\N_NN என்ற\CC_CCS_UT பெயரில்\N_NN எடுத்திருக்கிறார்\V_VAUX
+TMED648	படத்தை\N_NN தயாரித்திருப்பது\V_VM_VNG டிப்ஸ்\RD_RDF ஆடியோ\RD_RDF கம்பெனி\RD_RDF .\RD_PUNC ஹீரோ\RD_RDF கம்பெனி\RD_RDF முதலாளியின்\N_NN மகன்\N_NN .\RD_PUNC
+TMED649	இந்திய\JJ படங்கள்\N_NN யுகேயில்\RD_RDF வெளியாகும்\JJ ,\RD_PUNC யுஎஸ்ஸில்\RD_RDF வெளியாகும்\JJ ஏன்\PR_PRQ சிங்கப்பூர்\N_NNP ,\RD_PUNC மலேசியா\PR_PRP ,\RD_PUNC கனடா\N_NNP ,\RD_PUNC நியூசிலாந்து\N_NN ,\RD_PUNC அரபு\N_NN நாடுகளில்\N_NN கூட\PSP வெளியாகும்\V_VM .\RD_PUNC
+TMED65	வேடன்\N_NN விரித்திருந்த\V_VM_VNF வலையில்\N_NN கழுகு\N_NN ஒன்று\QT_QTC சிக்கிக்\V_VM_VNF கொண்டது\V_VM_VF .\RD_PUNC அதைப்\PR_PRP பிடித்த\JJ வேடன்\N_NN ,\RD_PUNC சிறகுகளை\N_NN மட்டும்\PSP வெட்டி\V_VM_VNF சங்கிலியால்\N_NN கட்டிப்\V_VM_VNF போட்டிருந்தான்\V_VAUX .\RD_PUNC
+TMED650	ஆனால்\CC_CCS ஹாங்காங்\N_NNP ...\RD_PUNC ?\RD_PUNC இந்திப்\N_NN படங்கள்\N_NN அங்கேயும்\N_NST தங்களின்\PR_PRP வியாபார\JJ எல்லையை\N_NN விஸ்தாரித்துள்ளன\V_VAUX .\RD_PUNC
+TMED651	முக்கியமாக\RB ஸ்ரீதேவியின்\N_NNP இங்கிலீஷ்\RD_RDF விங்கிலீஷ்\RD_ECH .\RD_PUNC
+TMED652	நீ\PR_PRP எங்கே\PR_PRQ இருந்தாலும்\V_VM_VNF உன்னை\PR_PRP தேடி\V_VM_VNF கண்டு\V_VM_VNF பிடிப்பேன்\V_VM_VNF என்று\CC_CCS_UT விஜய்யிடம்\N_NNP சவால்\N_NN விட்டு\PSP ,\RD_PUNC கிளைமாக்ஸில்\RD_RDF விஜய்யின்\N_NNP கட்டை\N_NN அவிழ்த்துவிட்டு\V_VM_VNF அவரிடம்\PR_PRP அடிவாங்கும்\JJ துப்பாக்கி\N_NN வில்லனை\N_NN நினைவிருக்கிறதா\V_VM ...\RD_PUNC ?\RD_PUNC
+TMED653	இது\PR_PRP நாள்\N_NN வரை\PSP ஹீரோவிடம்\RD_RDF அடிவாங்கிய\V_VM_VINF அந்த\DM_DMD கட்டுமஸ்தான\JJ உடம்பு\N_NN முதல்\QT_QTC முறையாக\RB சினிமாவில்\RD_RDF வில்லன்களை\N_NN பிரித்து\V_VM_VNF மேய்ந்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED654	ப்ரியங்கா\N_NNP சோப்ராவிடம்\N_NNP இருந்து\PSP பத்தடி\N_NN தள்ளியே\V_VM_VNF இருங்கள்\V_VM
+TMED655	அவர்\PR_PRP எடுத்து\V_VM_VNF வரும்\V_VM_VNF பயிற்சியை\N_NN உங்கள்\PR_PRP மீது\PSP பிரயோகித்தால்\N_NN நீங்கள்\PR_PRP அம்பேல்\N_NN
+TMED656	இந்த\DM_DMD நாள்\N_NN ...\RD_PUNC உங்க\JJ டைரியில்\RD_RDF குறிச்சு\V_VM_VNF வச்சுக்குங்க\V_VM_VINF ,\RD_PUNC ரொம்ப\JJ சீக்கிரமே\RB ப்ரீத்தி\N_NNP ஜிந்தா\N_NNP அரசியலில்\N_NN குதிக்கப்\V_VM_VINF போறார்\V_VM_VF .\RD_PUNC
+TMED657	எப்படி\PR_PRQ அது\PR_PRP தெரியும்\V_VM_VF ?\RD_PUNC
+TMED658	சீச்சீ\RP_INJ அந்தப்\DM_DMD பழம்\N_NN புளிக்கும்ங்கிற\JJ மாதிரி\N_NN இப்போதே\N_NST அரசியல்\N_NN விளையாட்டை\N_NN ஆரம்பித்திருக்கிறார்\V_VAUX
+TMED659	விக்ரம்\N_NNP பட்டின்\N_NNP படங்கள்\N_NN என்றால்\CC_CCS_UT மேலே\N_NST உள்ள\JJ மூன்றும்\QT_QTO இருக்கும்\V_VM .\RD_PUNC
+TMED66	அவ்வழியே\N_NN சென்ற\JJ பெரியவர்\N_NN ஒருவர்\QT_QTO ,\RD_PUNC அதன்\PR_PRP மீது\PSP இரக்கம்\N_NN கொண்டார்\V_VM_VF .\RD_PUNC வேடனிடம்\N_NN காசு\N_NN கொடுத்து\V_VM_VNF அந்தக்\DM_DMD கழுகை\N_NN விலைக்கு\N_NN வாங்கி\V_VM_VNF ,\RD_PUNC தன்\PR_PRP வீட்டிற்குக்\N_NN கொண்டு\PSP சென்று\V_VM_VNF அன்புடன்\N_NN வளர்த்தார்\V_VM_VF .\RD_PUNC
+TMED660	இந்த\DM_DMD மூன்றும்\QT_QTO இல்லாத\JJ இந்திப்\N_NN படம்\N_NN தான்\RP_RPD ஏது\PR_PRQ ?\RD_PUNC
+TMED661	ஒரே\JJ வித்தியாசம்\N_NN விக்ரம்\N_NNP பட்டின்\N_NNP படத்தில்\N_NN இந்த\DM_DMD மூன்று\QT_QTC மட்டும்\PSP தான்\RP_RPD இருக்கும்\V_VM
+TMED662	ஹாலிவுட்டில்\RD_RDF ஒரு\JJ படம்\N_NN வெளியாகும்\V_VM அதே\PR_PRP நாள்\N_NN இந்தியாவிலும்\N_NNP அப்படம்\N_NN வெளியாகும்\V_VM
+TMED663	டின்டின்\N_NN போன்ற\JJ பல\QT_QTF படங்கள்\N_NN ஹாலிவுட்டில்\RD_RDF வெளியாகும்\V_VM முன்பே\N_NST இந்தியாவில்\N_NNP வெளியாயின\V_VM_VF
+TMED664	மசில்மேன்\RD_RDF அர்னால்ட்\N_NNP ஸ்வாஸ்நேகருக்கு\N_NN உலகம்\N_NN முழுவதும்\N_NN ரசிகர்களை\N_NN பெற்றுத்\V_VM_VNF தந்த\V_VM_VNF படம்\N_NN கமாண்டோ\RD_RDF .\RD_PUNC
+TMED665	இந்தப்\DM_DMD படத்தை\N_NN முழுமையாகவும்\RB ,\RD_PUNC காட்சிகளை\N_NN பிரித்தும்\V_VM_VNF நூற்றுக்கணக்கான\JJ காப்பிகள்\N_NN உருவாயின\V_VM_VF .\RD_PUNC
+TMED666	சினிமா\RD_RDF நூற்றாண்டு\N_NN விழாவை\N_NN பாலிவுட்\RD_RDF கொண்டாட\V_VM_VINF ஆரம்பித்துவிட்டது\V_VAUX .\RD_PUNC
+TMED667	நான்கு\QT_QTC பேர்\N_NN நான்கு\QT_QTC கதைகளுடன்\N_NN மும்பை\N_NN டாக்கீஸ்\N_NN என்ற\CC_CCS_UT படத்தை\N_NN எடுக்கின்றனர்\V_VM_VF .\RD_PUNC
+TMED668	மே\N_NN மாதம்\N_NN படம்\N_NN ரிலீஸ்\RD_RDF .\RD_PUNC
+TMED669	இதில்\PR_PRP கரண்\N_NNP ஜோஹர்\N_NNP இயக்கும்\JJ கதையில்\N_NN ராணி\N_NNP முகர்ஜி\N_NNP நடிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED67	இறக்கைகள்\N_NN நன்கு\JJ வளர்ந்ததும்\JJ அதைப்\PR_PRP பறந்து\V_VM_VNF போக\V_VM_VINF அனுமதித்தார்\V_VM_VF .\RD_PUNC
+TMED670	சன்னி\N_NNP லியோனின்\N_NNP பெயரை\N_NN ஜன்னி\N_NNP லியோன்\N_NNP என்று\CC_CCS_UT மாற்றலாம்\V_VM_VF
+TMED671	சன்னியின்\N_NNP போஸ்டரைப்\RD_RDF பார்த்தால்\V_VM_VNF யாருக்கும்\PR_PRQ ஜன்னி\N_NNP வந்துவிடும்\V_VM_VNF என்பதால்\CC_CCS_UT இந்த\DM_DMD சிபாரிசு\N_NN .\RD_PUNC
+TMED672	புகை\N_NN தான்\RP_RPD இது\PR_PRP வரை\PSP ஷாருக்கானுக்கு\N_NNP பிரச்சனையாக\RB இருந்தது\V_VM
+TMED673	ஷாருக்\N_NNP செயின்\N_NNP ஸ்மோக்கர்\RD_RDF .\RD_PUNC
+TMED674	இப்போது\N_NST தண்ணிப்\N_NN பிரச்சனை\N_NN வேறு\JJ ஷாருக்கை\N_NNP ஷாக்கடிக்க\RD_RDF வைத்துள்ளது\V_VAUX .\RD_PUNC
+TMED675	ரன்பீர்\N_NNP கபூர்\N_NNP நடித்த\JJ அனுராக்\N_NNP பாஸுவின்\N_NNP பர்ஃபி\N_NN ஜப்பான்\N_NNP ஒகினவா\N_NN சர்வதேசத்\N_NN திரைப்பட\JJ விழாவில்\N_NN விருது\N_NN வென்றிருக்கிறது\V_VAUX .\RD_PUNC
+TMED676	தமிழ்\N_NN நடிகர்களை\N_NN போல்\PSP ஒரே\JJ நேரத்தில்\N_NN ஒரு\JJ படம்\N_NN பண்ணும்\JJ வழக்கம்\N_NN இந்தி\N_NN நடிகர்களுக்கு\N_NN இல்லை\V_VM .\RD_PUNC
+TMED677	முன்னணி\N_NN நடிகர்\N_NN சல்மான்\N_NNP கான்\N_NNP ஒரே\JJ நேரத்தில்\N_NN மூன்று\QT_QTC படங்கள்\N_NN நடிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED678	நடிகர்\N_NN ஷாருக்கான்\N_NNP ,\RD_PUNC இயக்குன்\N_NN ஃபராகான்\N_NN ஆகியோர்\N_NN மீது\PSP பழம்\N_NN பெரும்\JJ நடிகர்\N_NN மனோஜ்\N_NNP குமார்\N_NNP கிரிமினல்\RD_RDF வழக்கு\N_NN தொடர்ந்துள்ளார்\V_VAUX .\RD_PUNC
+TMED679	ஹிம்மத்வாலா\N_NN ஏமாற்றினாலும்\V_VM_VNF அதன்\PR_PRP இயக்குனர்\N_NN சஜித்கான்\N_NNP சுறுசுறுப்பாகவே\RB இருக்கிறார்\V_VM
+TMED68	கழுகு\N_NN பறந்து\V_VM_VNF செல்லும்\V_VM_VNF போது\PSP .\RD_PUNC அதன்\PR_PRP பார்வையில்\N_NN ஒரு\JJ முயல்\N_NN தென்பட்டது\V_VM_VF
+TMED680	படம்\N_NN வெளிவரும்\JJ முன்போ\N_NST அடுத்தப்\N_NN படத்தை\N_NN கமிட்\RD_RDF செய்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED681	தமன்னா\N_NNP அதிகம்\QT_QTF எதிர்\RB பார்த்த\V_VM_VNF ஹிம்மத்வாலா\N_NN விமர்சகர்களையும்\N_NN ,\RD_PUNC ரசிகர்களையும்\N_NN ஒரு\JJ சேர\V_VM_VINF ஏமாற்றியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED682	ஓபனிங்\RD_RDF நன்றாக\RB இருந்தாலும்\V_VM_VNF வார\JJ நாட்களில்\N_NN படம்\N_NN படுத்துவிட்டது\V_VAUX .\RD_PUNC
+TMED683	எல்லா\N_NN நடிகைகளுக்கும்\N_NN சல்மான்\N_NNP கானுடன்\N_NNP நடிக்க\V_VM_VINF ஆசை\N_NN என்று\CC_CCS_UT தெரிவித்தார்\V_VM_VF தமன்னா\N_NNP .\RD_PUNC
+TMED684	தமன்னாவின்\N_NNP ஹிம்மத்வாலா\N_NN விரைவில்\RB வெளியாகிறது\V_VM_VF
+TMED685	அஜய்\N_NNP தேவ்கானுடன்\N_NNP ஜோடியாக\RB நடித்திருக்கும்\V_VM_VNF ஹிம்மத்வாலா\N_NN தமன்னாவுக்கு\N_NNP முக்கியமான\JJ படம்\N_NN .\RD_PUNC
+TMED686	தமன்னா\N_NNP அறிமுகமானது\V_VM_VNF இந்தியில்\N_NN .\RD_PUNC
+TMED687	ஜிஸம்\N_NN 2\QT_QTC படத்தில்\N_NN அறிமுகமான\JJ பிரபல\JJ நீலப்பட\JJ நடிகை\N_NN சன்னி\N_NNP லியோன்\N_NNP விரைவில்\RB விளம்பரங்களிலும்\N_NN தோன்ற\V_VM_VINF உள்ளார்\V_VAUX
+TMED688	சஞ்சய்\N_NNP தத்\N_NNP நான்கு\QT_QTC வாரங்களில்\N_NN சரண்டராக\RB வேண்டும்\V_VM_VNF என\CC_CCS_UT நீதிமன்றம்\N_NN ஆணை\N_NN பிறப்பித்துள்ளது\V_VAUX .\RD_PUNC
+TMED689	சென்ற\JJ வாரம்\N_NN இந்த\DM_DMD தீர்ப்பை\N_NN நீதிமன்றம்\N_NN வெளியிட்டது\V_VM_VF .\RD_PUNC
+TMED69	அதை\PR_PRP அப்படியே\RB தூக்கி\V_VM_VNF வந்து\V_VM_VNF தன்னை\PR_PRP வளர்த்த\JJ பெரியவரிடம்\N_NN காணிக்கையாகக்\RB கொடுத்தது\V_VM_VF .\RD_PUNC
+TMED690	சரண்டரான\JJ பிறகே\PSP சஞ்சய்\N_NNP தத்\N_NNP மேல்\N_NST முறையீடு\N_NN செய்ய\V_VM_VINF முடியும்\V_VAUX .\RD_PUNC
+TMED691	ஐட்டம்\N_NN கேர்ள்\RD_RDF ராக்கி\N_NNP சாவந்த்\N_NNP அடிக்கடி\RB சர்ச்சையில்\N_NN சிக்கி\V_VM_VNF தனது\PR_PRP பெயரை\N_NN புதுப்பித்துக்\V_VM_VNF கொள்வார்\V_VM_VF
+TMED692	தனக்காக\PR_PRP தொலைக்காட்சியில்\N_NN சுயம்வரம்\N_NN நிகழ்ச்சி\N_NN நடத்தி\V_VM_VNF ,\RD_PUNC ஒரு\JJ வரை\PSP திருமணம்\N_NN செய்வதாகத்\RB தெரிவித்து\V_VM_VNF ,\RD_PUNC கடைசியில்\N_NN பின்\N_NST வாங்கி\V_VM_VNF இந்தியா\N_NNP முழுக்க\N_NN தன்னை\PR_PRP பிரபலப்படுத்திக்\V_VM_VNF கொண்டார்\V_VM_VF .\RD_PUNC
+TMED693	சமுத்திரக்கனியின்\N_NNP நாடோடிகள்\N_NN படத்தை\N_NN Rangrezz\RD_RDF என்ற\CC_CCS_UT பெயரில்\N_NN பிரியதர்ஷன்\N_NNP இந்தியில்\N_NN ரீமேக்\RD_RDF செய்தார்\V_VM_VF .\RD_PUNC
+TMED694	வெள்ளிக்கிழமை\N_NN படம்\N_NN ரிலீஸ்\RD_RDF .\RD_PUNC
+TMED695	கடந்த\JJ இரண்டு\QT_QTC படங்களில்\N_NN தோல்வியை\N_NN தழுவிய\JJ பிரியதர்ஷனுக்கு\N_NNP இந்தப்\DM_DMD படம்\N_NN கைகொடுக்கும்\V_VM_VNF என\CC_CCS_UT எதிர்பார்க்கப்பட்டது\V_VM_VF .\RD_PUNC
+TMED696	ஆனால்\CC_CCS படத்தின்\N_NN ஓபனிங்\RD_RDF தயாரிப்பாளர்களை\N_NN திருப்திப்படுத்தவில்லை\V_VAUX
+TMED697	சட்டவிரோதமாக\RB ஆயுதங்கள்\N_NN வைத்திருந்த\V_VM_VNF வழக்கில்\N_NN 20\QT_QTC ஆண்டுகள்\N_NN அல்லாடிய\JJ சஞ்சய்\N_NNV தத்துக்கு\N_NNP 5\QT_QTC வருடங்கள்\N_NN சிறைத்தண்டனை\N_NN உறுதி\N_NN செய்யப்பட்டிருக்கிறது\V_VAUX .\RD_PUNC
+TMED698	ஏற்கனவே\RB ஒன்றரை\QT_QTO வருடங்கள்\N_NN ஜெயிலில்\N_NN கழித்ததால்\V_VM_VNF மூன்றரை\QT_QTO ஆண்டுகள்\N_NN அவர்\PR_PRP சிறைவாசத்தை\N_NN அனுபவித்தால்\V_VM_VNF போதுமானது\V_VM_VF .\RD_PUNC
+TMED699	சஜித்\N_NNP கான்\N_NNP கொஞ்சம்\QT_QTF வித்தியாசமான\JJ ஆள்\N_NN .\RD_PUNC
+TMED7	நீச்சல்\N_NN தெரியாதவன்\N_NNV கடலில்\N_NN குதித்து\V_VM_VNF முத்தை\N_NN எடுக்க\V_VM_VINF விரும்பியது\V_VM_VNF போல\PSP ,\RD_PUNC நான்\PR_PRP சிறிய\JJ மாமிசத்\N_NN துண்டுக்கு\N_NN ஆசைப்பட்டு\V_VM_VNF இந்தக்\DM_DMD கூண்டில்\N_NN அகப்பட்டுக்\V_VM_VNF கொண்டேன்\V_VM_VF .\RD_PUNC
+TMED70	இதைக்\PR_PRP கவனித்துக்\V_VM_VNF கொண்டிருந்த\V_VM_VNF நரி\N_NN ,\RD_PUNC ‘\N_NN ஏற்கனவே\RB உன்னைப்\PR_PRP பிடித்த\JJ வேடன்\N_NN மறுபடியும்\RB பிடிக்கலாம்\V_VM_VF
+TMED700	எப்படியும்\PR_PRQ வேலை\N_NN வாங்குவதில்\V_VM_VNG கில்லாடி\N_NN .\RD_PUNC திறமையான\JJ இயக்குனர்\N_NN என்பதால்\CC_CCS_UT யாரும்\PR_PRQ எதிர்த்து\V_VM_VNF கேள்வி\N_NN கேட்பதில்லை\V_VAUX
+TMED701	இவரின்\PR_PRP புதிய\JJ படம்\N_NN ஹிம்மத்வாலா\N_NN
+TMED702	இந்த\DM_DMD விஷயத்தில்\N_NN மும்பை\N_NNP வாலாக்கள்\N_NN நமக்குப்\PR_PRP பிறகு\PSP தான்\RP_RPD
+TMED703	முத்து\N_NN ஜப்பானில்\N_NNP உலக\JJ ஓட்டம்\N_NN ஓடி\V_VM_VINF இத்தனை\PR_PRP வருடங்கள்\N_NN கழித்து\V_VM_VNF தான்\RP_RPD இந்திப்\N_NN படம்\N_NN ஒன்று\QT_QTC ஜப்பானில்\N_NNP வெளியாகப்\RB போகிறது\V_VM .\RD_PUNC
+TMED704	படம்\N_NN ஏக்\N_NN த\N_NN டைகர்\N_NN .\RD_PUNC
+TMED705	சத்தம்\N_NN இல்லாமல்\RP_NEG மும்பை\N_NNP வந்து\V_VM_VNF பாலிவுட்\RD_RDF பிரபலங்களை\N_NN சந்தித்துள்ளார்\V_VAUX ஹாலிவுட்டின்\RD_RDF கடவுள்\N_NN என்று\CC_CCS_UT வர்ணிக்கப்படும்\V_VM_VNF ஸ்டீவன்\N_NNP ஸ்பீல்பெர்க்\N_NNP .\RD_PUNC
+TMED706	சஜித்\N_NNP கான்\N_NNP இயக்கத்தில்\N_NN நடிக்க\V_VM_VINF நான்\PR_PRP நீ\PR_PRP என்று\CC_CCS_UT முந்திக்\V_VM_VNF கொள்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED707	சஜித்\N_NNP கான்\N_NNP ஆக்சன்\RD_RDF கட்\RD_RDF சொல்கிற\V_VM_VINF படம்\N_NN நூறு\QT_QTC கோடி\N_NN வசூலிக்கும்\JJ ,\RD_PUNC ஐம்பது\QT_QTC கோடி\N_NN கன்ஃபார்ம்\RD_RDF என்று\CC_CCS_UT பாலிவுட்டுக்கு\RD_RDF நம்பிக்கை\N_NN .\RD_PUNC
+TMED708	ராம்கோபால்\N_NNP வர்மாவின்\N_NNP படங்கள்\N_NN ஏதாவது\PR_PRQ ஒரு\JJ விதத்தில்\N_NN யாரையாவது\PR_PRQ தொந்தரவு\RB செய்யாமல்\V_VM_VNF விட்டதில்லை\V_VAUX .\RD_PUNC
+TMED709	தி\N_NN அட்டாக்ஸ்\N_NN ஆஃப்\N_NN 26\QT_QTC /\RD_SYM 11\QT_QTC அட்டாக்\N_NN செய்திருப்பது\V_VM_VNG நானா\N_NN படேகரை\N_NN .\RD_PUNC
+TMED71	இந்த\DM_DMD முயலை\N_NN நீ\PR_PRP அவனிடம்\PR_PRP கொடுத்திருந்தால்\V_VM_VNF ,\RD_PUNC மறுபடியும்\RB அவன்\PR_PRP உன்னைப்\PR_PRP பிடிக்காமல்\V_VM_VNF இருப்பான்\V_VAUX .\RD_PUNC
+TMED710	விஸ்வரூபம்\N_NN புண்ணியத்தில்\N_NN கதக்\N_NN மாஸ்டர்\RD_RDF பிர்ஜு\N_NNP மகாராஜாவை\N_NNP அனைவருக்கும்\N_NN தெரியும்\V_VM_VF .\RD_PUNC
+TMED711	விஸ்வரூபத்தில்\N_NN கமல்\N_NNP நளினமாக\RB ஆடும்\V_VM_VNF உன்னை\PR_PRF காணாத\V_VM_VNF ...\RD_PUNC பாடலுக்கு\N_NN பிர்ஜு\N_NNP மகாராஜா\N_NNP தான்\RP_RPD நடனம்\N_NN அமைத்தார்\V_VM_VF
+TMED712	இந்த\DM_DMD செய்தி\N_NN பாலிவுட்டுக்கே\RD_RDF ஆச்சரியம்\N_NN தான்\RP_RPD .\RD_PUNC
+TMED713	ஷில்பா\N_NNP ஷெட்டியும்\N_NNP சஞ்சய்\N_NNP தத்தும்\N_NNP நெருங்கிய\JJ நண்பர்கள்\N_NN .\RD_PUNC
+TMED714	ஷில்பாவின்\N_NNP கணவர்\N_NN ராஜ்\N_NNP குந்ராவும்\N_NNP தத்தின்\N_NNP நண்பர்கள்\N_NN வட்டத்தில்\N_NN வருகிறவர்\V_VM_VF .\RD_PUNC
+TMED715	அவர்கள்\PR_PRP தயாரிக்கும்\JJ படத்தில்\N_NN நடிக்க\V_VM_VINF ஒப்புக்\V_VM_VNF கொண்ட\JJ தத்\PR_PRP இப்போது\N_NST அந்தப்\DM_DMD புராஜெக்டில்\RD_RDF இருந்து\PSP விலகியிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED716	எண்பதுகளில்\QT_QTO அநீதிக்கு\N_NN எதிராக\RB கோபத்துடன்\N_NN போராடும்\JJ இளைஞனின்\N_NN கதாபாத்திரம்\N_NN இந்தியா\N_NNP முழுக்க\JJ திரைப்படங்களின்\N_NN முக்கிய\JJ கதாபாத்திரமாக\RB பார்க்கப்பட்டது\V_VM_VF .\RD_PUNC
+TMED717	தமிழில்\N_NN இந்தக்\DM_DMD கதாபாத்திரத்தில்\N_NN நடித்து\V_VM_VNF சூப்பர்\RD_RDF ஸ்டாரானவர்\RD_RDF ரஜினிகாந்த்\N_NNP .\RD_PUNC இந்த\DM_DMD கோபக்கார\JJ இளைஞன்\N_NN அலைக்கு\N_NN வித்திட்டவர்\N_NNV அமிதாப்பச்சன்\N_NNP
+TMED718	இந்திய\JJ சினிமாவின்\RD_RDF 100\QT_QTC ஆண்டுகள்\N_NN நிறைவை\N_NN கொண்டாடும்\V_VM_VNF விதத்தில்\N_NN இந்தியில்\N_NN பாம்பே\N_NN டாக்கீஸ்\N_NN படம்\N_NN தயாராகிறது\V_VM_VF
+TMED719	நான்கு\QT_QTC இயக்குனர்கள்\N_NN -\RD_PUNC அனுராக்\N_NN காஷ்யப்\N_NN ,\RD_PUNC திபேகர்\N_NN பானர்ஜி\N_NN ,\RD_PUNC சோயா\N_NN அக்தர்\N_NN ,\RD_PUNC கரண்\N_NN ஜோஹர்\N_NN -\RD_PUNC தனித்தனி\N_NN குறும்\JJ படங்களை\N_NN இயக்கி\V_VM_VNF அவை\PR_PRP ஒரே\JJ திரைப்படமாக\RB வெளிவரும்\V_VM_VF .\RD_PUNC
+TMED72	பெரியவருக்கு\N_NN நீ\PR_PRP முயலைக்\N_NN கொடுத்தாலும்\V_VM_VNF ,\RD_PUNC கொடுக்காமல்\V_VM_VNF இருந்தாலும்\V_VM_VNF அவர்\PR_PRP உன்னைப்\PR_PRP பிடிக்க\V_VM_VINF வரப்\V_VM_VINF போவதில்லை\V_VAUX .\RD_PUNC
+TMED720	செக்சியாக\RD_RDF ஹாட்\RD_RDF லுக்குடன்\RD_RDF இருந்தாலே\V_VM_VNF அவர்\PR_PRF நல்ல\JJ நடிகை\N_NN என்று\CC_CCS_UT அர்த்தம்\N_NN இல்லை\V_VM_VNF என\CC_CCS_UT தெரிவித்துள்ளார்\V_VAUX பிபாசா\N_NNV பாசு\N_NNP .\RD_PUNC
+TMED721	சர்ச்சைக்குரிய\JJ திரைப்பட\JJ இயக்குனரான\JJ ராம்கோபால்\N_NNP வர்மா\N_NNP மும்பை\N_NNP 26\QT_QTC /\RD_SYM 11\QT_QTC தாக்குதல்களை\N_NN அடிப்படையாக\RB வைத்து\V_VM_VNF `\RD_PUNC தி\N_NN அட்டாக்ஸ்\N_NN ஆஃப்\N_NN 26\QT_QTC /\RD_SYM 11\QT_QTC `\RD_PUNC என்று\CC_CCS_UT படம்\N_NN எடுத்திருந்தார்\V_VAUX .\RD_PUNC
+TMED722	பாலிவுட்டின்\RD_RDF இளம்\N_NN நடிகர்களில்\N_NN ரன்பீருக்கு\N_NNP தான்\RP_RPD பெண்\N_NN ரசிகைகள்\N_NN அதிகம்\QT_QTF .\RD_PUNC அவரின்\PR_PRP ஸ்மார்ட்\RD_RDF லுக்\RD_RDF சம்பாதித்த\JJ சொத்து\N_NN இந்த\DM_DMD ரசிகைகள்.\N_NN
+TMED723	அவர்களுக்கு\PR_PRP கடந்த\JJ வருடம்\N_NN பெருத்த\JJ ஏமாற்றம்\N_NN .\RD_PUNC
+TMED724	சன்\N_NN ஆஃப்\N_NN சர்தார்\N_NN சூப்பர்\RD_RDF ஹிட்டான\RD_RDF ஜோரில்\N_NN அஜய்தேவ்\N_NNP கான்\RP_RPD அடுத்து\N_NN வெளியிடும்\JJ படம்\N_NN ,\RD_PUNC ஹிம்மத்வாலா\N_NN .\RD_PUNC
+TMED725	கமர்ஷியல்\RD_RDF கிங்கான\RD_RDF சஜித்\N_NNP கான்\RP_RPD ஹிம்மத்வாலாவின்\N_NN இயக்குனர்\N_NN .\RD_PUNC கேட்க\V_VM_VINF வா\V_VM_VF வேண்டும்\V_VM கலகலப்புக்கு\N_NN ?\RD_PUNC
+TMED726	நிழல்\N_NN உலகைப்\N_NN பற்றி\PSP படமெடுப்பதால்\V_VM_VNF வர்மாவும்\N_NNP வெட்டு\N_NN குத்து\N_NN டமால்\RD_ECH டுமீல்\RD_ECH என்று\CC_CCS_UT இருப்பார்\V_VM_VNF என\CC_CCS_UT நினைப்பது\V_VM_VNG எவ்வளவு\QT_QTF பெரிய\JJ அபத்தம்\N_NN ?\RD_PUNC
+TMED727	இப்படி\RB ஒரு\JJ சர்ட்டிபிகெட்டை\RD_RDF குறுகிய\JJ காலத்தில்\N_NN பாலிவுட்டில்\RD_RDF பெற்றிருக்கிறார்\V_VAUX பழைய\JJ போர்ன்\RD_RDF ஸ்டாரான\RD_RDF சன்னி\N_NNP லியோன்\N_NNP .\RD_PUNC
+TMED728	மும்பையில்\N_NNP நடந்த\JJ யாஷ்\N_NNP சோப்ராவின்\N_NNP சிலை\N_NN திறப்பு\N_NN விழாவில்\N_NN ராணி\N_NNP முகர்ஜிக்கு\N_NNP பெருத்த\JJ சங்கடத்தை\N_NN ஏற்படுத்தினார்\V_VM_VF சத்ருகன்\N_NNP சின்கா\N_NNP .\RD_PUNC
+TMED729	என்றாலும்\PR_PRQ முற்றி\RB பல\QT_QTF வருடங்களான\JJ பிறகும்\PSP கடைக்கு\N_NN வராத\JJ கத்திரிக்காயை\N_NN அவர்\PR_PRP பொது\N_NN இடத்தில்\N_NN ஏலம்விட்ட\JJ தைரியத்துக்கு\N_NN ஒரு\JJ சலாம்\N_NN .\RD_PUNC
+TMED73	எதற்காக\PR_PRQ அப்படிச்\RB செய்தாய்\V_VM_VNF ’\N_NN என\CC_CCS_UT கழுகைப்\N_NN பார்த்துக்\V_VM_VNF கேட்டது\V_VM_VF
+TMED730	தி\N_NN வெட்னெஸ்டே\N_NN படத்தை\N_NN யாரும்\PR_PRQ மறந்திருக்க\V_VM_VINF மாட்டீர்கள்\V_VM_VF
+TMED731	நாலைந்து\QT_QTO சிம்\RD_RDF கார்டை\RD_RDF வைத்து\V_VM_VNF மும்பை\N_NNP சிட்டியையே\RD_RDF நஸ்ருதீன்\N_NNP ஷா\N_NNP கதிகலங்க\V_VM_VINF வைத்த\V_VM_VNF படம்\N_NN .\RD_PUNC
+TMED732	இதனை\PR_PRP இயக்கிய\JJ நீரஜ்\N_NNP பாண்டே\N_NNP அடுத்து\N_NN என்ன\DM_DMQ படம்\N_NN எடுக்கிறார்\V_VM_VNF என்று\CC_CCS_UT ஒரு\JJ முறையாவது\N_NN இணைத்தை\N_NN குடைந்தவர்\V_VM_VNF என்றால்\PR_PRQ இந்த\DM_DMD செய்தி\N_NN உங்களுக்கு\PR_PRP தான்\RP_RPD .\RD_PUNC
+TMED733	பிரச்சனையை\N_NN தேடிப்\V_VM_VNF போய்\V_VM_VNF மாட்டிக்\V_VM_VNF கொள்வதில்\V_VM_VNG ராம்கோபால்\N_NNP வர்மாவுக்கு\N_NNP அப்படி\RB ஒரு\JJ குஷி\N_NN .\RD_PUNC
+TMED734	சரி\N_NN ,\RD_PUNC பிரச்சனை\N_NN தேவையில்லை\V_VM பாசமுள்ள\JJ அப்பாவாக\RB மகளின்\N_NN நிச்சயதார்த்தத்தை\N_NN நடத்தலாம்\V_VM_VNF என்றால்\CC_CCS_UT ,\RD_PUNC பாருடா\V_VM_VF ...\N_NN
+TMED735	பாலிவுட்\RD_RDF நடிகை\N_NN பிபாஷா\N_NNP பாசு\N_NNP ,\RD_PUNC தனது\PR_PRP முகத்தை\N_NN பெரிய\JJ திரையில்\N_NN பார்க்கும்\V_VM_VNF போது\PSP தனக்கே\PR_PRP திகிலாக\RB உள்ளது\V_VM_VNF என்று\CC_CCS_UT தெரிவித்துள்ளார்\V_VAUX .\RD_PUNC
+TMED736	கவர்ச்சி\N_NN என்பதற்கு\CC_CCS_UT அகராதியில்\N_NN மல்லிகா\N_NNP ஷெராவத்\N_NNP என்று\CC_CCS_UT வைக்கலாம்\V_VM_VF .\RD_PUNC
+TMED737	ஒவ்வொரு\JJ படத்திலும்\N_NN விதவிதமாக\RB கவர்ச்சியில்\N_NN கலக்கும்\JJ மல்லிகா\N_NNP குடும்ப\JJ குத்து\N_NN விளக்காக\RB மாறுகிறார்\V_VM_VF .\RD_PUNC
+TMED738	அப்பாஸ்\N_NNP மஸ்தான்\N_NNP இயக்கத்தில்\N_NN வெளியாகியிருக்கும்\V_VM_VNF ரேஸ்\N_NN 2\N_NN இந்தியாவில்\N_NNP மட்டுமின்றி\V_VM_VNF வெளிநாடுகளிலும்\N_NN வசூலை\N_NN அள்ளிக்\V_VM_VNF குவிக்கிறது\V_VM_VF .\RD_PUNC
+TMED739	மஞ்சள்\N_NN நோட்டீஸ்\RD_RDF தரும்\JJ அளவுக்கு\N_NN ராணி\N_NNP முகர்ஜிக்கு\N_NNP என்ன\PR_PRQ பிரச்சனை\N_NN என்று\CC_CCS_UT இந்த\DM_DMD தலைப்பைப்\N_NN படித்து\V_VM_VNF கேட்கத்\V_VM_VINF தோன்றும்\V_VM_VF
+TMED74	“\RD_PUNC அது\PR_PRF தவறு\N_NN .\RD_PUNC வேடனிடம்\N_NN நான்\PR_PRP முயலைக்\N_NN கொடுத்தாலும்\V_VM_VNF ,\RD_PUNC பிற்காலத்தில்\N_NN அவன்\PR_PRP என்னை\PR_PRP வலை\N_NN விரித்துப்\V_VM_VNF பிடிக்கலாம்\V_VM_VF .\RD_PUNC ஆனால்\CC_CCS ,\RD_PUNC நான்\PR_PRP ஆபத்தில்\N_NN இருந்த\V_VM_VNF போது\PSP என்னைப்\PR_PRP பெரியவர்\N_NN காப்பாற்றியுள்ளார்\V_VAUX .\RD_PUNC
+TMED740	ராணி\N_NNP முகர்ஜி\N_NNP தெருவுக்கு\N_NN இறங்குவது\V_VM_VNG நடிப்புக்காக\RB .\RD_PUNC
+TMED741	நட்சத்திர\JJ கலை\N_NN இரவு\N_NN .\RD_PUNC இதற்கு\PR_PRP பல்வேறு\JJ அர்த்தங்கள்\N_NN உண்டு\V_VM .\RD_PUNC
+TMED742	சொந்தமாக\RB வீடுகள்\N_NN ,\RD_PUNC வெளிநாட்டு\N_NN கார்கள்\RD_RDF ,\RD_PUNC பண்ணை\N_NN வீடுகள்\N_NN ,\RD_PUNC திருமண\JJ மண்டபங்கள்\N_NN ,\RD_PUNC கோடிகளில்\N_NN பேங்க்\RD_RDF பேலன்ஸ்\RD_RDF ...\N_NN இவ்வளவு\QT_QTF இருந்தாலும்\V_VM_VNF தங்கள்\PR_PRP சங்கத்துக்கு\N_NN ஒரு\JJ கட்டடம்\N_NN கட்ட\V_VM_VINF வேண்டுமென்றால்\V_VM_VNF சிங்கப்பூருக்கு\N_NN தான்\RP_RPD நட்சத்திரங்கள்\N_NN படையெடுப்பார்கள்\V_VM_VF .\RD_PUNC
+TMED743	இவர்களின்\PR_PRF ஜிகினா\N_NN உண்டியலுக்கு\N_NN பெயர்\N_NN தான்\RP_RPD ,\RD_PUNC நட்சத்திர\JJ கலை\N_NN இரவு\N_NN .\RD_PUNC
+TMED744	அறுபதில்\N_NN ஆசை\N_NN வரும்\N_NN .\RD_PUNC காதல்\N_NNV ...\RD_PUNC ?\RD_PUNC எழுபதுகளில்\N_NN தனது\N_NN கவர்ச்சியால்\N_NN இந்தி\N_NN சினிமாவை\N_NN ஆட்டிப்\N_NN படைத்த\N_NN ஜீனத்\N_NN அமன்\N_NN தனது\N_NN அறுபதாவது\N_NN வயதில்\N_NN காதல்\N_NNV வசப்பட்டிருக்கிறார்\N_NN .\RD_PUNC
+TMED745	சஞ்சய்\N_NNP லீலா\N_NNP பன்சாலியின்\N_NNP ராம்\N_NNP லீலா\N_NNP பெயர்\N_NN பிரச்சனையில்\N_NN சிக்கியுள்ளது\V_VAUX .\RD_PUNC
+TMED746	பெயர்\N_NN பிரச்சனை\N_NN தமிழ்\N_NN ,\RD_PUNC தெலுங்கு\N_NN என்று\CC_CCS_UT இல்லாமல்\RP_NEG தேசிய\JJ பிரச்சனையாக\RB இருக்கிறது\V_VM .\RD_PUNC
+TMED747	சமீபத்தில்\N_NN ராம்\N_NNP கோபால்\N_NNP வர்மாவின்\N_NNP பூட்\N_NN இரண்டாம்\QT_QTO பாகம்\N_NN பெயர்\N_NN பிரச்சனையில்\N_NN சிக்கியது\V_VM_VF .\RD_PUNC இப்போது\N_NST சஞ்சய்\N_NNP லீலா\N_NNP பன்சாலியின்\N_NNP ராம்\N_NNP லீலா\N_NNP .\RD_PUNC
+TMED748	மல்லிகா\N_NNP ஷெராவத்\N_NNP டர்ட்டி\N_NN பாலிடிக்ஸ்\N_NN என்ற\CC_CCS_UT படத்தில்\N_NN நடிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED749	இந்தப்\DM_DMD படத்தில்\N_NN அவர்\PR_PRP நடிக்கக்\V_VM_VINF கூடாது\V_VAUX ,\RD_PUNC படத்தில்\N_NN இருந்து\PSP விலக\V_VM_VINF வேண்டும்\V_VM_VNF என\CC_CCS_UT மர்ம\JJ நபர்கள்\N_NN மல்லிகாவின்\N_NNP சகோதரின்\N_NN போனில்\RD_RDF மிரட்டல்\N_NNV விடுத்துள்ளனர்\V_VAUX .\RD_PUNC
+TMED75	அவரிடம்\PR_PRP நான்\PR_PRP கொண்டுள்ள\JJ நன்றியையும்\N_NN ,\RD_PUNC விசுவாசத்தையும்\N_NN வெளிப்படுத்தவே\V_VM_VNF முயலைக்\N_NN காணிக்கையாகச்\RB செலுத்தினேன்\V_VM_VF .\RD_PUNC
+TMED750	ஃபிலிம்பேர்\N_NN பத்திரிக்கை\N_NN அளிக்கும்\JJ ஃபிலிம்பேர்\N_NN விருது\N_NN போலவே\PSP பிரபல\JJ ஸ்டார்\N_NN டஸ்ட்\N_NN பத்திரிக்கையும்\N_NN தனது\PR_PRP பெயரில்\N_NN இந்திப்\N_NN படங்களுக்கும்\N_NN நட்சத்திரங்களுக்கும்\N_NN விருதுகள்\N_NN வழங்குகிறது\V_VM_VF .\RD_PUNC
+TMED751	2013க்கான\QT_QTO ஸ்டார்\N_NN டஸ்ட்\N_NN விருதுகள்\N_NN அறிவிக்கிப்பட்டுள்ளன\V_VAUX .\RD_PUNC அதன்\PR_PRL முழுமையான\JJ பட்டியல்\N_NN .\RD_PUNC
+TMED752	அப்பாஸ்\N_NNP -\RD_PUNC மஸ்தான்\N_NNP இயக்கத்தில்\N_NN வெளிவந்திருக்கும்\V_VM_VNF ரேஸ்\N_NN 2\N_NN வசூலில்\N_NN தூள்\N_NN கிளப்புகிறது\V_VM_VF .\RD_PUNC
+TMED753	2013ன்\QT_QTO முதல்\QT_QTC 100\QT_QTC கோடி\N_NN படம்\N_NN என்ற\CC_CCS_UT பெருமை\N_NN இந்தப்\DM_DMD படத்துக்கு\N_NN தான்\RP_RPD .\RD_PUNC
+TMED754	மிட்நைட்\N_NN சில்ரன்\N_NN என்ற\N_NN அவரது\PR_PRP தலை\N_NN சிறந்த\JJ நாவல்\N_NN தீபா\N_NNV மேத்தா\N_NNP கைவண்ணத்தில்\N_NN திரைப்படமாகி\V_VM_VNF வருகிறது\V_VM_VF .\RD_PUNC இதில்\PR_PRP பாடகரானார்\V_VM_VF சல்மான்\N_NNP ருஷ்டி\N_NNP .\RD_PUNC
+TMED755	இந்திப்\N_NN படவுலகில்\N_NN நடக்கும்\JJ சில\QT_QTF விஷயங்கள்\N_NN ஆச்சரியமூட்டுபவை\V_VM_VF
+TMED756	கிளாஸ்\RD_RDF படங்களை\N_NN மட்டுமே\PSP இயக்க\JJ முயற்சிக்கும்\N_NN சஞ்சய்\N_NNP லீலா\N_NNP பன்சாலி\N_NNP தயாரித்த\JJ படம்\N_NN ரவுடி\N_NN ரத்தோர்\N_NN .\RD_PUNC அவுட்\N_NN அண்ட்\N_NN அவுட்\N_NN கமர்ஷியல்\RD_RDF படம்\N_NN .\RD_PUNC
+TMED757	கரளை\N_NN கரளையாக\RB மசில்\N_NN வைத்திருக்கும்\V_VM_VNF ஆண்\N_NN மகனின்\N_NN உடல்\N_NN நடனத்துக்கு\N_NN தகுந்த\JJ பிளக்ஸிபிலிட்டி\RD_RDF கொண்டிருக்காது\V_VM_VNF என்ற\CC_CCS_UT எண்ணம்\N_NN பலருக்கு\QT_QTF உள்ளது\V_VM .\RD_PUNC
+TMED758	அர்னால்டு\N_NNP ஸ்வாஸ்நேகர்\N_NNP ,\RD_PUNC சில்வஸ்டர்\N_NNV ஸ்டாலோன்\N_NNP போன்றோரைப்\N_NN பார்த்து\V_VM_VNF இப்படி\RB ஒரு\JJ எண்ணம்\N_NN உறுதிப்பட்டிருக்கலாம்\V_VAUX .\RD_PUNC
+TMED759	சஞ்சய்\N_NNV லீலா\N_NNP பன்சாலி\N_NNP தனது\PR_PRP ராம்\N_NNP லீலா\N_NNP படத்தை\N_NN தசரா\N_NN பண்டிகைக்கு\N_NN வெளியிடும்\JJ தீர்மானத்தை\N_NN தள்ளி\V_VM_VNF வைத்துள்ளார்\V_VAUX .\RD_PUNC
+TMED76	உதவி\N_NN செய்தவரிடம்\N_NNV நன்றியோடு\N_NN இருப்பது\V_VM_VNG தான்\RP_RPD பண்புள்ள\JJ செயல்\N_NN ”\N_NN எனப்\CC_CCS_UT பதில்\N_NN கூறியது\V_VM_VF கழுகு\N_NN
+TMED760	ராமன்\N_NNP ராவணனை\N_NNP வெற்றி\N_NN கொண்ட\JJ புராண\JJ நிகழ்வை\N_NN கொண்டாடும்\JJ தினம்\N_NN தசரா\N_NN .\RD_PUNC
+TMED761	இந்தத்\DM_DMD தினத்தில்\N_NN ராம்\N_NNP லீலாவை\N_NNP வெளியிடுவது\V_VM_VNG பொருத்தமாக\RB இருக்கும்\V_VM_VNF என\CC_CCS_UT பன்சாலி\N_NNP நினைத்ததில்\V_VM_VNF தவறில்லை\V_VM .\RD_PUNC
+TMED762	ஷாருக்கான்\N_NNP ,\RD_PUNC தீபிகா\N_NNV படுகோன்\N_NNP நடித்திருக்கும்\V_VM_VNF சென்னை\N_NN எக்ஸ்பிரஸ்\N_NN படத்தின்\N_NN ஃபர்ஸ்ட்\RD_RDF லுக்\RD_RDF தமிழகத்தில்\N_NN சர்ச்சையை\N_NN கிளப்பியிருக்கிறது\V_VAUX
+TMED763	தென்னிந்தியா\N_NNP -\RD_PUNC குறிப்பாக\RB தமிழகத்தின்\N_NNP மீது\PSP வட\JJ மாநிலங்களைச்\N_NN சேர்ந்தவர்களுக்கு\V_VM_VNF பெரிதாக\RB மதிப்பு\N_NN ஏதும்\PR_PRQ இருந்ததில்லை\V_VAUX .\RD_PUNC
+TMED764	டிசம்பர்\N_NN 21\QT_QTC தபாங்\N_NN 2\QT_QTC வெளியாகிறது\V_VM_VF .\RD_PUNC சல்மான்கானின்\N_NNP ஸ்டார்\RD_RDF பவரை\RD_RDF மீட்டுருவாக்கம்\V_VM_VNF செய்த\V_VM_VNF தபாங்கின்\N_NN இரண்டாம்\QT_QTO பாகம்\N_NN .\RD_PUNC
+TMED765	பாலிவுட்டே\RD_RDF ஒருவித\JJ தபாங்\N_NN வைரஸ்\N_NN பீவரில்\RD_RDF உள்ளது\V_VM .\RD_PUNC
+TMED766	சன்னி\N_NNP லியோனை\N_NNP தெரியாதவர்கள்\V_VM_VNF இணையத்தில்\N_NN இருக்க\V_VM_VINF முடியாது\V_VAUX .\RD_PUNC பிரபல\JJ போர்ன்\RD_RDF மூவிஸ்டார்\RD_RDF
+TMED767	இவருக்கு\PR_PRP சமூகத்தில்\N_NN ஓர்\JJ அந்தஸ்தை\N_NN வாங்கித்\V_VM_VNF தந்தது\V_VM_VF ஜீஸம்\N_NN 2\N_NN படம்\N_NN .\RD_PUNC
+TMED768	அபூர்வமாக\RB இந்த\DM_DMD வருடம்\N_NN 3\QT_QTC கான்களின்\N_NNP படங்களும்\N_NN வெளியாயின\N_NN .\RD_PUNC சல்மான்கான்\N_NNP ,\RD_PUNC ஷாருக்கான்\N_NNP ,\RD_PUNC அமீர்கான்\N_NNP .\RD_PUNC
+TMED769	அமீர்கான்\N_NNP .\RD_PUNC மூவரின்\QT_QTO படங்களும்\N_NN நூறு\QT_QTC கோடி\N_NN தாண்டி\V_VM_VNF வசூல்\N_NN செயயும்\V_VM_VNF என்பது\CC_CCS_UT தான்\RP_RPD விசேஷம்\N_NN .\RD_PUNC
+TMED77	`\RD_PUNC `\RD_PUNC ஓர்\JJ ஊரில்\N_NN ஒரு\JJ பாட்டி\N_NN வடை\N_NN சுட்டுட்டு\V_VM_VNF இருந்தாங்க\V_VM_VNF `\RD_PUNC என்று\CC_CCS_UT கதை\N_NN சொல்லத்\V_VM_VINF தொடங்கினார்\V_VM_VF தாத்தா\N_NN சிங்காரவேல்\N_NNP .\RD_PUNC
+TMED770	வளர்ந்து\V_VM_VNF வரும்\V_VM_VNF இளம்\JJ நடிகர்களில்\N_NN அடுத்த\JJ சூப்பர்ஸ்டாராகும்\RD_RDF திறமை\N_NN ,\RD_PUNC ஸ்டைல்\RD_RDF ,\RD_PUNC பவர்\RD_RDF எல்லாம்\N_NN இவரிடம்\PR_PRP இருப்பதாக\RB தான்\RP_RPD பாலிவுட்டும்\RP_RPD ,\RD_PUNC ரசிகர்களும்\N_NN எண்ணுகிறார்கள்\V_VM_VF .\RD_PUNC அவர்\PR_PRP ரன்பீர்\N_NNP கபூர்\N_NNP .\RD_PUNC
+TMED771	புற்றுநோயால்\N_NN பாதிக்கப்பட்டிருக்கும்\V_VM_VNF மனிஷா\N_NNP கொய்ராலாவுக்கு\N_NNP கடந்த\JJ திங்கட்கிழமை\N_NN நியூயார்க்கில்\N_NNP உள்ள\JJ மருத்துவமனையில்\N_NN அறுவை\N_NN சிகிச்சை\N_NN நடந்தது\V_VM_VF .\RD_PUNC
+TMED772	அறுவை\N_NN சிகிச்சைக்கு\N_NN பிறகு\PSP அவர்\PR_PRP நலமாக\RB இருப்பதாக\RB செய்திகள்\N_NN தெரிவிக்கின்றன\V_VM_VF
+TMED773	லகான்\N_NN படத்துக்குப்\N_NN பிறகு\PSP அமீர்கான்\N_NNP மீதான\JJ இமேஜ்\RD_RDF மாறிவிட்டது\V_VAUX
+TMED774	கலாபூர்வமான\JJ படங்களை\N_NN மட்டுமே\PSP எடுப்பார்\V_VM_VF ,\RD_PUNC மற்ற\JJ நடிகர்களைப்\N_NN போலன்றி\PSP சமூகப்\N_NN பிரச்சனைகளில்\N_NN ஆர்வம்\N_NN காட்டுவார்\V_VM_VF ....\N_NN இந்த\DM_DMD மாதிரி\N_NN .\RD_PUNC
+TMED775	மூன்று\QT_QTC கான்களின்\QT_QTC படங்கள்\N_NN பாக்ஸ்\N_NN ஆபிஸில்\N_NN கலக்குவதைப்\V_VM_VNG போலவே\PSP அக்ஷய்\N_NNP குமாரின்\N_NNP படங்களும்\N_NN இந்த\DM_DMD வருடம்\N_NN பாக்ஸ்\N_NN ஆபிஸை\N_NN திணறடித்தன\V_VM_VF .\RD_PUNC
+TMED776	இந்த\DM_DMD வருடம்\N_NN வெளியான\JJ இவரின்\PR_PRP 3\QT_QTC படங்கள்\N_NN 100\QT_QTC கோடியை\N_NN தாண்டி\V_VM_VNF வசூலித்தன\V_VM_VF .\RD_PUNC
+TMED777	நான்காவது\QT_QTO கிலாடி\N_NN 786\QT_QTC .\RD_PUNC
+TMED778	சல்மான்கானின்\N_NNP மிகவும்\RP_INTF எதிர்பார்க்கப்படும்\V_VM_VNF தபாங்\N_NN 2\QT_QTC டிசம்பர்\N_NN 21ஆம்\QT_QTO தேதி\N_NN வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED779	இப்போதே\N_NST படத்துக்கு\N_NN நூறு\QT_QTC கோடி\N_NN கிளப்பில்\RD_RDF ஒரு\JJ சீட்\RD_RDF ரிசர்வ்\RD_RDF செய்தாகிவிட்டது\V_VAUX .\RD_PUNC
+TMED78	பேரன்\N_NN பரத்தும்\N_NNP பேத்தி\N_NN பவ்யாவும்\N_NNP ,\RD_PUNC `\RD_PUNC `\RD_PUNC தாத்தா\N_NN !\RD_PUNC அந்தக்\DM_DMD கதை\N_NN எங்களுக்குத்\PR_PRP தெரியும்\V_VM_VF .\RD_PUNC
+TMED780	பிரபுதேவா\N_NNP முதலில்\QT_QTO இயக்கிய\JJ படம்\N_NN காதல்\N_NNV ,\RD_PUNC சென்டிமெண்ட்\RD_RDF படமாக\RB இருந்தாலும்\V_VM_VNF ஆக்சன்\RD_RDF படங்கள்\N_NN தான்\RP_RPD அவரை\PR_PRP முன்னணி\N_NN இயக்குனராக்கியது\V_VM_VF .\RD_PUNC
+TMED781	அதிலும்\PR_PRP இந்தியில்\N_NN இவர்\PR_PRP இயக்கிய\JJ வான்டட்\RD_RDF ,\RD_PUNC ரவுடி\N_NN ரத்தோர்\N_NN இரண்டுமே\QT_QTO ஆக்சன்\RD_RDF படங்கள்\N_NN .\RD_PUNC
+TMED782	கேரளாவில்\N_NNP இருந்து\PSP லேட்டாக\RD_RDF மும்பைக்கு\N_NNP பிளைட்\RD_RDF ஏறினாலும்\V_VM_VNF இன்றைய\JJ தேதியில்\N_NN அசின்\N_NNP பாலிவுட்டின்\RD_RDF நெம்பர்\RD_RDF ஒன்\RD_RDF நடிகைகளில்\N_NN ஒருவர்\QT_QTO .\RD_PUNC
+TMED783	படங்களின்\N_NN புரமோஷன்\RD_RDF ஷோக்களில்\RD_RDF இவர்\PR_PRP அசட்டுத்தனமாகச்\N_NN சிரித்து\N_NN ஹீரோக்களை\N_NN தொட்டு\RB பேசுவதைப்\V_VM_VNG பார்க்கையில்\V_VM_VNF சிரிப்பு\N_NN தான்\RP_RPD வருகிறது\V_VM_VF .\RD_PUNC
+TMED784	என்ன\PR_PRQ செய்ய\V_VM_VINF ...\RD_PUNC இது\PR_PRP அழகான\JJ அசடுகளின்\N_NN காலம்\N_NN .\RD_PUNC
+TMED785	பிபாசா\N_NNP பாசுக்கு\N_NNP 2012\QT_QTC மிகவும்\RP_INTF நல்ல\JJ ஆண்டு\N_NN .\RD_PUNC
+TMED786	ஜீஸம்\N_NN படத்துக்குப்\N_NN பிறகு\PSP அவரின்\PR_PRP பெயர்\N_NN சொல்லும்\V_VM_VNF படமாக\RB ராஸ்\N_NN 3\QT_QTC அமைந்தது\V_VM_VF .\RD_PUNC
+TMED787	பிபாசா\N_NNP நடித்தப்\JJ படங்களிலேயே\N_NN அதிக\JJ வசூலை\N_NN பெற்றுத்\V_VM_VNF தந்தது\V_VM_VF இந்தப்\DM_DMD படம்\N_NN தான்\RP_RPD .\RD_PUNC மேலும்\CC_CCD பிபாசாதான்\N_NNP இந்தப்\DM_DMD படத்தின்\N_NN சென்டர்\RD_RDF ஆஃப்\RD_RDF அட்ராக்சன்\RD_RDF .\RD_PUNC
+TMED788	கசாப்\N_NNP உள்ளிட்ட\N_NN தீவிரவாதிகள்\N_NN மும்பையில்\N_NNP தாக்குதல்\N_NNV நடத்தியதை\V_VM_VNF தி\N_NN அட்டாக்ஸ்\N_NN ஆஃப்\N_NN 26\QT_QTC ,\RD_PUNC 11\QT_QTC என்ற\CC_CCS_UT பெயரில்\N_NN படமாக\RB எடுத்திருக்கிறார்\V_VM_VNF ராம்கோபால்\N_NNP வர்மா\N_NNP .\RD_PUNC
+TMED789	வாராந்திர\JJ இதழ்\N_NN நடத்திய\JJ ஆன்\RD_RDF -\RD_PUNC லைன்\RD_RDF கருத்துக்\N_NN கணிப்பில்\N_NN ஆசியாவின்\N_NNP செக்சியான\RD_RDF பெண்\N_NN என்ற\CC_CCS_UT புதிய\JJ பட்டத்தை\N_NN பாலிவுட்\RD_RDF நடிகை\N_NN பிரியங்கா\N_NNP சோப்ரா\N_NNP தட்டிச்\V_VM_VNF சென்றார்\V_VM_VF .\RD_PUNC
+TMED79	வேற\JJ சொல்லுங்க\V_VM_VINF `\RD_PUNC `\RD_PUNC என்றார்கள்\V_VM_VF .\RD_PUNC தாத்தாவுக்கு\N_NN என்னவோ\PR_PRQ போல\PSP ஆயிடுச்சு\V_VM_VF .\RD_PUNC
+TMED790	தபாங்\N_NN படத்தில்\N_NN அறிமுகமானவர்\V_VM_VNF சோனாக்சி\N_NNP சின்கா\N_NNP .\RD_PUNC இப்போது\N_NST தபாங்\N_NN இரண்டாம்\QT_QTO பாகமும்\N_NN ரிலீஸுக்கு\RD_RDF தயாராக\RB உள்ளது\V_VM .\RD_PUNC
+TMED791	அறிமுகமான\JJ படம்\N_NN என்றாலும்\CC_CCS_UT தபாங்கை\N_NN விட\PSP தபாங்\N_NN 2\QT_QTC தான்\RP_RPD தனக்கு\PR_PRP முக்கியமான\JJ படம்\N_NN என்று\CC_CCS_UT சொல்லியிருக்கிறார்\V_VAUX .\RD_PUNC பிழைக்கத்\V_VM_VINF தெரிந்தவர்\V_VM_VF .\RD_PUNC
+TMED792	தமிழில்\N_NN வெற்றி\N_NN பெற்ற\JJ துப்பாக்கியை\N_NN இந்தியில்\N_NN அக்சய்\N_NNP குமாரை\N_NNP வைத்து\V_VM_VNF இயக்குகிறார்\V_VM_VNF முருகதாஸ்\N_NNP .\RD_PUNC
+TMED793	விபுல்\N_NNP ஷா\N_NNP தயாரிக்கும்\V_VM_VNF இந்தப்\DM_DMD படத்தில்\N_NN நடிக்க\V_VM_VINF முன்னணி\N_NN நடிகைகள்\N_NN இடையே\N_NST கடும்\JJ போட்டி\N_NN நிலவுகிறது\V_VM_VF .\RD_PUNC
+TMED794	இந்த\DM_DMD வருடம்\N_NN ஷாகித்\N_NNP கபூருக்கு\N_NNP மிக\RP_INTF மோசமாக\RB அமைந்திருக்கிறது\V_VAUX .\RD_PUNC மிகவும்\RP_INTF எதிர்பார்க்கப்பட்ட\V_VM_VNF இரு\QT_QTC படங்களின்\N_NN வாய்ப்பை\N_NN பறிகொடுத்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED795	நூறு\QT_QTC கோடி\N_NN கிளப்பில்\RD_RDF ஷாருக்கானின்\N_NNP ஜப்\N_NN தக்\N_NN ஹை\N_NN ஜான்\N_NN படம்\N_NN இணைந்துள்ளது\V_VAUX .\RD_PUNC
+TMED796	வெளியான\JJ இரண்டாவது\QT_QTO வார\JJ இறுதியிலேயே\N_NN இதனை\PR_PRP அப்படம்\N_NN சாதித்துள்ளது\V_VAUX .\RD_PUNC
+TMED797	அமீர்கானின்\N_NNP டெடிகேஷன்\RD_RDF அனைவரும்\N_NN அறிந்தது\V_VM_VF .\RD_PUNC
+TMED798	டூப்\RD_RDF போடுவதற்கு\V_VM_VNG சாத்தியமுள்ள\JJ காட்சிகளிலும்\N_NN அவரே\PR_PRP ரிஸ்க்\RD_RDF எடுக்கிறார்\V_VM_VF .\RD_PUNC தல்லாஸ்\N_NN படத்துக்காக\RB அவர்\PR_PRP நீச்சல்\N_NN கற்றுக்\V_VM_VNF கொண்டது\V_VM_VF இப்போது\N_NST தெரிய\V_VM_VINF வந்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED799	மாதுரி\N_NNP தீட்சித்\N_NNP மீதான\JJ க்ரேஸ்\RD_RDF கொஞ்சம்\QT_QTF குறைந்தாலும்\V_VM_VNF இன்னும்\RB ஸ்ட்ராங்காகவே\RD_RDF இருக்கிறது\V_VM
+TMED8	என்னைக்\PR_PRP காப்பாற்றினால்\V_VM_VNF ஓர்\RB உயிரைக்\N_NN காப்பாற்றிய\JJ புண்ணியம்\N_NN உமக்குக்\PR_PRF கிடைக்கும்\V_VM_VF .\RD_PUNC தவிரவும்\PSP ,\RD_PUNC ஓர்\JJ உயிரை\N_NN ஆபத்தில்\N_NN இருந்து\PSP காப்பாற்றுவது\V_VM_VNG பெரிய\JJ தர்மம்\N_NN அல்லவா\V_VM ?\RD_PUNC `\RD_PUNC `\RD_PUNC
+TMED80	`\RD_PUNC `\RD_PUNC சரி\V_VM_VF !\RD_PUNC அதையே\PR_PRP மாற்றி\V_VM_VNF இன்னொரு\JJ கதை\N_NN சொல்லட்டுமா\V_VM_VNF ?\RD_PUNC `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT கேட்டார்\V_VM_VF .\RD_PUNC
+TMED800	மாதுரி\N_NNP தீட்சித்\N_NNP நடிக்கும்\JJ படம்\N_NN என்று\CC_CCS_UT விளம்பரப்படுத்துகிற\JJ அளவுக்கு\N_NN ஸ்டார்\RD_RDF பவரில்\RD_RDF ஒட்டடை\N_NN அடையாமல்\V_VM_VNF இருப்பது\V_VM_VNG ஆச்சரியம்\N_NN .\RD_PUNC
+TMED801	தல்லாஸ்\N_NN படத்தை\N_NN இயக்கியிருக்கும்\V_VM_VNF Reema\N_NNP Kagtiக்கு\N_NNP -\RD_PUNC இது\PR_PRP மோசமான\JJ நேரம்\N_NN .\RD_PUNC
+TMED802	தல்லாஸ்\N_NN நாவல்\N_NN ஒன்றின்\QT_QTO காப்பி\N_NN என்ற\CC_CCS_UT சர்ச்சைக்கு\N_NN பதில்\N_NN சொல்லி\V_VM_VNF வாய்\N_NN மூடவில்லை\V_VAUX அதற்குள்\PR_PRP இயக்குனர்\N_NN சஞ்சய்\N_NNP குப்தாவுடன்\N_NNP கடும்\JJ சண்டையில்\N_NN இறங்கியிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED803	தபுவின்\N_NNP பெயர்\N_NN மீண்டும்\RB செய்திகளில்\N_NN .\RD_PUNC ஆங்க்\N_NN லீ\N_NN யின்\N_NN லைஃப்\N_NN ஆஃப்\N_NN பையில்\N_NN -\RD_PUNC தபு\N_NNV நடித்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED804	அது\PR_PRP தான்\RP_RPD இந்த\DM_DMD திடீர்\RB ஃபோகஸ்\RD_RDF .\RD_PUNC
+TMED805	ஐஸ்வர்யாராய்\N_NNP விஷயத்தில்\N_NN தொடங்கிய\JJ சண்டை\N_NN
+TMED806	சல்மான்கான்\N_NNP தனது\PR_PRP ஆண்மையை\N_NN ஷாருக்கானின்\N_NNP முகத்தில்\N_NN சோதித்துப்\V_VM_VNF பார்த்ததில்\V_VM_VNF ஷாருக்கின்\N_NNP சில்வண்டு\N_NN மூக்கு\N_NN உடைந்து\V_VM_VNF ரத்தம்\N_NN கொட்டியது\V_VM_VF .\RD_PUNC
+TMED807	அன்றைய\JJ ஸ்டார்\RD_RDF வார்\N_NN இன்னமும்\RB அணையாமல்\V_VM_VNF கனன்று\V_VM_VNF கொண்டிருக்கிறது\V_VAUX .\RD_PUNC இது\PR_PRP ஐஸினால்\N_NNV உண்டான\JJ கனல்\N_NNV அல்ல\V_VM ,\RD_PUNC யார்\PR_PRQ பெரியவன்\N_NST என்ற\CC_CCS_UT கௌரவச்\N_NN சண்டை\N_NN .\RD_PUNC
+TMED808	பண்டிட்\N_NN குயின்\N_NN ,\RD_PUNC எலிசபெத்\N_NN ,\RD_PUNC நியூயார்க்\N_NN ,\RD_PUNC ஐ\N_NN லவ்\N_NN யூ\N_NN ஆகிய\JJ படங்களை\N_NN இயக்கிய\JJ சேகர்\N_NNP கபூர்\N_NNP இரு\QT_QTC படங்களை\N_NN இயக்கவுள்ளார்\V_VAUX
+TMED809	இதில்\PR_PRP முதல்\QT_QTC படம்\N_NN பானி\N_NN .\RD_PUNC சேகர்\N_NNP கபூரைப்\N_NNP பொறுத்த\V_VM_VNF வரை\PSP இது\PR_PRP அவரின்\PR_PRP கனவுப்படம்\N_NN .\RD_PUNC
+TMED81	உடனே\PR_PRP பவ்யா\N_NNP ,\RD_PUNC `\RD_PUNC `\RD_PUNC தாத்தா\N_NN !\RD_PUNC முதல்\QT_QTC கதையில்\N_NN ,\RD_PUNC காக்கா\N_NN ஏமாந்தது\V_VM_VF
+TMED810	ஏதோ\RP_RPD உலக\JJ அதிசயம்\N_NN நடந்த\JJ மாதிரிதான்\V_VM_VF .\RD_PUNC
+TMED811	பாலிவுட்டைப்\RD_RDF பொறுத்த\V_VM_VNF வரை\PSP பல\QT_QTF வருடங்களாக\RB காதலித்தவர்கள்\V_VM_VNF பிரிந்து\V_VM_VNF போவதுதான்\V_VM_VNG நடைமுறை\N_NN .\RD_PUNC
+TMED812	மாறாக\RB கரீனா\N_NNP கபூரும்\N_NNP சைஃப்\N_NNP அலிகானும்\N_NNP திருமணம்\N_NN செய்திருக்கிறார்கள்\V_VAUX .\RD_PUNC அணுகுண்டு\N_NN வீசியது\V_VM_VNF போல்\PSP அதிர்ந்து\V_VM_VNF போயிருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED813	இது\PR_PRP எப்படி\PR_PRQ வழக்கத்துக்கு\N_NN மாறாக\RB ?\RD_PUNC
+TMED814	ராணி\N_NNP முகர்ஜியின்\N_NNP முகத்தில்\N_NN முதிர்ச்சி\N_NN தெரியத்\V_VM_VINF தொடங்கி\V_VM_VNF சில\QT_QTF வருடங்களாகிறது\V_VM .\RD_PUNC
+TMED815	அவருக்கு\PR_PRP பொறுப்பு\N_NN இல்லை\V_VM_VNF என்றாலும்\CC_CCS_UT மீடியாவுக்கு\RD_RDF இருக்கிறதே\V_VM
+TMED816	பார்க்கிற\JJ இடத்திலெல்லாம்\N_NN எப்போது\N_NST திருமணம்\N_NN என்று\CC_CCS_UT நச்சரிக்கிறார்களாம்\V_VM_VF .\RD_PUNC
+TMED817	(\RD_SYM திங்கள்கிழமை\N_NN 8\QT_QTF அக்டோபர்\N_NN 2012\QT_QTC )\RD_SYM படம்\N_NN இயக்கி\V_VM_VNF ஃபேமிலி\RD_RDF ட்ராமா\RD_RDF இயக்குனர்\N_NN என்று\CC_CCS_UT பெயர்\N_NN வாங்குவதை\V_VM_VNG விட\PSP படம்\N_NN தயாரித்து\V_VM_VNF மல்டி\N_NN மில்லியனர்\N_NN பட்டம்\N_NN வாங்குவது\V_VM_VNG நல்லது\V_VM_VF என்ற\CC_CCS_UT முடிவுடன்\N_NN தொடர்ந்து\V_VM_VNF படங்கள்\N_NN தயாரிக்கும்\JJ காபி\N_NN வித்\N_NNP கரண்\N_NNP ஜோஹர்\N_NNP அடுத்து\N_NN த்ரில்லர்\N_NN படம்\N_NN ஒன்றை\QT_QTO தயாரிக்கிறார்\V_VM_VF .\RD_PUNC
+TMED818	பிரகாஷ்\N_NNP ஜா\N_NNP சக்ரவியூக்\N_NN என்ற\CC_CCS_UT படத்தை\N_NN எடுத்து\V_VM_VNF வருகிறார்\V_VM_VF .\RD_PUNC
+TMED819	நக்சல்களைப்\N_NN பற்றிய\JJ படமாம்\N_NN .\RD_PUNC நக்சல்\N_NN என்றால்\PR_PRQ பெரும்\JJ முதலாளிகளுக்கு\N_NN அலர்ஜி\N_NN .\RD_PUNC
+TMED82	அடுத்த\JJ கதையில்\N_NN காக்கா\N_NN புத்திசாலியா\N_NN நடக்கவே\V_VM_VNF ,\RD_PUNC நரி\N_NN ஏமாந்துப்\V_VM_VNF போச்சு\V_VM_VF .\RD_PUNC அதுவும்\PR_PRP எங்களுக்குத்\PR_PRP தெரியும்\V_VM_VNF !\RD_PUNC `\RD_PUNC `\RD_PUNC என்றாள்\V_VM_VF .\RD_PUNC
+TMED820	அவர்களின்\PR_PRP உலகின்\N_NN முதல்\QT_QTC பணக்காரர்\N_NN கனவுக்கு\N_NN எப்போதும்\PR_PRQ இடைஞ்சலாக\RB இருப்பவர்கள்\V_VM_VNF நக்சல்கள்\N_NN .\RD_PUNC
+TMED821	அல்லது\CC_CCD இடையூறாக\RB இருப்பவர்கள்\V_VM_VNF நக்சல்கள்\N_NN என்று\CC_CCS_UT அழைக்கப்படுவார்கள்\V_VM_VF .\RD_PUNC
+TMED822	முதலாளிகளுக்கு\N_NN அலர்ஜி\N_NN என்பதால்\CC_CCS_UT அரசாங்கத்துக்கும்\N_NN இவர்கள்\PR_PRP பகைவர்கள்\N_NN .\RD_PUNC
+TMED823	இயக்குனர்கள்\N_NN நடிகர்களாவது\V_VM_VNG தமிழில்\N_NN சாதாரணம்\N_NN .\RD_PUNC இந்தியிலும்\N_NN கூட\CC_CCD நடித்திருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED824	அனுராக்\N_NNP காஷ்யப்\N_NNP ஐயம்\N_NN படத்தில்\N_NN நடித்திருந்தார்\V_VAUX .\RD_PUNC
+TMED825	அக்சய்\N_NNP குமார்\N_NNP கிருஷ்ணனாக\RB நடித்திருக்கும்\V_VM_VNF ஓ\N_NN மை\N_NN காட்\N_NN உள்ளூர்\N_NN வெளிநாடு\N_NN என்று\CC_CCS_UT இரண்டு\QT_QTC இடங்களிலும்\N_NN வசூலில்\N_NN பட்டையைக்\N_NN கிளப்புகிறது\V_VM_VF
+TMED826	அக்சய்\N_NNP தயாரித்திருக்கும்\V_VM_VNF இந்தப்\DM_DMD படத்தில்\N_NN அவர்\PR_PRP இருந்தாலும்\V_VM_VNF பரேஷ்\N_NNP ராவல்\N_NNP தான்\RP_RPD ஹீரோ\RD_RDF
+TMED827	இந்த\DM_DMD ஏமாற்றம்\N_NN இப்போது\N_NST எதிர்பார்ப்பாக\RB மாறியிருக்கும்\V_VAUX .\RD_PUNC சரி\N_NN ,\RD_PUNC முதலில்\QT_QTO ஏமாற்றம்\N_NN என்ன\PR_PRQ என்று\CC_CCS_UT பார்ப்போம்\V_VM_VF .\RD_PUNC
+TMED828	ரகசிய\JJ உளவாளி\N_NN 007\QT_QTC ஜேம்ஸ்\N_NNP பாண்ட்\N_NNP வேடத்தில்\N_NN நடிக்க\V_VM_VINF ஆசை\N_NN இருப்பதாக\RB ஷாருக்கான்\N_NNP தெரிவித்துள்ளார்\V_VAUX .\RD_PUNC
+TMED829	ஒரு\JJ வழியாக\RB சைஃப்\N_NNP அலிகான்\N_NNP ,\RD_PUNC கரீனா\N_NNP கபூர்\N_NNP திருமணம்\N_NN செய்வது\V_VM_VNG என்று\CC_CCS_UT முடிவெடுத்து\V_VM_VNF தேதியும்\N_NN குறித்திருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED83	`\RD_PUNC `\RD_PUNC அட\RP_INJ !\RD_PUNC என்னங்கப்பா\PR_PRQ ...\N_NN உங்களோடு\PR_PRP வம்பாப்\N_NN போச்சு\V_VM_VF
+TMED830	சைஃப்\N_NNP அலிகானின்\N_NNP முதல்\QT_QTC திருமணத்தில்\N_NN அவருக்கு\PR_PRP டீன்\RD_RDF ஏஜ்\RD_RDF குழந்தைகள்\N_NN இருக்கிறார்கள்\V_VM .\RD_PUNC காதலுக்கு\N_NN இது\PR_PRP தேவை\N_NN இல்லை\V_VM ,\RD_PUNC விட்டு\PSP விடுவோம்\V_VM .\RD_PUNC
+TMED831	நாயகியை\N_NN முன்னிலைப்படுத்தி\V_VM_VNF இந்திய\JJ சினிமாவில்\RD_RDF இதற்கு\PR_PRP முன்\N_NST இத்தனைப்\PR_PRP படங்கள்\N_NN வந்ததில்லை\V_VAUX
+TMED832	வித்யா\N_NNP பாலனின்\N_NNP தி\N_NN டர்ட்டி\N_NN பிக்சர்\RD_RDF ,\RD_PUNC கஹானி\N_NNP ,\RD_PUNC கரீனா\N_NNP கபூரின்\N_NNV ஹீரோயின்\RD_RDF ,\RD_PUNC ஸ்ரீதேவியின்\N_NNP இங்கிலிஷ்\N_NN விங்கிலிஷ்\N_NN ,\RD_PUNC ராணி\N_NNP முகர்ஜியின்\N_NNP அய்யா\N_NN ...\RD_PUNC
+TMED833	ஒரு\JJ படம்\N_NN நன்றாக\RB இருந்தால்\V_VM_VNF உடனே\PR_PRP வரும்\JJ கேள்வி\N_NN ,\RD_PUNC இது\PR_PRP எந்த\DM_DMQ வெளிநாட்டு\N_NN படத்தின்\N_NN காப்பி\N_NN ?\RD_PUNC இரண்டாவது\QT_QTO கேள்வி\N_NN ,\RD_PUNC இதன்\PR_PRP இரண்டாம்\QT_QTO பாகம்\N_NN எடுக்கப்படுமா\V_VM_VF ?\RD_PUNC
+TMED834	இன்றைய\JJ தேதியில்\N_NN பாலிவுட்டின்\RD_RDF மோஸ்ட்\RD_RDF வான்டட்\RD_RDF நடிகை\N_NN கத்ரினா\N_NN கைஃப்\N_NN .\RD_PUNC
+TMED835	ஒரே\JJ நேரத்தில்\N_NN அமீர்\N_NNP கான்\N_NNP ,\RD_PUNC ஷாருக்கான்\N_NNP என\CC_CCS_UT இரு\QT_QTC சூப்பர்\RD_RDF ஸ்டார்களுடன்\RD_RDF நடித்து\V_VM_VNF வருகிறார்\V_VM_VF .\RD_PUNC
+TMED836	விக்ரம்\N_NNP பட்டின்\N_NNP ராஸ்\N_NN 3\QT_QTC பாக்ஸ்\RD_RDF ஆபிஸில்\RD_RDF நல்ல\JJ இடத்தை\N_NN கைப்பற்றியது\V_VM_VF
+TMED837	பிபாசா\N_NNP பாசு\N_NNP இது\PR_PRP வரை\PSP நடித்தப்\V_VM_VNF படங்களில்\N_NN இந்தப்\DM_DMD படத்துக்கு\N_NN தான்\RP_RPD சிறந்த\JJ ஓபனிங்\RD_RDF .\RD_PUNC
+TMED838	விக்ரம்\N_NNP பட்டும்\N_NNP ,\RD_PUNC பிபாசா\N_NNP பாசுவும்\N_NNP சந்தோஷப்பட\V_VM_VINF இந்த\DM_DMD செய்தி\N_NN போதுமானது\V_VM_VF .\RD_PUNC
+TMED839	ஹாலிவுட்டில்\RD_RDF எந்தப்\DM_DMQ படத்திலாவது\V_VM_VNG இந்திய\JJ முகம்\N_NN தேவைப்பட்டால்\V_VM_VNF இர்ஃபான்\N_NNP கான்தான்\N_NNP அவர்களின்\PR_PRP முதல்\QT_QTC சாய்ஸ்\RD_RDF .\RD_PUNC இப்போது\N_NST இர்ஃபானின்\N_NNP மகனும்\N_NN ஹாலிவுட்டில்\RD_RDF தலைகாட்டியிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED84	சரி\N_NN !\RD_PUNC இன்னொரு\JJ சின்ன\JJ பாட்டி\N_NN கதை\N_NN சொல்றேன்\V_VM_VNF `\RD_PUNC `\RD_PUNC என்றார்\V_VM_VF தாத்தா\N_NN .\RD_PUNC
+TMED840	கேங்\N_NN ஆஃப்\N_NN வாஸேபேர்\N_NN வெளி\N_NN வந்த\V_VM_VNF போது\PSP ,\RD_PUNC இப்போது\N_NST தான்\RP_RPD முதல்\QT_QTC முறையாக\RB ஒரு\JJ கார்\RD_RDF வாங்கினேன்\V_VM_VNF என்று\CC_CCS_UT அனுராக்\N_NNP காஷ்யப்\N_NNP தெரிவித்தார்\V_VM_VF
+TMED841	இருபது\QT_QTC வருட\JJ திரை\N_NN வாழ்க்கையில்\N_NN இப்போது\N_NST தான்\RP_RPD அவரால்\PR_PRP கார்\RD_RDF வாங்க\V_VM_VINF முடிந்திருக்கிறது\V_VAUX
+TMED842	அதே\PR_PRP நேரம்\N_NN ஒரு\JJ படத்தை\N_NN அவர்\PR_PRP தயாரித்து\V_VM_VNF வருகிறார்\V_VM_VNF என்பது\CC_CCS_UT அனேகமாக\RB யாருக்கும்\PR_PRQ தெரியாது\V_VM_VF .\RD_PUNC
+TMED843	2009\QT_QTC வெளியான\JJ 3\QT_QTC இடியட்ஸ்\N_NN இந்திய\JJ சினிமாவின்\RD_RDF அதிகம்\QT_QTF வசூல்\N_NN செய்த\JJ படம்\N_NN .\RD_PUNC
+TMED844	அதற்குப்\PR_PRP பிறகு\PSP அமீர்கான்\N_NNP நடிப்பில்\N_NN இது\PR_PRP வரை\PSP எந்தப்\DM_DMQ படமும்\N_NN வெளியாகவில்லை\V_VM .\RD_PUNC
+TMED845	இத்தனைக்கும்\PR_PRP அவரது\PR_PRP தல்லாஸ்\N_NN ஏற்கனவே\RB முழுப்படமும்\N_NN முடிவடைந்துவிட்டது\V_VAUX .\RD_PUNC
+TMED846	ஒரு\JJ உறையில்\N_NN இரண்டு\QT_QTC கத்தி\N_NN எப்போதும்\PR_PRQ சாத்தியமில்லை\V_VM .\RD_PUNC
+TMED847	ஒரே\JJ துறையில்\N_NN அதுவும்\PR_PRP சினிமாவில்\RD_RDF முன்னணியில்\N_NN இருக்கும்\V_VM_VNF இரு\QT_QTC நடிகைகள்\N_NN பரஸ்பரம்\N_NN பாராட்டிக்\V_VM_VNF கொள்வதற்கு\V_VM_VNG வாய்ப்புகள்\N_NN குறைவு\V_VM_VF .\RD_PUNC
+TMED848	அதிலும்\PR_PRP கரீனா\N_NNV கபூரும்\N_NNP ,\RD_PUNC பிரியங்கா\N_NNP சோப்ராவும்\N_NNP நேரடி\N_NN போட்டியாளர்கள்\N_NN .\RD_PUNC
+TMED849	ராம்\N_NNP கோபால்\N_NNP வர்மாவின்\N_NNP பூட்\N_NN ரிட்டர்ன்ஸ்\N_NN பைனல்\RD_RDF ஸ்டேஜ்\RD_RDF எட்டியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED85	அதற்குப்\PR_PRP பரத்\N_NNP ,\RD_PUNC `\RD_PUNC `\RD_PUNC எதுவா\PR_PRQ இருந்தாலும்\V_VM_VNF சுருக்கமாகச்\RB சொல்லுங்க\V_VM_VINF .\RD_PUNC இல்லன்னா\V_VM_VNF ,\RD_PUNC நாங்க\PR_PRP இடத்தைக்\N_NN காலி\N_NN பண்ணிடுவோம்\V_VM_VNF `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT மிரட்டினான்\V_VM_VF .\RD_PUNC
+TMED850	வர்மாவின்\N_NNP ஹாரர்\N_NN படங்களில்\N_NN ரசிகர்களைப்\N_NN பயப்பட\V_VM_VINF வைத்ததிலும்\V_VM_VNF ,\RD_PUNC ரசிக்க\V_VM_VINF வைத்ததிலும்\V_VM_VNF இப்போதும்\N_NST முதலிடம்\N_NN பூட்\N_NN படத்திற்கே\N_NN
+TMED851	அதன்\PR_PRP இரண்டாம்\QT_QTO பாகம்\N_NN தான்\RP_RPD பூட்\N_NN ரிட்டர்ன்ஸ்\N_NN .\RD_PUNC
+TMED852	எதிர்பார்த்ததை\V_VM_VNF விட\PSP ராஸ்\N_NN 3க்கு\QT_QTO -\RD_PUNC வரவேற்பு\N_NN அதிகமாக\RB தான்\RP_RPD இருக்கிறது\V_VAUX .\RD_PUNC
+TMED853	முதல்\QT_QTC வாரத்தில்\N_NN 30\QT_QTC கோடிக்கு\N_NN மேல்\N_NST வசூலித்திருக்கிறதாம்\V_VAUX .\RD_PUNC வெளிநாடுகளிலும்\N_NN மோசமில்லை\V_VM .\RD_PUNC
+TMED854	அது\PR_PRP தானே\RP_RPD ...\RD_PUNC காய்த்த\V_VM_VNF மரமே\N_NN கல்லடி\N_NN படும்\V_VM_VNF போது\PSP ஏக்\N_NN தா\N_NN டைகர்\N_NN 200\QT_QTC கோடி\N_NN இந்தியாவில்\N_NNP மட்டும்\PSP வசூலித்த\V_VM_VNF பழுத்த\V_VM_VNF மரம்\N_NN .\RD_PUNC
+TMED855	இதன்\PR_PRP மேல்\N_NST யாரும்\PR_PRQ இது\PR_PRP வரை\PSP கல்லெறிய\V_VM_VINF வில்லையே\V_VM_VNF என்ற\CC_CCS_UT ஆச்சரியத்துக்கு\N_NN முற்றுப்\N_NN புள்ளி\N_NN வைத்திருக்கிறார்\V_VM_VF ஒருவர்\QT_QTO .\RD_PUNC
+TMED856	உடல்நிலை\N_NN சரியில்லாததால்\V_VM_VNF நேற்று\N_NST மும்பை\N_NNP மருத்துவமனையில்\N_NN பிபாஷா\N_NNP பாசு\N_NNP அனுமதிக்கப்பட்டார்\V_VM_VF .\RD_PUNC
+TMED857	பிபாஷா\N_NNP பாசுவின்\N_NNP ராஸ்\N_NN 3\QT_QTC படம்\N_NN வெளியாகி\V_VM_VNF வசூலில்\N_NN கலக்கியெடுக்கிறது\V_VM_VF .\RD_PUNC படத்தின்\N_NN வெற்றிக்கு\N_NN காரணம்\N_NN பிபாஷா\N_NNP என்று\CC_CCS_UT பாரபட்சம்\N_NN இல்லாமல்\RP_NEG எல்லோரும்\N_NN பாராட்டுகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED858	தொடர்ந்த\JJ படப்பிடிப்பு\N_NN ,\RD_PUNC ராஸ்\N_NN 3\QT_QTC படத்தின்\N_NN பிரமோஷனில்\RD_RDF தொடர்ச்சியாக\RB பங்கேற்றது\V_VM_VNF என்று\CC_CCS_UT பிபாஷாவின்\N_NNP உடல்நிலை\N_NN சில\QT_QTF நாட்களாகவே\RB சரியில்லை\V_VM என்கிறார்கள்\N_NN .\RD_PUNC
+TMED859	ராம்\N_NNP கோபால்\N_NNP வர்மாவுக்கு\N_NNP இது\PR_PRP பெயர்\N_NN பிரச்சனை\N_NN நேரம்\N_NN .\RD_PUNC
+TMED86	`\RD_PUNC `\RD_PUNC சரி\N_NN ,\RD_PUNC சொல்றேன்\V_VM_VNF `\RD_PUNC `\RD_PUNC என்ற\CC_CCS_UT தாத்தா\N_NN ,\RD_PUNC சொல்ல\V_VM_VINF ஆரம்பித்தார்ன்\V_VM_VF .\RD_PUNC `\RD_PUNC `\RD_PUNC குழந்தைகளா\N_NN !\RD_PUNC ஒரு\JJ சின்ன\JJ பாட்டி\N_NN வடை\N_NN சுடத்\V_VM_VINF தயாரானாங்க\V_VM_VF .\RD_PUNC
+TMED860	சத்யா\N_NNP படத்தின்\N_NN இரண்டாம்\QT_QTO பாகத்துக்கு\N_NN சத்யா\N_NNP 2\QT_QTC என்று\CC_CCS_UT வர்மா\N_NNP பெயர்\N_NN வைத்ததை\V_VM_VNF சத்யா\N_NNP படத்தின்\N_NN தயாரிப்பாளர்\N_NNV அனுமதிக்கவில்லை\V_VAUX .\RD_PUNC இந்நிலையில்\N_NN வேறொரு\JJ பஞ்சாயத்து\N_NN .\RD_PUNC
+TMED861	இந்திப்\N_NN படவுலகின்\N_NN மாஸ்டர்களில்\RD_RDF ஒருவரான\JJ ரமேஷ்\N_NNP சிப்பி\N_NNP 17\QT_QTC வருடங்களுக்குப்\N_NN பிறகு\PSP படம்\N_NN இயக்குகிறார்\V_VM_VF
+TMED862	இந்த\DM_DMD முறை\N_NN அவர்\PR_PRP இயக்கப்\V_VM_VINF போவது\V_VM_VNG ஒரு\JJ த்ரில்லரை\N_NN .\RD_PUNC
+TMED863	மும்பை\N_NNP மலாடில்\N_NNP உள்ள\JJ ரிலையன்ஸ்\RD_RDF டிஜிட்டல்\RD_RDF ஸ்டோருக்கு\RD_RDF ஹிந்தித்\N_NN திரைப்படம்\N_NN பார்ஃபியின்\N_NN யூடியூப்\N_NN அறிமுகத்திற்காக\RB ஆகஸ்ட்\N_NN 31ஆம்\QT_QTO தேதி\N_NN அன்று\N_NST வருகை\N_NN தந்தார்\V_VM_VF .\RD_PUNC
+TMED864	ஜெய்பூரில்\N_NNP உள்ள\JJ மனுபாசனா\N_NNP மாலில்\N_NNP உள்ள\JJ ரிலையன்ஸ்\N_NN டிஜிட்டல்\N_NN ஸ்டோருக்கு\N_NN பாலிவுட்\RD_RDF நட்சத்திரங்களான\JJ எம்ரான்\N_NNP ஹஷ்மி\N_NNP ,\RD_PUNC பிபாஷா\N_NNP பாசு\N_NNP ,\RD_PUNC இஷா\N_NNP குப்தா\N_NNP ஆகியோர்\N_NN கடந்த\JJ மாதம்\N_NN 30ஆம்\QT_QTO தேதி\N_NN ராஸ்\N_NN 3\QT_QTC பட\JJ விளம்பரத்தை\N_NN ஒட்டி\V_VM_VNF வருகை\N_NN தந்தனர்.\V_VM_VF
+TMED865	சென்ற\JJ வார\JJ இறுதியில்\N_NN அதாவது\CC_CCS ஏக்\N_NN தா\N_NN டைகரின்\N_NN இரண்டாவது\QT_QTO வார\N_NN இறுதியில்\N_NN -\RD_PUNC வெள்ளி\N_NN ,\RD_PUNC சனி\N_NN ,\RD_PUNC ஞாயிறு\N_NN தினங்களில்\N_NN இந்தியாவில்\N_NNP மட்டும்\CC_CCS 30\QT_QTC .\RD_PUNC 62\QT_QTC கோடிகளை\N_NN வசூலித்துள்ளது\V_VAUX .\RD_PUNC
+TMED866	இந்தியில்\N_NN வித்தியாசமான\JJ கதைகளுடன்\N_NN அசத்துகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED867	பொலிடிகல்\RD_RDF த்ரில்லர்\N_NN ,\RD_PUNC விந்து\N_NN தானம்\N_NN செய்கிறவனின்\V_VM_VNF கதை\N_NN இப்போது\N_NST பிரா\N_NN விற்பனையாளரின்\N_NN காதல்\N_NNV கதை\N_NN .\RD_PUNC
+TMED868	Shirin\N_NN Farhad\N_NN Ki\N_NN Toh\N_NN Nikal\N_NN Padi\N_NN படத்தில்\N_NN பொமன்\N_NNP இரானி\N_NNP பிரா\N_NN விற்பனையாளர்\N_NNV ,\RD_PUNC அவர்\PR_PRP காதலிப்பது\V_VM_VNG ஃபராகானை\N_NNP .\RD_PUNC ஆமாம்\N_NN ,\RD_PUNC நடன\JJ இயக்குனராக\RB இருந்து\PSP மேன்\N_NNP ஹு\N_NNP னா\N_NNP ,\RD_PUNC ஓம்\N_NN சாந்தி\N_NN ஓம்\N_NN படங்களை\N_NN இயக்கியவர்\N_NNV .\RD_PUNC
+TMED869	ஒரு\JJ படம்\N_NN தறுதலை\N_NN என்பதை\CC_CCS_UT ரசிகர்கள்\N_NN முதல்\QT_QTC நாளே\N_NN எப்படி\PR_PRQ கண்டுபிடிக்கிறார்களோ\V_VM_VF
+TMED87	அடுப்பு\N_NN எரியலே\V_VM_VF .\RD_PUNC ஏன்னா\PR_PRQ ...\RD_PUNC ஈர\JJ விறகு\N_NN !\RD_PUNC பாட்டி\N_NN ஊதாங்குழல்\N_NN எடுத்து\V_VM_VNF `\RD_PUNC ஊ\RP_INJ ...\RD_PUNC ஊன்னு\RP_INJ ’\N_NN ஊதுனாங்க.\V_VM_VF ம்\N_NN ஹூம்\N_NN !\RD_PUNC அப்பவும்\N_NST புகை\N_NN தான்\RP_RPD வந்துச்சு\V_VM_VF .\RD_PUNC
+TMED870	படம்\N_NN சரியில்லை\V_VM_VNF என்றால்\CC_CCS_UT முதல்\QT_QTC நாளே\N_NN தியேட்டர்கள்\N_NN காற்று\N_NN வாங்குகின்றன\V_VM_VF
+TMED871	இது\PR_PRP தமிழகத்துக்கு\N_NNP பொருந்துமா\V_VM_VNF தெரியவில்லை\V_VAUX .\RD_PUNC சகுனி\N_NN ,\RD_PUNC அட்டகத்தி\N_NN போன்ற\JJ மொக்கைகள்\N_NN இங்கு\N_NST சக்கைப்போடு\N_NN போடுகின்றன\V_VM_VF .\RD_PUNC
+TMED872	பாலிவுட்\RD_RDF திரைப்படம்\N_NN ``\RD_PUNC பர்ஃபியின்\N_NNP ``\RD_PUNC யூடியூப்\N_NN வீடியோ\RD_RDF இணையதள\JJ அறிமுக\JJ நிகழ்ச்சியை\N_NN ஒட்டி\V_VM_VNF மலாதில்\N_NNP உள்ள\JJ ரிலையன்ஸ்\N_NN டிஜிட்டல்\N_NN ஸ்டோர்\N_NN இன்ஃபினிட்டி\N_NN பேரங்காடிக்கு\N_NN நட்சத்திரங்கள்\N_NN ரன்பீர்\N_NNP கபூர்\N_NNP ,\RD_PUNC பிரயங்கா\N_NNP சோப்ரா\N_NNP ஆகியோர்\N_NN நாளை\N_NN (\RD_SYM 31\QT_QTC ஆகஸ்ட்\N_NN )\RD_SYM மதியம்\N_NN 1\QT_QTC .\RD_PUNC 30\QT_QTC மணி\N_NN அளவில்\N_NN வருகை\N_NN தருகின்றனர்\V_VM_VF .\RD_PUNC
+TMED873	பாலிவுட்\N_NN திரைப்படமான\N_NN `\RD_PUNC ராஸ்\N_NN 3யில்\QT_QTO `\RD_PUNC நடிக்கும்\JJ நட்சத்திரங்களான\N_NN எம்ரான்\N_NNP ஹஷ்மி\N_NNP ,\RD_PUNC பிபாஷா\N_NNP பாசு\N_NNP ,\RD_PUNC இஷா\N_NNP குப்தா\N_NNP ஆகியோர்\N_NN ரிலையன்ஸ்\N_NN டிஜிட்டல்\N_NN ஸ்டோர்\N_NN ஜெய்ப்பூரில்\N_NNP உள்ள\JJ மனுபாசனா\N_NNP பேரங்காடிக்கு\N_NN வருகை\N_NN தந்தனர்\V_VM_VF .\RD_PUNC
+TMED874	படத்தின்\N_NN விளம்பரத்திற்காக\RB இவர்கள்\PR_PRP வருகை\N_NN தந்துள்ளனர்\V_VAUX .\RD_PUNC
+TMED875	ராஸ்\N_NN 3\QT_QTC என்ற\CC_CCS_UT ஹிந்தி\N_NN திரைப்படத்திற்கான\N_NN விளம்பரம்\N_NN தொடர்பாக\RB அகமதாபாத்தில்\N_NNP உள்ள\JJ ரிலையன்ஸ்\N_NN டிஜிட்டல்\N_NN ஸ்டோரின்\N_NN கிளையான\JJ பஞ்ச்வதி\N_NNP ஸ்டோரில்\N_NN அப்படத்தின்\N_NN நட்சத்திரங்கள்\N_NN நேற்று\N_NST (\RD_SYM 29\QT_QTC ஆகஸ்ட்\N_NN )\RD_SYM வருகை\N_NN தந்தனர்\V_VM_VF .\RD_PUNC
+TMED876	செப்டம்பர்\N_NN 21\QT_QTC கரீனா\N_NNP கபூர்\N_NNP நடித்திருக்கும்\V_VM_VNF மதுர்\N_NNP பண்டார்காவின்\N_NNP ஹீரோயின்\RD_RDF வெளியாகிறது\V_VM_VF .\RD_PUNC
+TMED877	இந்நிலையில்\N_NN டெல்லி\N_NNP உயர்நீதிமன்றத்தில்\N_NN வழக்கு\N_NN ஒன்றை\QT_QTO படத்தின்\N_NN தயாரிப்பாளர்கள்\N_NN தொடுத்துள்ளனர்\V_VAUX .\RD_PUNC
+TMED878	ஐந்து\QT_QTC நாட்களில்\N_NN 100\QT_QTC கோடியை\N_NN கடந்த\JJ சல்மான்கானின்\N_NNP ஏக்\N_NN த\N_NN டைகர்\N_NN 12\QT_QTC தினங்களில்\N_NN 210\QT_QTC கோடியை\N_NN கடந்து\V_VM_VNF சாதனைப்\N_NN படைத்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED879	சமீபத்தில்\N_NN மறைந்த\JJ கேமராமேன்\RD_RDF அசோக்\N_NNP மேத்தாவுக்கு\N_NNP மரியாதை\N_NN செலுத்தும்\V_VM_VNF விதமாக\RB ஒரு\JJ நாளை\N_NN செலவிட\V_VM_VINF தீர்மானித்துள்ளார்\V_VM_VNF பிரபல\JJ இயக்குனர்\N_NN சுபாஷ்\N_NNP கைய்\N_NNP .\RD_PUNC
+TMED88	அப்போது\N_NST ,\RD_PUNC மரத்து\N_NN மேல\PSP வந்து\V_VM_VNF உட்கார்ந்த\V_VM_VNF ஒரு\JJ காகம்\N_NN ,\RD_PUNC `\RD_PUNC கா\RP_INJ ...\RD_PUNC கா\RP_INJ ’\N_NN எனக்\CC_CCS_UT கத்திச்சு\V_VM_VF .\RD_PUNC பாட்டிக்குக்\N_NN கோபம்\N_NN !\RD_PUNC
+TMED880	ஹீரோயின்\RD_RDF படத்தில்\N_NN கரீனா\N_NNP கபூரின்\N_NNP கவர்ச்சி\N_NN ஸ்டில்களும்\RD_RDF ,\RD_PUNC புகைப்படிக்கும்\N_NN காட்சியும்\N_NN ஏற்கனவே\RB சர்ச்சையை\N_NN கிளப்பியுள்ள\JJ நிலையில்\N_NN மேலும்\CC_CCD ஒரு\JJ சர்ச்சை\N_NN உருவெடுத்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED881	அமெரிக்காவில்\N_NNP அமீர்கான்\N_NNP கேட்டாக\RB ,\RD_PUNC லடாக்கில்\N_NN ஷாருகான்\N_NNP கேட்டாக\RB என்று\CC_CCS_UT இன்றைய\JJ தேதியில்\N_NN கத்ரினா\N_NNP கைப்பால்\N_NN மட்டுமே\PSP சொல்ல\V_VM_VINF முடியும்\V_VAUX .\RD_PUNC
+TMED882	உண்மையாகவே\RB இரண்டு\QT_QTC பேரும்\N_NN கத்ரினாவுக்காக\N_NNP காத்திருக்கிறார்கள்\V_VAUX .\RD_PUNC ஆனால்\CC_CCS அவரோ\PR_PRP சண்டைப்\N_NN பயிற்சியில்\N_NN தீவிரமாக\RB இருக்கிறார்\V_VM .\RD_PUNC
+TMED883	இந்த\DM_DMD இடத்தில்\N_NN டபுள்\RD_RDF டமாக்கா\RD_RDF என்பதை\CC_CCS_UT டபுள்\RD_RDF சந்தோஷம்\N_NN என்று\CC_CCS_UT பொருள்\N_NN கொள்ள\V_VM_VINF வேண்டும்\V_VAUX .\RD_PUNC
+TMED884	எம்ரான்\N_NNP ஹஸ்மியின்\N_NNP இரட்டை\QT_QTO சந்தோஷம்\N_NN எது\PR_PRP ?\RD_PUNC
+TMED885	ராஜ்குமார்\N_NNP ஹிரானி\N_NNP அமீர்கான்\N_NNP நடிக்கும்\JJ புதிய\JJ படத்தை\N_NN இயக்குகிறார்\V_VM_VF .\RD_PUNC
+TMED886	இந்தப்\DM_DMD படத்தில்\N_NN இம்ரான்\N_NNP கானும்\N_NNP நடிக்கிறார்\V_VM_VNF என்று\CC_CCS_UT ஒரு\JJ சாரார்\N_NN கூறி\V_VM_VNF வருகின்றனர்\V_VM_VF .\RD_PUNC
+TMED887	ஹிரானி\N_NNP இம்ரான்\N_NNP கானை\N_NNP சந்தித்து\V_VM_VNF பேசியதாகவும்\RB செய்தி\N_NN வெளியானது\V_VM_VF சில\QT_QTF ஊடகங்களில்\N_NN .\RD_PUNC இதனை\PR_PRP ஹிரானியும்\N_NNP ,\RD_PUNC இம்ரான்\N_NNP தரப்பும்\N_NN மறுத்துள்ளது\V_VAUX .\RD_PUNC
+TMED888	சல்மான்கானின்\N_NNP ஏக்\N_NN தா\N_NN டைகர்\N_NN ஐந்து\QT_QTC தினங்களில்\N_NN 100\QT_QTC கோடியைத்\N_NN தாண்டி\V_VM_VNF வசூல்\N_NN செய்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED889	இருநூறு\QT_QTC கோடியை\N_NN அனாயாசமாகத்\RB தாண்டும்\V_VM_VNF என்கிறார்கள்\V_VM_VF நிபுணர்கள்\N_NN .\RD_PUNC
+TMED89	`\RD_PUNC `\RD_PUNC ஏய்\RP_INJ ...\RD_PUNC திருட்டுப்\N_NN பயலே\N_NN !\RD_PUNC வடையைச்\N_NN சுடறதுக்கு\N_NN முன்னாடியே\N_NST வந்துட்டியா\V_VM_VF ?\RD_PUNC என்\PR_PRP அக்கா\N_NN மாதிரி\N_NN நான்\PR_PRP ஏமாறமாட்டேன்\V_VM_VF .\RD_PUNC
+TMED890	சரி\N_NN ,\RD_PUNC அமீர்கானின்\N_NNP 3\QT_QTC இடியட்ஸ்\RD_RDF கலெக்ஷனை\RD_RDF மிஞ்சுமா\V_VM_VF ?\RD_PUNC அதற்கான\JJ வாய்ப்பு\N_NN இல்லை\V_VM_VNF என்பதே\CC_CCS_UT நமது\PR_PRP கணிப்பு\N_NN .\RD_PUNC
+TMED891	ஒரு\JJ நடிகரின்\N_NN உச்சபட்ச\JJ வெற்றி\N_NN எதுவாக\RB இருக்கும்\V_VM ?\RD_PUNC எப்படி\PR_PRQ கற்பனை\N_NN செய்தாலும்\V_VM_VNF சல்மான்கானின்\N_NNP வெற்றிக்கு\N_NN அருகில்\N_NN வருமா\V_VM_VNF என்பது\CC_CCS_UT சந்தேகம்\N_NN
+TMED892	பாலிவுட்டின்\RD_RDF மூன்று\QT_QTC கான்களில்\N_NNP -\RD_PUNC அமீர்கான்\N_NNP ,\RD_PUNC ஷாருக்கான்\N_NNP ,\RD_PUNC சல்மான்கான்\N_NNP -\RD_PUNC யார்\PR_PRQ பெரியவர்\N_NNV என்ற\CC_CCS_UT கேள்வி\N_NN வந்த\V_VM_VNF போது\RD_RDF தொடர்\N_NN ஹிட்களால்\RD_RDF அந்தக்\DM_DMD கேள்வியையே\N_NN அபத்தமாக்கினார்\V_VM_VF சல்மான்கான்\N_NNP .\RD_PUNC
+TMED893	ராஸ்\N_NN 3யில்\QT_QTO பிளாக்\RD_RDF மேஜிக்\RD_RDF செய்பவராக\RB பிபசா\N_NNP பாசு\N_NNP நடித்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED894	படத்தின்\N_NN போஸ்டரில்\RD_RDF ஏறக்குறைய\JJ நிர்வாணமாக\RB போஸ்\RD_RDF தருகிறார்\V_VM_VF .\RD_PUNC
+TMED895	பிரகாஷ்\N_NNP ஜாவின்\N_NNP பொலிடிகல்\N_NN த்ரில்லர்\N_NN உள்நாடு\N_NN ,\RD_PUNC வெளிநாடு\N_NN இரண்டிலும்\QT_QTO சக்கைப்போடு\N_NN போட்டது\V_VM_VF .\RD_PUNC
+TMED896	அரசியல்\N_NN பெரிய\JJ குடும்பத்தில்\N_NN வாழ்க்கைப்படும்\JJ கத்ரினா\N_NNP கணவர்\N_NN கொல்லப்பட்ட\JJ பின்\N_NST பதவிக்கு\N_NN வருவதுடன்\V_VM_VNG ராஜ்நீதி\N_NN முடிவடையும்\V_VM_VF .\RD_PUNC
+TMED897	அப்போது\N_NST அவர்\PR_PRP கர்ப்பமாக\RB இருப்பார்\V_VM .\RD_PUNC அதனை\PR_PRP லீடாக\RB வைத்து\V_VM_VNF பிரகாஷ்\N_NNP ஜா\N_NNP இரண்டாம்\QT_QTO பாகத்தை\N_NN எழுதியிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED898	படத்தை\N_NN எடுக்க\V_VM_VINF தெரிந்தால்\V_VM_VNF மட்டும்\PSP போதாது\V_VM_VF .\RD_PUNC இன்றைய\JJ தேதியில்\N_NN அதனை\PR_PRP விற்கத்\V_VM_VINF தெரிந்தவரே\V_VM_VNF மேதை\N_NN .\RD_PUNC அமீர்கான்\N_NNP அதில்\PR_PRP மாமேதை\N_NN
+TMED899	ஒவ்வொரு\JJ படத்தையும்\N_NN அவர்\PR_PRP ரசிகர்களிடம்\N_NN கொண்டு\PSP சேர்க்கும்\V_VM_VNF விதம்\N_NN பிரமிப்பானது\V_VM_VF .\RD_PUNC இதற்காக\RB பல\QT_QTF மாதங்களை\N_NN அவர்\PR_PRP எடுத்துக்\V_VM_VNF கொள்வதுண்டு\V_VAUX .\RD_PUNC
+TMED9	``\RD_PUNC ``\RD_PUNC ஓர்\JJ உயிரைக்\N_NN காப்பது\V_VM_VNG பெரிய\JJ தர்மம்\N_NN என்பதை\CC_CCS_UT நான்\PR_PRP அறிவேன்\V_VM_VF .\RD_PUNC ஆனால்\CC_CCS ,\RD_PUNC உன்னைக்\PR_PRP காப்பாற்றிய\JJ பிறகு\PSP நான்\PR_PRP உயிருடன்\N_NN இருப்பேன்\V_VM_VNF என்று\CC_CCS_UT என்ன\PR_PRQ நிச்சயம்\N_NN ?\RD_PUNC `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT புலவர்\N_NN கேட்டார்\V_VM_VF .\RD_PUNC
+TMED90	தெரிஞ்சுக்க\V_VM_VINF `\RD_PUNC `\RD_PUNC என்றார்\V_VM_VF பாட்டி\N_NN .\RD_PUNC
+TMED900	சர்ச்சையின்\N_NN மொத்த\JJ உருவமாக\RB மாறியிருக்கிறார்\V_VAUX சன்னி\N_NNP லியோன்\N_NNP .\RD_PUNC
+TMED901	பப்பி\N_NN ஷேம்\N_NN படத்தில்\N_NN நடித்தவர்\V_VM_VNF என்று\CC_CCS_UT இவரை\PR_PRP கலாச்சார\N_NN காவலர்கள்\N_NN தூற்றுகிறார்கள்\V_VM_VF .\RD_PUNC
+TMED902	இளைஞர்கள்\N_NN இணையத்தில்\N_NN இவரின்\PR_PRP மேற்படி\N_NN படங்களை\N_NN தேடி\V_VM_VNF சலிக்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED903	பிரசவத்திற்கு\N_NN பிறகு\PSP முதல்\QT_QTC முறையாக\RB ஐஸ்வர்யா\N_NNP ராய்\N_NNP பச்சன்\N_NNP நடித்துள்ள\JJ விளம்பர\JJ படம்\N_NN வெளியாகியுள்ளது\V_VAUX .\RD_PUNC
+TMED904	பழைய\JJ இந்திப்\N_NN படங்களை\N_NN ரீமேக்\RD_RDF செய்யும்\V_VM_VNF ஒரு\JJ கோஷ்டி\N_NN எப்போதும்\N_NST இருந்து\PSP கொண்டே\V_VM_VNF இருக்கிறது\V_VAUX
+TMED905	இயக்குனர்\N_NN அபூர்வா\N_NNP லாக்கியாவும்\N_NNP அமிதாப்பச்சன்\N_NNP நடிப்பில்\N_NN 1973ல்\QT_QTO வெளிவந்த\JJ Zanjeer\N_NN படத்தை\N_NN ரீமேக்\RD_RDF செய்து\V_VM_VNF வருகிறார்\V_VM_VF .\RD_PUNC
+TMED906	சல்மான்கானுக்கும்\N_NNP சக\JJ நடிகர்கள்\N_NN பலருக்கும்\QT_QTF ஒரு\JJ போதும்\V_VM_VF ஒத்துப்\V_VM_VNF போவதில்லை\V_VAUX .\RD_PUNC
+TMED907	இந்த\DM_DMD அலர்ஜி\N_NN லிஸ்டில்\RD_RDF முதலிடத்தை\N_NN பல\QT_QTF வருடங்களாக\RB தக்க\V_VM_VINF வைத்துக்\V_VM_VNF கொண்டிருப்பவர்\V_VM_VNF ஷாருக்கான்\N_NNP .\RD_PUNC
+TMED908	ஜிஸம்\N_NN 2\QT_QTC படத்தை\N_NN பிரபல\JJ ப்ளூ\N_NNP ஃபிலிம்\N_NNP நடிகை\N_NN சன்னி\N_NNV லியோனின்\N_NNP கவர்ச்சியை\N_NN நம்பியே\V_VM_VNF எடுத்தார்\V_VM_VF பூஜா\N_NN பட்.\N_NN படம்\N_NN முடிந்துவிட்டது\V_VAUX சன்னியின்\N_NNP தேவையும்\N_NN ஓவர்\RD_RDF
+TMED909	சன்னி\N_NNP லியோனிடம்\N_NNP இனி\N_NN காட்ட\N_NN எதுவுமில்லை\V_VM ,\RD_PUNC அதனால்\CC_CCS ஜிஸம்\N_NN 3-ல்\QT_QTO அவரை\PR_PRP எதிர்பார்க்க\V_VM_VINF வேண்டாம்\V_VM_VNF என்று\CC_CCS_UT திட்டவட்டமாக\RB சொல்லிவிட்டார்\V_VAUX பூஜா\N_NN பட்\N_NN .\RD_PUNC
+TMED91	அதற்குக்\PR_PRP காகம்\N_NN ,\RD_PUNC `\RD_PUNC `\RD_PUNC பாட்டி\N_NN ...\RD_PUNC நிப்பாட்டு\V_VM_VF !\RD_PUNC நான்\PR_PRP திருட\V_VM_VINF வரலை\V_VM_VF .\RD_PUNC ஹெல்ப்\RD_RDF பண்ண\V_VM_VINF வந்திருக்கேன்\V_VAUX .\RD_PUNC
+TMED910	தீபிகா\N_NNP படுகோன்\N_NNP காக்டெயில்\N_NN படத்தில்\N_NN ஆரஞ்ச்\N_NN பிகினியில்\RD_RDF தோன்றும்\JJ காட்சியைப்\N_NN பற்றி\PSP தான்\RP_RPD இப்போது\N_NST பாலிவுட்டில்\RD_RDF அதிகம்\QT_QTF பேசிக்\V_VM_VNF கொள்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED911	ரசிகர்கள்\N_NN ஹிட்டாகவும்\RD_RDF ,\RD_PUNC சக\JJ நடிகைகள்\N_NN தீபிகாவின்\N_NNP ஃபிட்னெஸ்\RD_RDF குறித்து\V_VM_VNF சீகரெட்டாகவும்\RB பேசும்\N_NN விஷயங்களை\N_NN ஓபனாக\RD_RDF அடித்திருக்கிறார்\V_VAUX தீபிகா\N_NNP .\RD_PUNC
+TMED912	இந்த\DM_DMD வருடத்தின்\N_NN எதிர்பார்ப்புக்குரிய\JJ படங்களில்\N_NN சன்\N_NN ஆஃப்\N_NN சர்தாரும்\N_NN ஒன்று\QT_QTC
+TMED913	சீக்கிய\JJ மொழிப்\N_NN படங்கள்\N_NN வெளிநாட்டு\N_NN பாக்ஸ்\N_NN ஆஃபிஸில்\N_NN இந்திப்\N_NN படங்களுக்கு\N_NN இணையாக\RB கலெக்சன்\RD_RDF பெறுவதால்\V_VM_VNF சர்தார்ஜிக்களை\N_NN கவர\JJ பாலிவுட்\RD_RDF பிரயத்தனம்\N_NN மேற்கொண்டுள்ளது\V_VM .\RD_PUNC
+TMED914	பிரபல\JJ மாடல்\N_NN பூஜா\N_NN சல்வியை\N_NN தனது\PR_PRP புதிய\JJ படத்தில்\N_NN ரோஹன்\N_NNP சிப்பி\N_NNP அறிமுகப்படுத்துகிறார்\V_VM_VF
+TMED915	சல்வி\N_NNP ரோஹனின்\N_NNP விளம்பரப்\N_NN படங்களில்\N_NN நடித்தவர்\V_VM_VF .\RD_PUNC
+TMED916	ஷெர்லின்\N_NNP சோப்ரா\N_NNP இந்திய\JJ திருநாட்டிற்கும்\N_NN அதில்\PR_PRP வசிக்கும்\JJ நூறு\QT_QTC கோடிக்கும்\N_NN அதிமான\JJ மக்களுக்கும்\N_NN லாஸ்\N_NN ஏஞ்சல்ஸ்\N_NN சென்று\V_VM_VNF மிகப்\RP_INTF பெரிய\JJ தியாகம்\N_NN செய்துவிட்டு\V_VM_VNF வந்துள்ளார்\V_VAUX .\RD_PUNC
+TMED917	இந்தத்\DM_DMD தியாகத்துக்காக\RB பாரத\N_NN ரத்னா\N_NN விருது\N_NN தர\V_VM_VINF வேண்டும்\V_VM_VNF என்று\CC_CCS_UT ஷெர்லின்\N_NNP டிமாண்ட்\N_NNP வைத்துள்ளார்\V_VAUX .\RD_PUNC
+TMED918	மதூர்\N_NN பண்டார்கரின்\N_NN ஹீரோயின்\RD_RDF படத்தில்\N_NN சில\QT_QTF துணிச்சலான\JJ காட்சிகளில்\N_NN கரினா\N_NNP கபூர்\N_NNP நடித்திருக்கிறார்\V_VAUX
+TMED919	அதில்\PR_PRP ஒன்று\QT_QTC புகைப்பிடிக்கும்\JJ காட்சி\N_NN .\RD_PUNC இந்தப்\DM_DMD படத்தில்\N_NN கரீனாவுக்கு\N_NNP முன்பாக\RB ஐஸ்வர்யாராய்\N_NNP ஒப்பந்தம்\N_NN செய்யப்பட்டதும்\V_VM_VNF ,\RD_PUNC அவர்\PR_PRP கர்ப்பமாக\RB இருந்ததால்\V_VM_VNF நீக்கப்பட்டு\V_VM_VNF கரீனா\N_NNP உள்ளே\N_NST வந்ததும்\V_VM_VNF நினைவிருக்கலாம்\V_VM .\RD_PUNC
+TMED92	உன்னைப்\PR_PRP பார்த்தா\V_VM_VNF எனக்குப்\PR_PRP பாவமா\N_NN இருக்கு\V_VM .\RD_PUNC இந்த\DM_DMD மரத்துல\JJ காய்ஞ்சு\V_VM_VNF போயிருக்கிற\V_VM_VNF சுள்ளிக்\N_NN குச்சிகளை\N_NN ஒடிச்சுப்\V_VM_VNF போடறேன்\V_VM_VF
+TMED920	ஏஜென்ட்\RD_RDF வினோத்\N_NNP தந்த\JJ ஏமாற்றத்தை\N_NN காக்டெயில்\N_NN தீர்த்து\V_VM_VNF வைத்திருக்கிறது\V_VAUX எனலாம்\V_VM_VF
+TMED921	சைஃப்\N_NNP அலிகான்\N_NNP தீபிகா\N_NNP படுகோன்\N_NNP நடித்திருக்கும்\V_VM_VNF இந்தப்\DM_DMD படம்\N_NN முதல்\QT_QTC வாரத்தில்\N_NN 54\QT_QTC கோடிகளை\N_NN தாண்டி\V_VM_VNF வசூல்\N_NN செய்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED922	வெளிநாடுகளில்\N_NN கனத்த\JJ அறுவடை\N_NN .\RD_PUNC
+TMED923	ரிலையன்ஸ்\N_NN டிஜிட்டல்\N_NN ஸ்டோர்ஸிற்கு\N_NN வருகை\N_NN தந்த\JJ பாலிவுட்\RD_RDF பிரமுகர்கள்\N_NN வருமாறு\V_VM_VNF :\RD_PUNC தீபிகா\N_NNP படுகோன்\N_NNP ,\RD_RDF டயானா\N_NNP பெண்ட்டி\N_NN ,\RD_RDF தினேஷ்\N_NNP விஜயன்,\N_NNP மற்றும்\CC_CCD காக்டெய்ல்\N_NN இயக்குனர்\N_NN ஹோமி\N_NNP அடஜானியா\N_NNP
+TMED924	ரிலையன்ஸ்\N_NN டிஜிட்டல்\N_NN ஸ்டோரில்\RD_RDF தீபிகா\N_NNP
+TMED925	சல்மான்கானின்\N_NNP ஏக்\N_NN த\N_NN டைகர்\N_NN விரைவில்\RB வெளியாகிறது\V_VM .\RD_PUNC
+TMED926	சல்மான்கான்\N_NNP எந்தப்\DM_DMQ படம்\N_NN நடித்தாலும்\V_VM_VNF 100\QT_QTC கோடி\N_NN கலெக்ட்\RD_RDF செய்து\V_VM_VNF கொடுப்பது\V_VM_VNG என்று\CC_CCS_UT இந்திப்பட\JJ ரசிகர்கள்\N_NN சபதம்\N_NN செய்திருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED927	இதில்\PR_PRP முன்னாள்\N_NST காதலி\N_NN கத்ரினாவுடன்\N_NNP ஜோடி\N_NN சேர்ந்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED928	சட்டையை\N_NN கழட்டுறார்\V_VM_VF ,\RD_PUNC பாடியை\N_NN காட்றார்\V_VM_VNF என்று\CC_CCS_UT என்ன\PR_PRQ வேண்டுமானாலும்\V_VM_VNF சொல்லட்டும்\V_VM_VF இந்தியைப்\N_NN பொறுத்த\V_VM_VNF வரை\PSP மாஸ்\N_NN ஹீரோ\RD_RDF சல்மான்கான்\N_NNP தான்\RP_RPD
+TMED929	அடுத்தடுத்தப்\N_NN படத்தை\N_NN அசராமல்\V_VM_VNF சிக்ஸருக்கு\RD_RDF தூக்கும்\V_VM_VNF இவரின்\PR_PRP புதிய\JJ படம்\N_NN ஏக்\N_NN தா\N_NN டைகர்\N_NN .\RD_PUNC
+TMED93	அதை\PR_PRP அடுப்பிலே\N_NN வைச்சுப்பாரு\V_VM_VF !\RD_PUNC `\RD_PUNC `\RD_PUNC என்றது\V_VM_VF .\RD_PUNC காகம்\N_NN சொன்ன\JJ மாதிரி\N_NN செய்தாங்க\V_VM_VF .\RD_PUNC அடுப்பு\N_NN எரிஞ்சது\V_VM_VF .\RD_PUNC பாட்டிக்கு\N_NN சந்தோஷம்\V_VM_VF !\RD_PUNC
+TMED930	காஸ்ட்லி\RD_RDF கார்\RD_RDF வைத்திருப்பது\V_VM_VNG மாதிரி\N_NN 100\QT_QTC கோடி\N_NN வசூல்\N_NN லிஸ்டில்\RD_RDF இடம்\N_NN பிடிப்பதும்\V_VM_VNG ஹீரோக்களுக்கு\RD_RDF புது\JJ கௌரவமாகியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED931	அதாவது\CC_CCS 100\QT_QTC கோடிக்கு\N_NN மேல்\N_NST உங்கள்\PR_PRP படம்\N_NN வசூலித்தால்\V_VM_VNF அது\PR_PRP ஒரு\JJ கெத்\RD_RDF .\RD_PUNC இப்போதைக்கு\N_NN பாலிவுட்டின்\RD_RDF 6\QT_QTC ஹீரோக்களுக்கு\RD_RDF தான்\RP_RPD அந்த\DM_DMD கௌரவம்\N_NN உள்ளது\V_VM .\RD_PUNC
+TMED932	மூன்றாவது\QT_QTO முறையாக\RB தூம்\N_NN 3\QT_QTC படத்தின்\N_NN படப்பிடிப்பு\N_NN அமீர்கானால்\N_NNP தள்ளிப்\V_VM_VNF போயிருக்கிறது\V_VAUX .\RD_PUNC
+TMED933	தல்லாஸ்\N_NN படத்தில்\N_NN பிஸியாக\RD_RDF இருந்ததால்\V_VM_VNF தூம்\N_NN 3-யின்\RD_RDF படப்பிடிப்பு\N_NN முதலில்\QT_QTO தள்ளிப்\V_VM_VNF போனது\V_VM_VF .\RD_PUNC அடுத்து\N_NN சத்யமேவ\N_NN ஜெயதே\N_NN .\RD_PUNC
+TMED934	இரண்டுமே\QT_QTO ஏற்றுக்கொள்ளக்\V_VM_VNF கூடிய\JJ விஷயங்கள்\N_NN .\RD_PUNC இந்த\N_NN முறை\N_NN அமீர்கானின்\N_NNP முடி\N_NN இந்த\DM_DMD 200\QT_QTC கோடி\N_NN பட்ஜெட்\RD_RDF படத்தை\N_NN முடக்கியிருக்கிறது\V_VAUX .\RD_PUNC
+TMED935	உலகில்\N_NN வேறு\JJ பெண்களே\N_NN இல்லை\V_VM ?\RD_PUNC செக்சியான\RD_RDF பெண்\N_NN ,\RD_PUNC செக்ஸியான\RD_RDF உதடு\N_NN என்று\CC_CCS_UT எப்போது\PR_PRQ வாக்கெடுப்பு\N_NN நடத்தினாலும்\JJ ஒரே\JJ ஒருவரே\QT_QTO அடுத்தடுத்து\N_NN ஜெயிக்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED936	செக்ஸியான\RD_RDF உதடுக்கு\N_NN எப்போது\PR_PRQ பார்த்தாலும்\V_VM_VNF ஏஞ்சலினா\N_NN ஜோலிதான்\N_NN .\RD_PUNC அதை\PR_PRP விட்டால்\V_VM_VNF கத்ரினா\N_NNP .\RD_PUNC
+TMED937	ஆர்ப்பாட்டமாக\RB வெளிவந்த\JJ ரவுடி\N_NN ரத்தோரையே\N_NN ஓரம்\N_NN கட்டியிருக்கிறது\V_VAUX தேரே\N_NN மேரே\N_NN கஹானி\N_NN .\RD_PUNC நாம்\PR_PRP சொல்வது\V_VM_VNG வெளிநாடுகளில்\N_NN .\RD_PUNC
+TMED938	பெரிய\JJ படம்\N_NN ஒன்று\QT_QTC வெளியாகும்\V_VM_VNF போது\PSP அத்துடன்\PR_PRP வெளியாகவிருக்கும்\V_VM_VNF படத்தின்\N_NN ட்ரெய்லரை\RD_RDF இணைத்து\V_VM_VNF வெளியிடுவது\V_VM_VNG பாலிவுட்டில்\RD_RDF வழக்கம்\N_NN
+TMED939	சில\QT_QTF நேரங்களில்\N_NN இரண்டு\QT_QTC படங்களின்\N_NN ட்ரெய்லர்\RD_RDF கூட\PSP வெளியிடப்படும்\V_VM_VF .\RD_PUNC
+TMED94	`\RD_PUNC `\RD_PUNC ஆஹா\RP_INJ !\RD_PUNC திருட்டுத்தனத்தை\N_NN விட்டுட்டு\V_VM_VNF உழைச்சுப்\V_VM_VNF பிழைக்க\V_VM_VINF உனக்கு\PR_PRP ஆசை\N_NN வந்திருக்கு\V_VAUX
+TMED940	வான்டட்\N_NN படத்தில்\N_NN நடித்த\V_VM_VNF போதே\PSP பாலிவுட்டின்\RD_RDF ஒட்டு\N_NN மொத்தப்\N_NN பாராட்டைப்\N_NN பெற்றார்\V_VM_VF பிரகாஷ்ராஜ்\N_NNP .\RD_PUNC
+TMED941	உடனே\PR_PRP தனது\PR_PRP தபர்ட\N_NN 2வில்\QT_QTO நடிக்க\V_VM_VINF பிரகாஷ்ராஜ்\N_NNP ஒப்பந்தம்\N_NN செய்தார்\V_VM_VF சல்மான்கான்\N_NNP .\RD_PUNC இவர்\PR_PRP தான்\RP_RPD தபாங்\N_NN 2வில்\QT_QTO மெயின்\RD_RDF வில்லன்\N_NN .\RD_PUNC
+TMED942	ப்ளூ\RD_RDF ஃபிலிமில்\RD_RDF நடித்து\V_VM_VNF வந்த\V_VM_VNF சன்னி\N_NNP லியோனை\N_NNP ஜிஸம்\N_NN 2\QT_QTC படத்துக்காக\RB பாலிவுட்டுக்கு\RD_RDF அழைத்து\V_VM_VNF வந்தனர்\V_VM_VF .\RD_PUNC
+TMED943	இவர்\PR_PRP ஏதோ\RP_RPD தென்னாப்பிரிக்காவுக்கு\N_NNP சுதந்திரம்\N_NN வாங்கித்\V_VM_VNF தந்தவர்\V_VM_VNF போல்\PSP இந்தி\N_NN ஊடகங்களால்\N_NN கொண்டாடப்பட்டார்\V_VM_VF .\RD_PUNC
+TMED944	அவர்\PR_PRP செல்லும்\JJ இடம்\N_NN எல்லாம்\N_NN பாடிகாட்\RD_RDF போல்\PSP இந்தி\N_NN நடிகர்கள்\N_NN சென்றனர்\V_VM_VF .\RD_PUNC
+TMED945	ஃபரா\N_NNP கான்\N_NNP ,\RD_PUNC ஷாருக்கான்\N_NNP இணைந்து\V_VM_VNF உருவாக்கிய\JJ இரு\QT_QTC படங்களும்\N_NN சூப்பர்ஹிட்\RD_RDF .\RD_PUNC
+TMED946	அதன்\PR_PRP பிறகு\PSP இருவருக்கும்\QT_QTO ஏற்பட்ட\JJ லடாய்\N_NN காரணமாக\RB ஷாருக்கை\N_NNP தவிர்த்து\V_VM_VNF வேறு\JJ ஹீரோக்களை\RD_RDF நாடினார்\V_VM_VF ஃபரா\N_NNP கான்\N_NNP .\RD_PUNC
+TMED947	இருவரும்\QT_QTO இனி\N_NN இணைய\JJ மாட்டார்கள்\V_VM_VNF என்று\CC_CCS_UT நம்பிக்\V_VM_VNF கொண்டிருந்த\V_VM_VNF வேளையில்\N_NN இதோ\PR_PRP மீண்டும்\RB ஒன்றாக\RB படம்\N_NN எடுக்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED948	பிரபுதேவா\N_NNP இயக்கத்தில்\N_NN அக்சய்\N_NNP குமார்\N_NNP நடித்த\JJ ரவுடி\N_NN ரத்தோர்\N_NN உலக\JJ ஓட்டம்\N_NN ஓடுகிறது\V_VM_VF .\RD_PUNC
+TMED949	அடுத்து\N_NN சல்மான்கான்\N_NNP நடிக்கும்\JJ படத்தை\N_NN பிரபுதேவா\N_NNP இயக்குகிறார்\V_VM_VF
+TMED95	வெரிகுட்\RD_RDF !\RD_PUNC நான்\PR_PRP எப்பவும்\PR_PRQ முதல்\QT_QTC வடையைப்\N_NN பிள்ளையாருக்கு\N_NN வைப்பேன்\V_VM_VF .\RD_PUNC
+TMED950	சல்மான்கான்\N_NNP தற்போது\N_NST பிஸியாக\RD_RDF இருப்பதால்\V_VM_VNF இடைப்பட்ட\JJ நேரத்தில்\N_NN வேறொரு\JJ படத்தை\N_NN இயக்க\V_VM_VINF பிரபுதேவா\N_NNP முடிவு\N_NN செய்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED951	சமீபத்தில்\N_NN வந்த\JJ பொலிடிகல்\RD_RDF த்ரில்லரில்\N_NN ஷாங்காய்\N_NNP படத்துக்கு\N_NN முக்கிய\JJ இடம்\N_NN கிடைத்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED952	டீசன்டான\RD_RDF ஹானஸ்ட்\RD_RDF த்ரில்லர்\N_NN என்று\CC_CCS_UT விமர்சகர்கள்\N_NN இதனை\PR_PRP புகழ்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED953	இதனை\PR_PRP இயக்கியவர்\N_NNV டிபங்கர்\N_NNP பானர்ஜி\N_NNP .\RD_PUNC
+TMED954	நிறைய\JJ செக்ஸ்\RD_RDF ,\RD_PUNC கொஞ்சம்\QT_QTF த்ரில்\QT_QTF ...\RD_PUNC இது\PR_PRP தான்\RP_RPD மகேஷ்\N_NNP பட்\N_NNP படங்களின்\N_NN ஃபார்முலா\RD_RDF .\RD_PUNC முக்கால்வாசிப்\N_NN படங்கள்\N_NN ஹாலிவுட்டின்\RD_RDF அப்பட்ட\JJ காபியாக\RB இருக்கும்\V_VM .\RD_PUNC
+TMED955	தாய்லாந்து\N_NNP ,\RD_PUNC கொரியா\N_NNP என்று\CC_CCS_UT காபியின்\N_NN திசைகள்\N_NN சமீபமாக\RB விரிவடைந்துள்ளன\V_VAUX .\RD_PUNC
+TMED956	தனு\N_NN வெட்ஸ்\N_NN மனு\N_NN படத்தின்\N_NN இயக்குனர்\N_NN ஆனந்த்\N_NNP எல்\N_NNP ராய்\N_NNP தனது\PR_PRP அடுத்தப்\N_NN படமான\JJ ரான்ஜனாவுக்கு\N_NN தனுஷையும்\N_NNP ,\RD_PUNC சோனம்\N_NNP கபூரையும்\N_NNP ஒப்பந்தம்\N_NN செய்திருக்கிறார்\V_VAUX .\RD_PUNC
+TMED957	இது\PR_PRP ஒரு\JJ ரொமான்டிக்\RD_RDF படம்\N_NN .\RD_PUNC இது\PR_PRP பற்றி\PSP மேலும்\CC_CCD சில\QT_QTF சுவாரஸியமான\JJ தகவல்கள்\N_NN தெரிய\V_VM_VINF வந்திருக்கிறது\V_VAUX .\RD_PUNC
+TMED958	ஐபில்\RD_RDF கிரிக்கெட்\RD_RDF போட்டி\N_NN மும்பை\N_NNP வான்கடே\N_NN ஸ்டேடியத்தில்\RD_RDF நடந்த\V_VM_VNF போது\PSP அடையாள\JJ அட்டை\N_NN இல்லாமல்\V_VM_VNF மைதானத்தில்\N_NN நுழைந்த\JJ ஷாருக்கானை\N_NNP ஊழியர்கள்\N_NN தடுத்தனர்\V_VM_VF
+TMED959	தனது\PR_PRP தவறை\N_NN உணராத\JJ ஷாருக்\N_NNP அவர்களுடன்\PR_PRP சண்டையிட்டார்\V_VM_VF .\RD_PUNC
+TMED96	இனிமே\N_NN உனக்கு\PR_PRP தான்\RP_RPD `\RD_PUNC `\RD_PUNC என்றபடி,\N_NN வடையைத்\N_NN தூக்கிப்போட்டார்\V_VM_VF .\RD_PUNC
+TMED960	2010ல்\QT_QTO கரண்\N_NNP ஜோஹர்\N_NNP தயாரிப்பில்\N_NN இம்ரான்\N_NNP கான்\N_NNP நடிப்பில்\N_NN புனித்\N_NN மல்ஹோத்ரா\N_NNP இயக்கிய\JJ ஐ\N_NN ஹேட்\N_NN லவ்\N_NN ஸ்டோரிப்\RD_RDF படம்\N_NN வெளியானது\V_VM_VF .\RD_PUNC
+TMED961	இரண்டு\QT_QTC வருட\JJ இடைவெளியில்\N_NN அடுத்த\JJ ஸ்கிரிப்டை\RD_RDF தயார்\N_NN செய்திருக்கிறார்\V_VAUX புனித்\N_NNP மல்ஹோத்ரா\N_NNP .\RD_PUNC
+TMED962	இந்த\DM_DMD முறையும்\N_NN அவரது\PR_PRF சாய்ஸ்\RD_RDF இம்ரான்\N_NNP கான்\N_NNP .\RD_PUNC
+TMED963	தமிழில்\N_NN முன்னணி\N_NN நடிகர்கள்\N_NN ஒரு\JJ நேரத்தில்\N_NN ஒரு\JJ படம்\N_NN தான்\RP_RPD நடிக்கிறார்கள்\V_VM_VF .\RD_PUNC
+TMED964	ரஜினி\N_NNP கோச்சடையான்\N_NN ,\RD_PUNC கமல்\N_NNP விஸ்வரூபம்\N_NN ,\RD_PUNC அஜீத்\N_NNP பில்லா\N_NN 2\QT_QTC ,\RD_PUNC சூர்யா\N_NNP மாற்றான்\N_NN ,\RD_PUNC விஜய்\N_NNP துப்பாக்கி\N_NN ,\RD_PUNC விக்ரம்\N_NNP தாண்டவம்\N_NN ...\RD_PUNC
+TMED965	நீலப்\JJ படத்தில்\N_NN நடிப்பவர்\N_NNV சன்னி\N_NNP லியோன்\N_NNP .\RD_PUNC அவரை\PR_PRP தனது\PR_PRP ஜப்ஸம்\N_NN 2\QT_QTC படத்தில்\N_NN நடிக்க\V_VM_VINF பாலிவுட்டுக்கு\RD_RDF அழைத்து\V_VM_VNF வந்திருக்கிறார்\V_VAUX மகேஷ்\N_NNP பட்\N_NNP .\RD_PUNC
+TMED966	கரண்\N_NNP மல்கோத்ராவின்\N_NNP அக்னிபாத்\N_NN மிகப்\RP_INTF பெரிய\JJ ஹிட்\RD_RDF
+TMED967	ஒரு\JJ பழைய\JJ படத்தை\N_NN எப்படி\PR_PRQ இன்றைய\JJ கால\JJ கட்டத்திற்கு\N_NN ஏற்ப\V_VM_VINF ரீமேக்\RD_RDF செய்வது\V_VM_VNG என்பதை\CC_CCS_UT கரணிடம்\N_NNP கற்றுக்கொள்ள\V_VM_VNF வேண்டும்\V_VM_VNF என\CC_CCS_UT விமர்சகர்கள்\N_NN எழுதினார்கள்\V_VM_VF .\RD_PUNC
+TMED968	அக்னிபாத்தைப்\N_NN பொறுத்த\V_VM_VNF வரை\PSP அதில்\PR_PRP நடித்த\JJ எல்லோருக்கும்\N_NN மகா\N_NN திருப்தி\N_NN .\RD_PUNC ஒருவரைத்\QT_QTO தவிர\PSP ,\RD_PUNC அவர்\PR_PRP ப்ரியங்கா\N_NNP சோப்ரா\N_NNP .\RD_PUNC
+TMED969	வயதானாலும்\JJ அமிதாப்புக்கு\N_NNP இருக்கிற\V_VM_VNF அட்ராக்சன்\RD_RDF நடிகை\N_NN ரேகாவுக்கும்\N_NNP இருக்கிறது\V_VM .\RD_PUNC
+TMED97	அதைக்\PR_PRP கவ்விக்\V_VM_VNF கொண்ட\JJ காகம்\N_NN ,\RD_PUNC `\RD_PUNC `\RD_PUNC உழைப்புக்கேற்ற\JJ ஊதியம்\N_NN கிடைச்சது\V_VM_VF .\RD_PUNC மனசும்\N_NN சந்தோஷத்துல\JJ நிறைஞ்சது\V_VM_VNF `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT பாடியது\V_VM_VF .\RD_PUNC
+TMED970	அழகை\N_NN மெயின்டெய்ன்\RD_RDF செய்வதில்\V_VM_VNF இளம்\N_NN நடிகைகளுக்கு\N_NN இப்போதும்\N_NN இவர்\PR_PRP தான்\RP_RPD ரோல்\RD_RDF மாடல்\RD_RDF .\RD_PUNC
+TMED971	இந்த\DM_DMD வருடம்\N_NN சிங்கப்பூரில்\N_NNP நடக்கும்\JJ ஐஃபா\N_NN விழாவில்\N_NN ரன்பீர்\N_NNP கபூர்\N_NNP ப்ரியங்கா\N_NNP சோப்ராவுடன்\N_NNP நடனமாடுகிறார்\V_VM_VF .\RD_PUNC
+TMED972	இதற்கு\PR_PRP காரணமாக\RB அவர்\PR_PRP சுட்டிக்\V_VM_VNF காட்டுவதும்\V_VM_VNG புகழ்வதும்\V_VM_VNG பிரபு\N_NNP தேவாவை\N_NNP .\RD_PUNC
+TMED973	கொலவெறி\N_NN பாடல்\N_NN தனுஷுக்கு\N_NNP நல்ல\JJ பிரகாசமான\JJ விளம்பரத்தை\N_NN பாலிவுட்டில்\RD_RDF தந்திருக்கிறது\V_VAUX
+TMED974	இரு\QT_QTC பாலிவுட்\RD_RDF படங்களில்\N_NN அவர்\PR_PRP நடிக்கிறார்\V_VM_VF
+TMED975	அதில்\PR_PRP ஒன்று\QT_QTC பரத்பாலா\N_NNP இயக்கும்\JJ படம்\N_NN .\RD_PUNC இது\PR_PRP தமிழ்\N_NN ,\RD_PUNC இந்தியில்\N_NN வெளியாகிறது\V_VM .\RD_PUNC தமிழில்\N_NN மரியான்\N_NNP என்று\CC_CCS_UT பெயர்\N_NN வைத்திருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED976	நேற்று\N_NST ரவுடி\N_NN ரத்தோர்\N_NN வெளியானது\V_VM_VF .\RD_PUNC பிரபுதேவா\N_NNP இயக்கம்\N_NN ,\RD_PUNC நடிப்பு\N_NN அக்ஷய்குமார்\N_NNP .\RD_PUNC
+TMED977	ராஜமௌலி\N_NNP தெலுங்கில்\N_NN எடுத்த\JJ விக்ரமார்க்குடு\N_NN படத்தின்\N_NN இந்தி\N_NN ரிமேக்\RD_RDF தான்\RP_RPD இந்தப்\DM_DMD படம்\N_NN .\RD_PUNC தமிழ்\N_NN ரிமேக்\RD_RDF சிறுத்தை\N_NN .\RD_PUNC 
+TMED978	மீண்டும்\RB பிக்\N_NN பாஸ்\N_NN தொலைக்காட்சி\N_NN நிகழ்ச்சியை\N_NN தொகுத்து\V_VM_VNF வழங்கயிருக்கிறார்\V_VAUX சல்மான்கான்\N_NNP .\RD_PUNC
+TMED979	இது\PR_PRP வரை\PSP பிக்\N_NN பாஸ்\N_NN 5\N_NN சீசன்கள்\RD_RDF முடிந்துள்ளன\V_VAUX .\RD_PUNC 6வது\RD_RDF செஷன்\RD_RDF இந்த\DM_DMD வருட\JJ இறுதியில்\N_NN அதாவது\CC_CCS அக்டோபரில்\N_NN தொடங்கயிருக்கிறது\V_VAUX
+TMED98	இதை\PR_PRP எல்லாம்\N_NN ஒளிஞ்சு\V_VM_VNF நின்னு\V_VM_VNF பார்த்த\V_VM_VNF நரி\N_NN ,\RD_PUNC `\RD_PUNC என்னது\PR_PRQ உழைக்கறதா\V_VM_VF ?\RD_PUNC சே\RP_INJ !\RD_PUNC சே\RP_INJ !\RD_PUNC இந்த\DM_DMD வடை\N_NN புளிக்கும்\N_NN ’\N_NN என்று\CC_CCS_UT சொல்லிட்டுப்\V_VM_VNF போயிடுச்சு\V_VM_VF
+TMED980	இதையும்\PR_PRP சல்மான்கானே\N_NNP நடத்தயிருக்கிறார்\V_VAUX .\RD_PUNC
+TMED981	பிப்ரவரியில்\N_NN குழந்தை\N_NN பெற்றுக்\V_VM_VNF கொண்ட\JJ லாரா\N_NNP தத்தா\N_NNP சில\QT_QTF மாதங்கள்\N_NN கழிந்தே\V_VM_VNF நடிப்புக்கு\N_NN திரும்புவேன்\V_VM_VNF என்று\CC_CCS_UT கூறியிருந்தார்\V_VAUX .\RD_PUNC
+TMED982	அதன்படி\N_NN விரைவில்\RB நடிப்புக்கு\N_NN திரும்புகிறார்\V_VM_VF .\RD_PUNC இவர்\PR_PRP முதலில்\QT_QTO கால்ஷீட்\RD_RDF தந்திருக்கும்\V_VM_VNF படம்\N_NN டேவிட்\N_NNP .\RD_PUNC
+TMED983	சைஃப்\N_NNP அலிகான்\N_NNP ,\RD_PUNC கரீனா\N_NNP கபூர்\N_NNP திருமணம்\N_NN கன்னித்தீவாக\RB இழுத்துக்\V_VM_VNF கொண்டே\V_VM_VNF போகிறது\V_VM .\RD_PUNC இந்த\DM_DMD வருடம்\N_NN பிப்ரவரியில்\N_NN இதற்கு\PR_PRP முற்றுப்புள்ளி\N_NN வைத்துவிடுவோம்\V_VM_VNF என்றார்கள்\V_VM_VF .\RD_PUNC நடக்கவில்லை\V_VAUX .\RD_PUNC
+TMED984	ஐஸ்வர்யாராய்\N_NNP தான்\RP_RPD இப்போது\N_NST மீடியாக்களின்\RD_RDF மையம்\N_NN .\RD_PUNC
+TMED985	குழந்தை\N_NN பிறந்த\V_VM_VNF பிறகு\PSP ஐஸ்வர்யாராய்\N_NNP குண்டாகிவிட்டார்\V_VAUX ,\RD_PUNC அவர்\PR_PRP எப்படி\PR_PRQ குண்டாகலாம்\V_VM_VNF என்று\CC_CCS_UT மீடியாக்களும்\RD_RDF ,\RD_PUNC ரசிகர்களும்\N_NN எகிறி\V_VM_VNF அடிக்க\V_VM_VNF ஆரம்பித்திருக்கிறார்கள்\V_VAUX .\RD_PUNC
+TMED986	கதை\N_NN பேசுவோம்\V_VM_VNF ``\RD_PUNC என்று\CC_CCS_UT ஒரு\JJ கலந்துரையாடல்\N_NN நிகழ்ச்சியை\N_NN டிஸ்கவரி\RD_RDF புக்\RD_RDF பேலஸ்\RD_RDF வேடியப்பன்\N_NNP அவர்கள்\PR_PRP எழுத்தாளர்\N_NNV எஸ்\RD_RDF .\RD_PUNC ராமகிருஷ்ணன்\N_NNP அவர்கள்\PR_PRP தலைமையில்\N_NN ஏற்பாடு\N_NN செய்திருந்தார்\V_VAUX .\RD_PUNC
+TMED987	விழாவில்\N_NN அவர்\PR_PRP தேர்வு\N_NN செய்த\JJ நூறு\QT_QTC சிறந்த\JJ சிறுகதைகளில்\N_NN சிறந்த\JJ (\RD_SYM ?\RD_PUNC !\RD_PUNC )\RD_SYM ஐந்து\QT_QTC கதைகளைப்\N_NN பற்றி\PSP விவரித்தார்\V_VM_VF .\RD_PUNC
+TMED988	(\RD_SYM படங்கள்\N_NN மற்றும்\CC_CCD இன்னும்\RB சில\QT_QTF தகவல்கள்\N_NN விரைவில்\RB பதிவேற்றம்\N_NN செய்கிறேன்\V_VM_VF ..\N_NN )\RD_SYM
+TMED989	அவருடைய\PR_PRP உரைக்குப்\N_NN பின்\N_NST எழுத்தாளர்கள்\PR_PRF மற்றும்\CC_CCD பதிவர்கள்\N_NN அவரிடம்\PR_PRP கேள்வி\N_NN கேட்கும்\JJ பகுதி\N_NN இருந்தது\V_VM
+TMED99	கதை\N_NN எப்பூடி\PR_PRQ ?\RD_PUNC `\RD_PUNC `\RD_PUNC என்று\CC_CCS_UT கேட்டார்\V_VM_VF தாத்தா\N_NN .\RD_PUNC
+TMED990	அப்போது\N_NST நான்\PR_PRP அவரிடம்\PR_PRP ``\RD_PUNC எழுத்தாளர்கள்\N_NNV ஒரு\JJ குறிப்பிட்ட\JJ Genreகளில்\QT_QTO மட்டுமே\PSP எழுதுகிறார்கள்\V_VM_VNF ..\N_NN
+TMED991	சுஜாதா\N_NNP என்ற\CC_CCS_UT எழுத்தாளரைப்\N_NNV போல்\PSP வெவ்வேறான\JJ தளங்களைப்\N_NN பற்றி\PSP எழுதுவதில்லையே\V_VAUX .\RD_PUNC அவரைப்\PR_PRP போல்\PSP உலக\JJ எழுத்தாளர்களில்\N_NST யாரேனும்\PR_PRQ உள்ளனரா\V_VM_VNF ``\RD_PUNC என்று\CC_CCS_UT கேட்டேன்\V_VM_VF .\RD_PUNC
+TMED992	என்\PR_PRP கேள்விக்கு\N_NN அவர்\PR_PRP பதிலோ\N_NN திகைக்க\V_VM_VINF வைத்தது\V_VM_VF
+TMED993	``\RD_PUNC சுஜாதா\N_NNP என்பவர்\CC_CCS_UT இலக்கியவாதியே\N_NN அல்ல\V_VM .\RD_PUNC அவர்\PR_PRP ஒரு\JJ சில\QT_QTF பொழுதுபோக்கு\N_NN கதைகள்\N_NN மட்டுமே\PSP எழுதியுள்ளார்\V_VAUX .\RD_PUNC மேலும்\CC_CCD எல்லா\N_NN Genreகளிலும்\RD_RDF அவர்\RD_RDF எழுதினாலும்\V_VM_VNF அவர்\PR_PRP எந்த\DM_DMQ Genreஇலும்\RD_RDF புகழ்\N_NN பெறவில்லை\V_VM_VNF ``\RD_PUNC என்று\CC_CCS_UT கூறினார்\V_VM_VF .\RD_PUNC
+TMED994	இதை\PR_PRP என்\PR_PRP சுஜாதா\N_NNP என்ற\CC_CCS_UT எழுத்தாளரின்\N_NNV எழுத்துகளின்\N_NN பால்\N_NN ஈர்க்கப்பட்ட\JJ என்\PR_PRP போன்றவர்களுக்கு\N_NN அவர்\PR_PRP பேசியது\V_VM_VNF காயப்படுத்துவது\V_VM_VNG போல்\PSP இருந்தது\V_VM .\RD_PUNC இது\PR_PRP குறித்து\V_VM_VNF உங்கள்\PR_PRP கருத்துகளை\N_NN அறிந்து\V_VM_VNF கொள்ள\V_VM_VINF ஆசைப்படுகிறேன்\V_VM_VF ..\RD_PUNC
+TMED995	O\RD_RDF !\RD_PUNC My\RD_RDF God\RD_RDF !\RD_PUNC சத்தியமாக\RB ஏஸ்\RD_RDF .\RD_PUNC ரா\RD_RDF .\RD_PUNC வா\V_VM_VF அப்படிச்\RB சொன்னார்\V_VM_VF ?\RD_PUNC !\RD_PUNC
+TMED996	அவரின்\PR_PRP எழுத்துகளை\N_NN ரசிப்பவர்கள்\N_NNV தான்\RP_RPD நாங்களும்\PR_PRP !\RD_PUNC ஆனால்\CC_CCS ,\RD_PUNC சுஜாதாவின்\N_NNP எழுத்துகளில்\N_NN மிகவும்\RP_INTF ஈர்க்கப்பட்ட\JJ எங்களால்\PR_PRP அவர்\PR_PRP கருத்தை\N_NN ஏற்க\V_VM_VINF முடியவில்லை\V_VAUX !\RD_PUNC
+TMED997	ஈர்க்கப்பட்ட\JJ என்பதை\CC_CCS_UT விட\PSP நாம்\PR_PRP நடு\JJ நிலையாகவே\RB பார்ப்போமே\V_VM_VF !\RD_PUNC எப்படி\RB அவர்\PR_PRP ,\RD_PUNC
+TMED998	சுஜாதா\N_NNP என்பவர்\CC_CCS_UT இலக்கியவாதியே\N_NN அல்ல\V_VM .\RD_PUNC அவர்\PR_PRP ஒரு\JJ சில\QT_QTF பொழுதுபோக்கு\N_NN கதைகள்\N_NN மட்டுமே\PSP எழுதியுள்ளார்\V_VAUX .\RD_PUNC மேலும்\CC_CCD எல்லா\N_NN Genreகளிலும்\RD_RDF அவர்\PR_PRP எழுதினாலும்\JJ அவர்\PR_PRP எந்த\DM_DMQ Genreஇலும்\RD_RDF புகழ்\N_NN பெறவில்லை\V_VAUX ``\RD_PUNC
+TMED999	என்று\CC_CCS_UT சொல்ல\V_VM_VINF முடியும்\V_VAUX ?\RD_PUNC !\RD_PUNC சுஜாதா\N_NNP புகழ்\N_NN பெறவில்லை\V_VM_VNF என்று\CC_CCS_UT எப்படி\RB அவரால்\PR_PRP சொல்ல\N_NN முடிந்தது\N_NN !\RD_PUNC உலகமே\N_NN சுஜாதாவின்\N_NNP எழுத்துக்களில்\N_NN கட்டுண்டுக்\V_VM_VNF கிடந்ததே\V_VM_VF !\RD_PUNC
+TMED1000	ஏன்\N_NNP இப்போதும்\N_NST கூட\PSP !\RD_PUNC அவரைப்\PR_PRP போன்று\PSP ஒரு\JJ அறிவியல்\N_NN சம்பந்தப்பட்ட\JJ கதைகள்\N_NN யாராலும்\PR_PRQ எழுத\V_VM_VINF முடியுமா\V_VAUX ?\RD_PUNC இலக்கியம்\N_NN என்று\CC_CCS_UT எதைச்\PR_PRP சொல்கின்றார்\V_VM_VF ?\RD_PUNC
